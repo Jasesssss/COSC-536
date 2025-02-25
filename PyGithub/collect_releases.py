@@ -1,10 +1,8 @@
 from github import Github
 import pandas as pd
 
-# Authenticate with GitHub API
-g = Github("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")  # Replace with your actual token
+g = Github("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") 
 
-# List of repositories (same as previous steps)
 repo_names = [
     "django/django", "flask/flask", "pallets/werkzeug", "encode/starlette", "fastapi/fastapi",
     "pandas-dev/pandas", "numpy/numpy", "scikit-learn/scikit-learn", "matplotlib/matplotlib",
@@ -20,36 +18,31 @@ repo_names = [
     "arrow-py/arrow", "pendulum/pendulum", "gitpython-developers/GitPython", "redis/redis-py"
 ]
 
-# Initialize list to store release data
 release_data = []
 
-# Fetch release history for each repository
 for name in repo_names:
     try:
-        print(f"Processing releases for {name}...")  # Debug output
+        print(f"Processing releases for {name}...")  
         repo = g.get_repo(name)
-        releases = list(repo.get_releases())  # Convert to list to process all releases
+        releases = list(repo.get_releases())  
         
-        if len(releases) < 2:  # Need at least 2 releases to calculate an interval
+        if len(releases) < 2:  
             print(f"Skipping {name}: Only {len(releases)} releases found")
             continue
         
-        # Get release creation dates (sorted descending by default)
         release_dates = [release.created_at for release in releases]
-        # Calculate intervals (note: releases are newest first, so reverse order for chronological intervals)
         release_intervals = [(release_dates[i] - release_dates[i+1]).days 
                              for i in range(len(release_dates)-1)]
         
-        # Store data (using index as release_id)
         for i, interval in enumerate(release_intervals):
             release_data.append({
                 "repo": name,
-                "release_id": i + 1,  # Start from 1
-                "release_date": release_dates[i+1],  # Use the later date of the pair
+                "release_id": i + 1,  
+                "release_date": release_dates[i+1],  
                 "interval_days": interval
             })
     except Exception as e:
-        print(f"Error with {name}: {e}")  # Catch and report errors
+        print(f"Error with {name}: {e}")  
 
 # Save to CSV
 df_releases = pd.DataFrame(release_data)

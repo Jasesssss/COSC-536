@@ -1,10 +1,8 @@
 from github import Github
 import pandas as pd
 
-# Authenticate with GitHub API (replace with your token)
-g = Github("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")  # Replace with your actual token
+g = Github("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")  
 
-# List of repositories
 repo_names = [
     "django/django", "flask/flask", "pallets/werkzeug", "encode/starlette", "fastapi/fastapi",
     "pandas-dev/pandas", "numpy/numpy", "scikit-learn/scikit-learn", "matplotlib/matplotlib",
@@ -20,11 +18,10 @@ repo_names = [
     "arrow-py/arrow", "pendulum/pendulum", "gitpython-developers/GitPython", "redis/redis-py"
 ]
 
-# Store metadata
 repo_data = []
 for name in repo_names:
     try:
-        print(f"Fetching: {name}")  # Debug: Show which repo is being processed
+        print(f"Fetching: {name}")  
         repo = g.get_repo(name)
         repo_data.append({
             "name": repo.full_name,
@@ -35,7 +32,7 @@ for name in repo_names:
             "domain": "python"
         })
     except Exception as e:
-        print(f"Error with {name}: {e}")  # Debug: Catch and report the error
+        print(f"Error with {name}: {e}")  
 
 # Save to CSV
 df = pd.DataFrame(repo_data)
