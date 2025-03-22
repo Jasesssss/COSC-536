@@ -7,19 +7,20 @@ g = Github("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")
 
 # List of repositories
 repo_names = [
-    "django/django", "flask/flask", "pallets/werkzeug", "encode/starlette", "fastapi/fastapi",
+    "django/django", "pallets/werkzeug", "encode/starlette", "fastapi/fastapi",
     "pandas-dev/pandas", "numpy/numpy", "scikit-learn/scikit-learn", "matplotlib/matplotlib",
     "pytorch/pytorch", "tensorflow/tensorflow", "huggingface/transformers", "dask/dask",
     "statsmodels/statsmodels", "seaborn/seaborn", "psf/requests", "kennethreitz/certifi",
     "pyinstaller/pyinstaller", "ansible/ansible", "fabric/fabric", "pytest-dev/pytest",
-    "tox-dev/tox", "python/mypy", "pypa/pip", "pypa/setuptools", "psf/black", "flake8/flake8",
+    "tox-dev/tox", "python/mypy", "pypa/pip", "pypa/setuptools", "psf/black",
     "scipy/scipy", "sympy/sympy", "biopython/biopython", "paramiko/paramiko", "scrapy/scrapy",
     "urllib3/urllib3", "python-telegram-bot/python-telegram-bot", "pypa/virtualenv",
-    "click-contrib/click", "theacodes/coveragepy", "cookiecutter/cookiecutter", "psycopg/psycopg2",
-    "sqlalchemy/sqlalchemy", "celery/celery", "boto/boto3", "home-assistant/core",
-    "saltstack/salt", "jupyter/notebook", "python-poetry/poetry", "rq/rq", "pyca/cryptography",
-    "arrow-py/arrow", "pendulum/pendulum", "gitpython-developers/GitPython", "redis/redis-py"
+    "cookiecutter/cookiecutter", "psycopg/psycopg2", "sqlalchemy/sqlalchemy", "celery/celery",
+    "boto/boto3", "home-assistant/core", "saltstack/salt", "jupyter/notebook",
+    "python-poetry/poetry", "rq/rq", "pyca/cryptography", "arrow-py/arrow",
+    "gitpython-developers/GitPython", "redis/redis-py"
 ]
+
 
 MAX_ISSUES = 1000
 issue_counts = []
