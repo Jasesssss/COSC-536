@@ -44,10 +44,10 @@ for idx, name in enumerate(repo_names, start=1):
             "avg_commits_per_week": round(avg_commits, 2)
         })
 
-        print(f"✅ Done in {round(time.time() - start_time, 2)}s")
+        print(f"Done in {round(time.time() - start_time, 2)}s")
 
     except Exception as e:
-        print(f"⚠️ Failed: {e}")
+        print(f"Failed: {e}")
         commit_stats.append({
             "repo": name,
             "avg_commits_per_week": "error"
@@ -55,4 +55,4 @@ for idx, name in enumerate(repo_names, start=1):
 
 # Save to CSV
 pd.DataFrame(commit_stats).to_csv("avg_commits_per_week.csv", index=False)
-print("\n✅ Saved to avg_commits_per_week.csv")
+print("\n Saved to avg_commits_per_week.csv")

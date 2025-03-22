@@ -40,7 +40,7 @@ for idx, name in enumerate(repo_names, start=1):
 
         for issue in issues:
             if issue.pull_request is not None:
-                continue  # Skip pull requests
+                continue  
 
             if issue.state == "open":
                 open_count += 1
@@ -59,11 +59,11 @@ for idx, name in enumerate(repo_names, start=1):
         })
 
         elapsed = round(time.time() - start_time, 2)
-        print(f"✅ Done in {elapsed}s")
+        print(f"Done in {elapsed}s")
 
     except Exception as e:
         elapsed = round(time.time() - start_time, 2)
-        print(f"⚠️ Failed in {elapsed}s: {e}")
+        print(f"Failed in {elapsed}s: {e}")
         issue_counts.append({
             "repo": name,
             "open_issues_latest": "error",
@@ -75,5 +75,5 @@ for idx, name in enumerate(repo_names, start=1):
 df = pd.DataFrame(issue_counts)
 df.to_csv("issue_counts_summary.csv", index=False)
 
-print("\n✅ Finished all repositories.")
+print("\n Finished all repositories.")
 print("📄 Results saved to issue_counts_summary.csv")

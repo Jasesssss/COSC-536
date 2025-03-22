@@ -38,10 +38,10 @@ for idx, name in enumerate(repo_names, start=1):
             "repo": name,
             "team_size": count
         })
-        print(f"✅ Done in {round(time.time() - start_time, 2)}s")
+        print(f"Done in {round(time.time() - start_time, 2)}s")
 
     except Exception as e:
-        print(f"⚠️ Failed: {e}")
+        print(f"Failed: {e}")
         team_sizes.append({
             "repo": name,
             "team_size": "error"
@@ -49,4 +49,4 @@ for idx, name in enumerate(repo_names, start=1):
 
 # Save to CSV
 pd.DataFrame(team_sizes).to_csv("team_size.csv", index=False)
-print("\n✅ Saved to team_size.csv")
+print("\n Saved to team_size.csv")
