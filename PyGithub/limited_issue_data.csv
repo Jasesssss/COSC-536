@@ -1,0 +1,2046 @@
+repo,issue_id,created_at,closed_at,state,labels
+pallets/werkzeug,3032,2025-03-10 12:14:05+00:00,,open,[]
+pallets/werkzeug,3009,2024-11-16 17:57:01+00:00,,open,[]
+pallets/werkzeug,3007,2024-11-13 02:10:57+00:00,,open,[]
+pallets/werkzeug,3005,2024-11-11 16:20:40+00:00,,open,[]
+pallets/werkzeug,3000,2024-11-11 07:56:51+00:00,,open,[]
+pallets/werkzeug,2924,2024-07-16 06:02:35+00:00,,open,[]
+pallets/werkzeug,1309,2018-05-21 14:04:50+00:00,,open,['debugger']
+pallets/werkzeug,3035,2025-04-04 18:32:58+00:00,2025-04-04 18:46:31+00:00,closed,[]
+pallets/werkzeug,3033,2025-03-17 21:12:41+00:00,2025-03-17 22:29:01+00:00,closed,[]
+pallets/werkzeug,3028,2025-02-18 17:03:56+00:00,2025-02-18 17:10:11+00:00,closed,[]
+pallets/werkzeug,3027,2025-02-18 16:59:12+00:00,2025-02-18 17:13:46+00:00,closed,[]
+pallets/werkzeug,3025,2025-01-29 19:33:16+00:00,2025-01-29 20:38:46+00:00,closed,[]
+pallets/werkzeug,3023,2025-01-27 10:59:36+00:00,2025-01-27 16:32:10+00:00,closed,[]
+pallets/werkzeug,3019,2025-01-22 14:35:05+00:00,2025-01-31 22:05:39+00:00,closed,[]
+pallets/werkzeug,3003,2024-11-11 14:59:37+00:00,2024-11-11 15:17:37+00:00,closed,[]
+pallets/werkzeug,3002,2024-11-11 09:18:03+00:00,2024-11-11 15:50:56+00:00,closed,[]
+pallets/werkzeug,2999,2024-11-08 18:07:26+00:00,2024-11-10 00:34:16+00:00,closed,[]
+pallets/werkzeug,2996,2024-11-07 09:12:25+00:00,2024-11-07 14:36:48+00:00,closed,[]
+pallets/werkzeug,2994,2024-11-06 14:49:37+00:00,2024-11-06 19:56:23+00:00,closed,[]
+pallets/werkzeug,2993,2024-11-06 05:05:41+00:00,2024-11-07 16:34:30+00:00,closed,[]
+pallets/werkzeug,2989,2024-11-04 13:02:44+00:00,2024-11-04 17:14:54+00:00,closed,[]
+pallets/werkzeug,2988,2024-11-04 06:12:39+00:00,2024-11-04 16:03:22+00:00,closed,[]
+pallets/werkzeug,2985,2024-11-01 08:50:47+00:00,2024-11-01 16:43:37+00:00,closed,[]
+pallets/werkzeug,2982,2024-10-31 12:26:20+00:00,2024-10-31 16:42:37+00:00,closed,[]
+pallets/werkzeug,2980,2024-10-30 04:08:41+00:00,2024-10-31 03:37:58+00:00,closed,[]
+pallets/werkzeug,2977,2024-10-30 00:31:47+00:00,2024-10-30 02:40:14+00:00,closed,[]
+pallets/werkzeug,2976,2024-10-30 00:27:28+00:00,2024-10-30 00:44:58+00:00,closed,[]
+pallets/werkzeug,2973,2024-10-29 18:53:21+00:00,2024-10-30 00:18:06+00:00,closed,[]
+pallets/werkzeug,2972,2024-10-28 15:34:37+00:00,2024-10-28 15:42:54+00:00,closed,[]
+pallets/werkzeug,2970,2024-10-27 23:44:16+00:00,2024-10-29 23:33:37+00:00,closed,[]
+pallets/werkzeug,2969,2024-10-27 23:42:23+00:00,2024-10-27 23:48:12+00:00,closed,[]
+pallets/werkzeug,2968,2024-10-27 23:06:12+00:00,2024-10-30 00:01:08+00:00,closed,[]
+encode/starlette,2912,2025-03-20 10:36:26+00:00,,open,[]
+encode/starlette,2893,2025-02-28 21:40:36+00:00,,open,[]
+encode/starlette,2766,2024-11-25 13:26:32+00:00,,open,[]
+encode/starlette,2726,2024-10-13 16:42:12+00:00,,open,[]
+encode/starlette,2673,2024-08-27 12:30:25+00:00,,open,[]
+encode/starlette,2390,2023-12-29 09:34:59+00:00,,open,['feature']
+encode/starlette,2155,2023-05-26 09:18:53+00:00,,open,['feature']
+encode/starlette,2019,2023-01-27 19:49:14+00:00,,open,['need confirmation']
+encode/starlette,1921,2022-10-25 09:16:13+00:00,,open,"['documentation', 'good first issue']"
+encode/starlette,1855,2022-09-10 06:51:53+00:00,,open,['need confirmation']
+encode/starlette,1832,2022-08-29 05:40:54+00:00,,open,"['cors', 'help wanted', 'good first issue']"
+encode/starlette,1315,2021-10-17 12:16:01+00:00,,open,['testclient']
+encode/starlette,1102,2020-11-25 14:20:09+00:00,,open,"['feature', 'testclient']"
+encode/starlette,869,2020-03-20 11:07:31+00:00,,open,[]
+encode/starlette,843,2020-02-21 16:01:08+00:00,,open,[]
+encode/starlette,734,2019-11-25 16:29:09+00:00,,open,"['feature', 'help wanted']"
+encode/starlette,705,2019-11-06 13:43:29+00:00,,open,[]
+encode/starlette,685,2019-10-22 21:35:35+00:00,,open,['feature']
+encode/starlette,649,2019-09-30 13:04:19+00:00,,open,[]
+encode/starlette,51,2018-08-29 10:45:55+00:00,,open,[]
+encode/starlette,2906,2025-03-13 19:09:12+00:00,2025-03-16 12:18:02+00:00,closed,[]
+encode/starlette,2875,2025-02-21 12:20:51+00:00,2025-02-22 12:35:08+00:00,closed,[]
+encode/starlette,2873,2025-02-17 16:03:01+00:00,2025-03-08 08:04:19+00:00,closed,['need confirmation']
+encode/starlette,2845,2025-01-09 12:22:52+00:00,2025-02-22 13:42:27+00:00,closed,[]
+fastapi/fastapi,13533,2025-03-24 10:13:27+00:00,,open,['bug']
+fastapi/fastapi,13440,2025-03-01 17:19:44+00:00,2025-03-01 22:40:52+00:00,closed,['bug']
+pandas-dev/pandas,61247,2025-04-07 19:46:37+00:00,,open,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61245,2025-04-07 17:32:22+00:00,,open,"['Bug', 'Needs Triage']"
+pandas-dev/pandas,61242,2025-04-07 15:06:16+00:00,,open,[]
+pandas-dev/pandas,61232,2025-04-04 16:27:25+00:00,,open,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61231,2025-04-04 15:34:54+00:00,,open,"['Bug', 'Apply', 'Arrow']"
+pandas-dev/pandas,61230,2025-04-04 15:32:05+00:00,,open,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61223,2025-04-03 11:15:33+00:00,,open,"['Bug', 'Indexing', 'Needs Discussion']"
+pandas-dev/pandas,61221,2025-04-03 00:54:08+00:00,,open,"['Bug', 'Reshaping', 'ExtensionArray']"
+pandas-dev/pandas,61218,2025-04-02 15:53:10+00:00,,open,"['Usage Question', 'Needs Info']"
+pandas-dev/pandas,61210,2025-04-01 16:11:39+00:00,,open,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61209,2025-03-31 15:36:49+00:00,,open,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61208,2025-03-31 15:19:29+00:00,,open,"['Bug', 'Error Reporting', 'Timestamp']"
+pandas-dev/pandas,61206,2025-03-31 08:18:12+00:00,,open,"['Bug', 'Regression', 'Error Reporting', 'Numeric Operations']"
+pandas-dev/pandas,61204,2025-03-31 02:39:29+00:00,,open,"['Bug', 'Missing-data', 'Reduction Operations']"
+pandas-dev/pandas,61194,2025-03-28 17:13:59+00:00,,open,"['Enhancement', 'IO Excel']"
+pandas-dev/pandas,61191,2025-03-27 22:27:30+00:00,,open,"['Bug', 'Indexing', 'Needs Discussion']"
+pandas-dev/pandas,61188,2025-03-27 09:24:05+00:00,,open,"['Bug', 'Datetime', 'good first issue']"
+pandas-dev/pandas,61186,2025-03-27 01:57:03+00:00,,open,"['Bug', 'IO Excel']"
+pandas-dev/pandas,61180,2025-03-26 11:02:00+00:00,,open,"['Missing-data', 'Performance', 'Needs Info']"
+pandas-dev/pandas,61177,2025-03-25 12:21:20+00:00,,open,"['Bug', 'Datetime', 'Dtype Conversions', 'Period', 'Needs Discussion']"
+pandas-dev/pandas,61172,2025-03-24 03:07:45+00:00,,open,"['Bug', 'IO CSV', 'Closing Candidate']"
+pandas-dev/pandas,61170,2025-03-23 20:08:19+00:00,,open,"['Bug', 'IO JSON']"
+pandas-dev/pandas,61166,2025-03-22 10:36:03+00:00,,open,"['Enhancement', 'Filters', 'Sorting']"
+pandas-dev/pandas,61164,2025-03-21 21:26:28+00:00,,open,"['Enhancement', 'Reshaping', 'Needs Discussion', 'Needs Info']"
+pandas-dev/pandas,61161,2025-03-21 19:34:07+00:00,,open,"['Bug', 'Visualization']"
+pandas-dev/pandas,61160,2025-03-21 18:19:54+00:00,,open,"['Enhancement', 'Groupby', 'Needs Discussion']"
+pandas-dev/pandas,61224,2025-04-03 11:30:41+00:00,2025-04-03 15:12:31+00:00,closed,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61222,2025-04-03 10:37:17+00:00,2025-04-07 16:55:10+00:00,closed,"['Bug', 'Resample', 'Arrow']"
+pandas-dev/pandas,61217,2025-04-02 14:12:08+00:00,2025-04-03 02:51:31+00:00,closed,"['Bug', 'Needs Triage']"
+pandas-dev/pandas,61213,2025-04-02 02:20:50+00:00,2025-04-02 02:38:39+00:00,closed,"['Bug', 'Needs Triage']"
+pandas-dev/pandas,61196,2025-03-28 21:49:48+00:00,2025-03-29 12:30:42+00:00,closed,"['Bug', 'Datetime', 'Warnings']"
+pandas-dev/pandas,61189,2025-03-27 15:38:25+00:00,2025-03-28 20:44:37+00:00,closed,"['Bug', 'Algos', 'Strings']"
+pandas-dev/pandas,61187,2025-03-27 03:16:47+00:00,2025-03-31 02:16:58+00:00,closed,"['Bug', 'Missing-data', 'Needs Info', 'Reduction Operations']"
+pandas-dev/pandas,61182,2025-03-26 16:35:55+00:00,2025-04-04 09:59:28+00:00,closed,"['Bug', 'Missing-data', 'Strings', 'Needs Discussion', 'Closing Candidate']"
+pandas-dev/pandas,61179,2025-03-26 07:57:42+00:00,2025-03-26 19:26:41+00:00,closed,"['Bug', 'Missing-data', 'Timestamp']"
+pandas-dev/pandas,61175,2025-03-25 10:14:20+00:00,2025-03-31 16:52:37+00:00,closed,"['Bug', 'expressions']"
+pandas-dev/pandas,61169,2025-03-23 17:23:42+00:00,2025-03-24 16:35:22+00:00,closed,"['Enhancement', 'Needs Triage']"
+pandas-dev/pandas,61165,2025-03-21 23:39:25+00:00,2025-03-22 11:19:36+00:00,closed,"['Bug', 'Datetime', 'IO Parquet']"
+pandas-dev/pandas,61159,2025-03-21 05:11:25+00:00,2025-03-22 11:36:51+00:00,closed,"['Bug', 'setops', 'Non-Nano']"
+pandas-dev/pandas,61153,2025-03-20 10:12:53+00:00,2025-03-26 13:44:36+00:00,closed,"['Bug', 'Build', 'Upstream issue']"
+pandas-dev/pandas,61141,2025-03-17 20:26:18+00:00,2025-03-19 12:34:58+00:00,closed,"['Bug', 'Missing-data', 'Strings']"
+pandas-dev/pandas,61139,2025-03-17 14:27:48+00:00,2025-03-19 13:59:25+00:00,closed,"['Docs', 'Closing Candidate']"
+numpy/numpy,28655,2025-04-05 15:58:56+00:00,,open,[]
+numpy/numpy,28651,2025-04-04 21:30:03+00:00,,open,['00 - Bug']
+numpy/numpy,28648,2025-04-04 14:44:22+00:00,,open,"['00 - Bug', 'component: numpy.f2py']"
+numpy/numpy,28642,2025-04-03 18:43:50+00:00,,open,[]
+numpy/numpy,28641,2025-04-03 17:17:11+00:00,,open,['41 - Static typing']
+numpy/numpy,28639,2025-04-03 15:19:23+00:00,,open,['00 - Bug']
+numpy/numpy,28636,2025-04-03 13:28:44+00:00,,open,"['00 - Bug', 'triage review']"
+numpy/numpy,28630,2025-04-02 19:01:17+00:00,,open,"['00 - Bug', '57 - Close?', 'Priority: low']"
+numpy/numpy,28629,2025-04-02 17:08:19+00:00,,open,['04 - Documentation']
+numpy/numpy,28628,2025-04-02 16:09:14+00:00,,open,"['00 - Bug', '57 - Close?', 'Priority: low']"
+numpy/numpy,28625,2025-04-02 11:01:59+00:00,,open,"['04 - Documentation', '40 - array API standard']"
+numpy/numpy,28614,2025-04-01 02:30:20+00:00,,open,['04 - Documentation']
+numpy/numpy,28605,2025-03-29 17:35:11+00:00,,open,"['00 - Bug', 'component: numpy.f2py']"
+numpy/numpy,28602,2025-03-28 19:44:26+00:00,,open,['00 - Bug']
+numpy/numpy,28598,2025-03-27 21:18:09+00:00,,open,[]
+numpy/numpy,28596,2025-03-27 19:08:31+00:00,,open,"['00 - Bug', 'component: numpy.datetime64']"
+numpy/numpy,28592,2025-03-27 08:48:46+00:00,,open,[]
+numpy/numpy,28589,2025-03-26 00:19:14+00:00,,open,['00 - Bug']
+numpy/numpy,28578,2025-03-24 16:12:58+00:00,,open,"['component: CI', '39 - free-threading']"
+numpy/numpy,28559,2025-03-19 03:25:32+00:00,,open,['04 - Documentation']
+numpy/numpy,28551,2025-03-18 15:02:49+00:00,,open,['00 - Bug']
+numpy/numpy,28549,2025-03-18 02:15:58+00:00,,open,[]
+numpy/numpy,28548,2025-03-17 21:09:29+00:00,,open,"['57 - Close?', 'component: SIMD']"
+numpy/numpy,28496,2025-03-13 21:03:34+00:00,,open,['00 - Bug']
+numpy/numpy,28665,2025-04-07 15:38:25+00:00,2025-04-07 16:37:19+00:00,closed,"['41 - Static typing', '40 - array API standard']"
+numpy/numpy,28658,2025-04-06 10:25:36+00:00,2025-04-06 13:36:14+00:00,closed,['00 - Bug']
+numpy/numpy,28656,2025-04-06 03:18:21+00:00,2025-04-06 13:26:26+00:00,closed,['00 - Bug']
+numpy/numpy,28652,2025-04-04 21:46:38+00:00,2025-04-04 22:32:33+00:00,closed,[]
+numpy/numpy,28620,2025-04-01 21:24:20+00:00,2025-04-02 02:57:42+00:00,closed,['component: numpy.random']
+numpy/numpy,28613,2025-04-01 01:05:15+00:00,2025-04-01 06:56:25+00:00,closed,['component: numpy.lib']
+numpy/numpy,28609,2025-03-31 12:16:10+00:00,2025-04-04 07:35:07+00:00,closed,['00 - Bug']
+numpy/numpy,28606,2025-03-31 02:33:20+00:00,2025-03-31 02:35:12+00:00,closed,[]
+numpy/numpy,28604,2025-03-28 23:39:31+00:00,2025-03-30 10:58:57+00:00,closed,['01 - Enhancement']
+numpy/numpy,28603,2025-03-28 20:07:12+00:00,2025-04-01 08:09:14+00:00,closed,['00 - Bug']
+numpy/numpy,28599,2025-03-28 00:26:07+00:00,2025-03-31 19:05:36+00:00,closed,['00 - Bug']
+numpy/numpy,28584,2025-03-25 10:22:25+00:00,2025-03-25 12:27:24+00:00,closed,[]
+scikit-learn/scikit-learn,31158,2025-04-07 10:12:34+00:00,,open,"['New Feature', 'Needs Decision - Include Feature']"
+scikit-learn/scikit-learn,31149,2025-04-04 20:08:35+00:00,,open,['Bug']
+scikit-learn/scikit-learn,31133,2025-04-02 14:02:28+00:00,,open,"['New Feature', 'Needs Decision - Include Feature']"
+scikit-learn/scikit-learn,31129,2025-04-02 10:23:00+00:00,,open,['Documentation']
+scikit-learn/scikit-learn,31128,2025-04-02 04:44:40+00:00,,open,['Bug']
+scikit-learn/scikit-learn,31123,2025-04-01 12:37:00+00:00,,open,"['Build / CI', 'Needs Investigation']"
+scikit-learn/scikit-learn,31098,2025-03-28 09:41:18+00:00,,open,"['Bug', 'Build / CI']"
+scikit-learn/scikit-learn,31093,2025-03-27 16:08:00+00:00,,open,['Bug']
+scikit-learn/scikit-learn,31091,2025-03-27 07:45:52+00:00,,open,['RFC']
+scikit-learn/scikit-learn,31077,2025-03-26 10:12:18+00:00,,open,['Bug']
+scikit-learn/scikit-learn,31073,2025-03-26 03:34:58+00:00,,open,"['New Feature', 'Needs Reproducible Code']"
+scikit-learn/scikit-learn,31059,2025-03-24 11:29:39+00:00,,open,"['Bug', 'Needs Info']"
+scikit-learn/scikit-learn,31051,2025-03-21 22:43:24+00:00,,open,['Bug']
+scikit-learn/scikit-learn,31049,2025-03-21 13:15:28+00:00,,open,['RFC']
+scikit-learn/scikit-learn,31039,2025-03-20 21:03:27+00:00,,open,"['Documentation', 'RFC']"
+scikit-learn/scikit-learn,31143,2025-04-03 16:30:32+00:00,2025-04-07 17:48:33+00:00,closed,"['New Feature', 'Needs Decision - Include Feature']"
+scikit-learn/scikit-learn,31131,2025-04-02 13:09:43+00:00,2025-04-04 12:46:53+00:00,closed,['Documentation']
+scikit-learn/scikit-learn,31110,2025-03-31 02:34:14+00:00,2025-03-31 06:01:25+00:00,closed,['Build / CI']
+matplotlib/matplotlib,29883,2025-04-07 16:42:31+00:00,,open,['Release critical']
+matplotlib/matplotlib,29882,2025-04-07 12:45:02+00:00,,open,['third-party integration']
+matplotlib/matplotlib,29878,2025-04-06 14:22:17+00:00,,open,"['New feature', 'topic: mplot3d']"
+matplotlib/matplotlib,29874,2025-04-06 08:27:11+00:00,,open,[]
+matplotlib/matplotlib,29866,2025-04-03 19:33:12+00:00,,open,"['New feature', 'topic: text/fonts']"
+matplotlib/matplotlib,29863,2025-04-03 12:00:58+00:00,,open,['New feature']
+matplotlib/matplotlib,29860,2025-04-03 10:56:43+00:00,,open,['API: argument checking']
+matplotlib/matplotlib,29856,2025-04-02 07:56:41+00:00,,open,"['status: confirmed bug', 'topic: animation', 'status: needs comment/discussion']"
+matplotlib/matplotlib,29854,2025-04-01 19:24:54+00:00,,open,['Build']
+matplotlib/matplotlib,29852,2025-04-01 18:23:59+00:00,,open,"['status: confirmed bug', 'Build']"
+matplotlib/matplotlib,29849,2025-04-01 12:27:51+00:00,,open,['Maintenance']
+matplotlib/matplotlib,29844,2025-04-01 10:05:06+00:00,,open,['Maintenance']
+matplotlib/matplotlib,29825,2025-03-28 17:58:20+00:00,,open,[]
+matplotlib/matplotlib,29822,2025-03-28 15:34:50+00:00,,open,['Maintenance']
+matplotlib/matplotlib,29815,2025-03-26 23:51:45+00:00,,open,"['topic: mpl_toolkit', 'topic: geometry manager']"
+matplotlib/matplotlib,29813,2025-03-26 23:35:03+00:00,,open,['Maintenance']
+matplotlib/matplotlib,29806,2025-03-25 21:44:30+00:00,,open,['topic: text']
+matplotlib/matplotlib,29797,2025-03-24 00:25:50+00:00,,open,"['OS: Microsoft', 'topic: testing', 'Maintenance']"
+matplotlib/matplotlib,29791,2025-03-21 18:43:11+00:00,,open,"['topic: text/usetex', 'status: has patch']"
+matplotlib/matplotlib,29790,2025-03-21 14:26:01+00:00,,open,['topic: text/usetex']
+matplotlib/matplotlib,29782,2025-03-20 11:15:04+00:00,,open,"['New feature', 'API: changes']"
+matplotlib/matplotlib,29780,2025-03-19 14:19:52+00:00,,open,['status: confirmed bug']
+matplotlib/matplotlib,29778,2025-03-19 00:06:01+00:00,,open,['topic: images']
+matplotlib/matplotlib,29775,2025-03-18 23:35:39+00:00,,open,['Documentation']
+matplotlib/matplotlib,29774,2025-03-18 23:17:10+00:00,,open,['topic: testing']
+matplotlib/matplotlib,29761,2025-03-16 14:21:19+00:00,,open,"['topic: color/alpha', 'topic: color/color & colormaps', 'topic: pcolor/pcolormesh']"
+matplotlib/matplotlib,29743,2025-03-12 13:36:08+00:00,,open,['status: confirmed bug']
+matplotlib/matplotlib,29865,2025-04-03 17:56:23+00:00,2025-04-03 21:13:47+00:00,closed,['Maintenance']
+matplotlib/matplotlib,29864,2025-04-03 17:44:06+00:00,2025-04-04 05:48:06+00:00,closed,[]
+matplotlib/matplotlib,29857,2025-04-02 10:04:46+00:00,2025-04-02 13:04:36+00:00,closed,[]
+matplotlib/matplotlib,29845,2025-04-01 10:14:08+00:00,2025-04-01 18:21:21+00:00,closed,"['Maintenance', 'CI: testing']"
+matplotlib/matplotlib,29837,2025-03-31 00:09:50+00:00,2025-03-31 22:31:09+00:00,closed,[]
+matplotlib/matplotlib,29835,2025-03-30 19:04:49+00:00,2025-03-30 23:21:14+00:00,closed,['status: needs clarification']
+matplotlib/matplotlib,29826,2025-03-29 00:26:39+00:00,2025-04-01 00:02:30+00:00,closed,['New feature']
+matplotlib/matplotlib,29824,2025-03-28 17:35:37+00:00,2025-03-29 00:33:37+00:00,closed,[]
+matplotlib/matplotlib,29812,2025-03-26 23:30:53+00:00,2025-03-27 09:01:15+00:00,closed,['Maintenance']
+matplotlib/matplotlib,29811,2025-03-26 21:56:01+00:00,2025-03-26 23:18:52+00:00,closed,['Community support']
+matplotlib/matplotlib,29809,2025-03-26 14:54:24+00:00,2025-03-28 11:15:21+00:00,closed,['topic: mpl_toolkit']
+matplotlib/matplotlib,29805,2025-03-25 19:05:35+00:00,2025-03-25 19:42:22+00:00,closed,[]
+matplotlib/matplotlib,29802,2025-03-25 00:13:33+00:00,2025-03-25 07:09:37+00:00,closed,['status: upstream fix required']
+pytorch/pytorch,150779,2025-04-07 19:20:57+00:00,,open,"['high priority', 'triage review', 'module: ci', 'module: tests', 'module: regression']"
+pytorch/pytorch,150776,2025-04-07 17:10:28+00:00,,open,[]
+pytorch/pytorch,150775,2025-04-07 17:10:16+00:00,,open,[]
+pytorch/pytorch,150772,2025-04-07 15:42:33+00:00,,open,"['triaged', 'module: flaky-tests', 'skipped', 'module: mta']"
+pytorch/pytorch,150769,2025-04-07 14:20:28+00:00,,open,"['triaged', 'intel', 'module: hpu']"
+pytorch/pytorch,150765,2025-04-07 11:54:56+00:00,,open,"['oncall: pt2', 'module: dynamo', 'dynamo-triage-jan2025']"
+pytorch/pytorch,150757,2025-04-07 08:39:56+00:00,,open,['oncall: pt2']
+pytorch/pytorch,150752,2025-04-07 06:45:16+00:00,,open,"['triaged', 'module: flaky-tests', 'skipped', 'module: mta']"
+pytorch/pytorch,150747,2025-04-07 00:59:18+00:00,,open,"['triaged', 'module: flaky-tests', 'skipped', 'module: mta']"
+pytorch/pytorch,150746,2025-04-06 21:28:07+00:00,,open,"['needs reproduction', 'oncall: quantization', 'oncall: pt2', 'oncall: export']"
+pytorch/pytorch,150745,2025-04-06 20:16:45+00:00,,open,"['module: build', 'module: ci', 'triaged', 'module: nccl']"
+pytorch/pytorch,150742,2025-04-06 14:55:01+00:00,,open,"['module: binaries', 'oncall: releng', 'module: ci', 'enhancement', 'has workaround']"
+pytorch/pytorch,150734,2025-04-05 18:56:15+00:00,,open,"['needs reproduction', 'oncall: distributed']"
+pytorch/pytorch,150725,2025-04-05 06:44:41+00:00,,open,"['module: performance', 'module: nn', 'module: cuda', 'triaged', 'Blackwell']"
+pytorch/pytorch,150756,2025-04-07 07:24:57+00:00,2025-04-07 14:19:46+00:00,closed,"['triaged', 'module: float8']"
+pytorch/pytorch,150743,2025-04-06 17:40:26+00:00,2025-04-07 04:03:35+00:00,closed,[]
+pytorch/pytorch,150741,2025-04-06 14:33:59+00:00,2025-04-07 14:34:47+00:00,closed,[]
+pytorch/pytorch,150733,2025-04-05 13:46:44+00:00,2025-04-06 07:29:18+00:00,closed,"['module: binaries', 'module: cuda', 'triaged']"
+pytorch/pytorch,150724,2025-04-05 04:00:18+00:00,2025-04-05 18:46:51+00:00,closed,"['needs reproduction', 'module: binaries']"
+pytorch/pytorch,150665,2025-04-04 03:19:03+00:00,2025-04-04 21:21:12+00:00,closed,[]
+pytorch/pytorch,150616,2025-04-03 12:35:06+00:00,2025-04-07 17:41:11+00:00,closed,"['triaged', 'module: python frontend']"
+pytorch/pytorch,150615,2025-04-03 12:13:58+00:00,2025-04-04 14:28:09+00:00,closed,[]
+pytorch/pytorch,150610,2025-04-03 09:11:56+00:00,2025-04-07 01:20:58+00:00,closed,"['module: autograd', 'module: optimizer', 'triaged']"
+pytorch/pytorch,150604,2025-04-03 06:50:01+00:00,2025-04-03 08:33:58+00:00,closed,[]
+pytorch/pytorch,150592,2025-04-03 02:00:43+00:00,2025-04-03 23:18:05+00:00,closed,"['module: onnx', 'triaged']"
+tensorflow/tensorflow,90807,2025-04-07 14:30:28+00:00,,open,['type:bug']
+tensorflow/tensorflow,90792,2025-04-07 08:54:10+00:00,,open,['type:bug']
+tensorflow/tensorflow,90790,2025-04-07 08:50:41+00:00,,open,['type:bug']
+tensorflow/tensorflow,90784,2025-04-07 05:27:43+00:00,,open,['type:support']
+tensorflow/tensorflow,90809,2025-04-07 15:33:07+00:00,2025-04-07 18:20:09+00:00,closed,['type:feature']
+tensorflow/tensorflow,90799,2025-04-07 10:17:55+00:00,2025-04-07 18:21:40+00:00,closed,['type:bug']
+tensorflow/tensorflow,90694,2025-04-04 09:42:34+00:00,2025-04-06 02:04:02+00:00,closed,"['type:bug', 'invalid']"
+tensorflow/tensorflow,90586,2025-04-03 21:04:12+00:00,2025-04-05 11:11:20+00:00,closed,['type:support']
+huggingface/transformers,37351,2025-04-07 18:08:05+00:00,,open,['bug']
+huggingface/transformers,37345,2025-04-07 14:08:53+00:00,,open,['Feature request']
+huggingface/transformers,37339,2025-04-07 09:33:30+00:00,,open,['bug']
+huggingface/transformers,37334,2025-04-07 06:23:44+00:00,,open,['New model']
+huggingface/transformers,37333,2025-04-07 06:17:01+00:00,,open,['bug']
+huggingface/transformers,37326,2025-04-06 18:22:12+00:00,,open,['bug']
+huggingface/transformers,37325,2025-04-06 16:40:52+00:00,,open,"['Usage', 'bug']"
+huggingface/transformers,37322,2025-04-06 08:56:04+00:00,,open,['bug']
+huggingface/transformers,37321,2025-04-06 08:55:44+00:00,,open,['bug']
+huggingface/transformers,37316,2025-04-06 01:58:14+00:00,,open,['Feature request']
+huggingface/transformers,37314,2025-04-06 00:21:47+00:00,,open,['bug']
+huggingface/transformers,37311,2025-04-05 22:48:37+00:00,,open,[]
+huggingface/transformers,37303,2025-04-05 07:24:53+00:00,,open,['bug']
+huggingface/transformers,37302,2025-04-05 06:51:58+00:00,,open,['bug']
+huggingface/transformers,37301,2025-04-05 04:44:28+00:00,,open,['bug']
+huggingface/transformers,37300,2025-04-05 04:23:28+00:00,,open,['bug']
+huggingface/transformers,37299,2025-04-05 00:51:34+00:00,,open,['bug']
+huggingface/transformers,37296,2025-04-04 22:43:23+00:00,,open,[]
+huggingface/transformers,37293,2025-04-04 21:00:57+00:00,,open,['WIP']
+huggingface/transformers,37265,2025-04-03 21:36:41+00:00,,open,[]
+huggingface/transformers,37336,2025-04-07 08:39:49+00:00,2025-04-07 12:14:02+00:00,closed,[]
+huggingface/transformers,37323,2025-04-06 09:32:26+00:00,2025-04-07 07:21:12+00:00,closed,['bug']
+huggingface/transformers,37317,2025-04-06 04:27:50+00:00,2025-04-06 05:59:52+00:00,closed,['bug']
+huggingface/transformers,37288,2025-04-04 15:58:32+00:00,2025-04-07 14:34:39+00:00,closed,[]
+huggingface/transformers,37287,2025-04-04 15:52:29+00:00,2025-04-07 14:34:57+00:00,closed,[]
+huggingface/transformers,37286,2025-04-04 15:42:59+00:00,2025-04-07 14:34:33+00:00,closed,[]
+huggingface/transformers,37269,2025-04-04 07:18:16+00:00,2025-04-05 05:29:39+00:00,closed,['bug']
+huggingface/transformers,37238,2025-04-03 08:23:59+00:00,2025-04-03 12:12:02+00:00,closed,['bug']
+dask/dask,11872,2025-04-06 13:19:06+00:00,,open,['needs triage']
+dask/dask,11865,2025-04-02 18:29:08+00:00,,open,['needs triage']
+dask/dask,11864,2025-04-02 15:51:24+00:00,,open,['needs triage']
+dask/dask,11854,2025-03-31 01:53:11+00:00,,open,['needs triage']
+dask/dask,11853,2025-03-29 03:24:32+00:00,,open,['needs triage']
+dask/dask,11850,2025-03-26 05:07:54+00:00,,open,['needs triage']
+dask/dask,11838,2025-03-21 10:02:52+00:00,,open,['documentation']
+dask/dask,11833,2025-03-18 17:03:36+00:00,,open,['needs triage']
+dask/dask,11832,2025-03-18 14:23:19+00:00,,open,['needs triage']
+dask/dask,11831,2025-03-18 11:39:57+00:00,,open,"['array', 'discussion', 'p2', 'feature']"
+dask/dask,11830,2025-03-17 17:46:08+00:00,,open,['needs triage']
+dask/dask,11829,2025-03-14 09:37:58+00:00,,open,['needs triage']
+dask/dask,11827,2025-03-12 17:03:40+00:00,,open,['needs triage']
+dask/dask,11825,2025-03-12 03:20:19+00:00,,open,['needs triage']
+dask/dask,11816,2025-03-06 14:23:14+00:00,,open,['needs triage']
+dask/dask,11815,2025-03-05 14:31:58+00:00,,open,"['dataframe', 'bug']"
+dask/dask,11806,2025-03-04 12:17:05+00:00,,open,['needs triage']
+dask/dask,11800,2025-02-28 16:52:57+00:00,,open,"['array', 'bug']"
+dask/dask,11798,2025-02-27 19:44:52+00:00,,open,['needs triage']
+dask/dask,11789,2025-02-27 04:08:28+00:00,,open,"['documentation', 'discussion']"
+dask/dask,11785,2025-02-26 13:00:04+00:00,,open,['needs triage']
+dask/dask,11778,2025-02-25 03:13:16+00:00,,open,"['array', 'io', 'needs attention', 'enhancement']"
+dask/dask,11768,2025-02-20 19:50:49+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11758,2025-02-18 12:53:45+00:00,,open,"['dataframe', 'documentation']"
+dask/dask,11753,2025-02-17 16:01:52+00:00,,open,"['array', 'bug']"
+dask/dask,11735,2025-02-07 17:45:43+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11730,2025-02-07 11:46:23+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11718,2025-02-05 20:11:06+00:00,,open,"['scheduler', 'needs attention', 'bug']"
+dask/dask,11716,2025-02-05 16:24:46+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11715,2025-02-05 11:13:41+00:00,,open,"['dataframe', 'needs attention', 'bug']"
+dask/dask,11711,2025-01-31 19:56:11+00:00,,open,"['array', 'needs attention']"
+dask/dask,11708,2025-01-31 01:20:19+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11693,2025-01-23 12:06:41+00:00,,open,"['array', 'needs attention']"
+dask/dask,11686,2025-01-21 01:27:54+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11679,2025-01-17 22:27:22+00:00,,open,"['dataframe', 'needs attention', 'bug', 'dask-expr']"
+dask/dask,11672,2025-01-14 23:22:36+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11671,2025-01-14 20:18:01+00:00,,open,"['dataframe', 'needs attention', 'bug']"
+dask/dask,11669,2025-01-14 14:29:21+00:00,,open,"['needs attention', 'needs triage']"
+dask/dask,11870,2025-04-04 09:46:50+00:00,2025-04-07 15:04:12+00:00,closed,['upstream']
+dask/dask,11862,2025-04-02 14:21:06+00:00,2025-04-03 11:04:56+00:00,closed,['needs triage']
+dask/dask,11858,2025-04-01 21:10:57+00:00,2025-04-07 15:04:11+00:00,closed,['needs triage']
+dask/dask,11852,2025-03-27 02:02:23+00:00,2025-04-02 07:51:26+00:00,closed,['upstream']
+dask/dask,11851,2025-03-26 14:11:26+00:00,2025-04-01 11:03:46+00:00,closed,"['dataframe', 'dask-expr']"
+dask/dask,11843,2025-03-23 13:55:13+00:00,2025-03-24 09:37:16+00:00,closed,['needs triage']
+dask/dask,11842,2025-03-23 02:01:10+00:00,2025-03-25 14:34:11+00:00,closed,['upstream']
+dask/dask,11839,2025-03-21 10:55:12+00:00,2025-03-21 12:34:27+00:00,closed,['upstream']
+dask/dask,11834,2025-03-20 16:12:09+00:00,2025-03-20 16:29:41+00:00,closed,['needs triage']
+dask/dask,11824,2025-03-12 00:23:51+00:00,2025-03-20 13:31:46+00:00,closed,"['dataframe', 'dask-expr']"
+dask/dask,11820,2025-03-07 11:15:47+00:00,2025-03-07 12:13:05+00:00,closed,['upstream']
+dask/dask,11811,2025-03-05 12:01:28+00:00,2025-03-05 12:41:11+00:00,closed,['needs triage']
+dask/dask,11809,2025-03-05 01:50:56+00:00,2025-03-05 10:58:24+00:00,closed,['needs triage']
+dask/dask,11805,2025-03-04 07:56:56+00:00,2025-03-05 11:00:55+00:00,closed,['needs triage']
+dask/dask,11804,2025-03-03 18:07:46+00:00,2025-03-05 14:54:31+00:00,closed,['needs triage']
+dask/dask,11802,2025-03-03 15:08:53+00:00,2025-03-04 12:01:02+00:00,closed,['needs triage']
+statsmodels/statsmodels,9556,2025-04-04 16:05:39+00:00,,open,[]
+statsmodels/statsmodels,9549,2025-03-28 12:02:27+00:00,,open,[]
+statsmodels/statsmodels,9540,2025-03-21 18:26:20+00:00,,open,[]
+statsmodels/statsmodels,9538,2025-03-17 16:08:54+00:00,,open,[]
+statsmodels/statsmodels,9537,2025-03-17 15:33:17+00:00,,open,"['type-enh', 'comp-regression', 'comp-panel']"
+statsmodels/statsmodels,9534,2025-03-15 20:53:44+00:00,,open,[]
+statsmodels/statsmodels,9531,2025-03-11 19:37:59+00:00,,open,"['type-enh', 'comp-stats']"
+statsmodels/statsmodels,9530,2025-03-11 12:50:08+00:00,,open,[]
+statsmodels/statsmodels,9529,2025-03-10 17:18:33+00:00,,open,[]
+statsmodels/statsmodels,9528,2025-03-10 15:37:19+00:00,,open,"['prio-high', 'maintenance']"
+statsmodels/statsmodels,9527,2025-03-08 14:27:32+00:00,,open,"['comp-docs', 'comp-regression']"
+statsmodels/statsmodels,9526,2025-03-07 21:36:22+00:00,,open,"['type-enh', 'comp-stats', 'roadmap']"
+statsmodels/statsmodels,9525,2025-03-07 03:30:04+00:00,,open,[]
+statsmodels/statsmodels,9523,2025-03-05 23:07:41+00:00,,open,[]
+statsmodels/statsmodels,9520,2025-02-28 09:54:59+00:00,,open,[]
+statsmodels/statsmodels,9517,2025-02-24 06:05:13+00:00,,open,"['type-bug', 'prio-elev', 'Documentation']"
+statsmodels/statsmodels,9516,2025-02-23 11:45:43+00:00,,open,"['comp-docs', 'comp-regression']"
+statsmodels/statsmodels,9514,2025-02-20 16:52:25+00:00,,open,[]
+statsmodels/statsmodels,9513,2025-02-20 16:19:27+00:00,,open,"['type-enh', 'comp-stats', 'comp-othermod']"
+statsmodels/statsmodels,9511,2025-02-18 18:53:35+00:00,,open,[]
+statsmodels/statsmodels,9509,2025-02-18 17:51:44+00:00,,open,[]
+statsmodels/statsmodels,9508,2025-02-14 22:15:47+00:00,,open,[]
+statsmodels/statsmodels,9507,2025-02-12 20:47:15+00:00,,open,['comp-docs']
+statsmodels/statsmodels,9506,2025-02-12 20:00:49+00:00,,open,"['type-enh', 'comp-genmod', 'comp-regression', 'comp-stats', 'topic-post_estim']"
+statsmodels/statsmodels,9505,2025-02-12 03:24:26+00:00,,open,"['type-enh', 'comp-stats']"
+statsmodels/statsmodels,9502,2025-02-05 17:56:19+00:00,,open,"['comp-genmod', 'topic-covtype', 'comp-survey']"
+statsmodels/statsmodels,9500,2025-02-02 14:10:39+00:00,,open,[]
+statsmodels/statsmodels,9499,2025-02-01 22:29:04+00:00,,open,"['type-enh', 'comp-docs', 'comp-stats']"
+statsmodels/statsmodels,9497,2025-01-30 04:30:20+00:00,,open,"['type-enh', 'comp-stats', 'comp-multivariate']"
+statsmodels/statsmodels,9496,2025-01-29 19:08:55+00:00,,open,"['comp-docs', 'comp-stats']"
+statsmodels/statsmodels,9495,2025-01-29 16:28:09+00:00,,open,"['type-enh', 'comp-stats']"
+statsmodels/statsmodels,9494,2025-01-27 19:54:32+00:00,,open,"['type-enh', 'comp-stats']"
+statsmodels/statsmodels,9491,2025-01-25 20:10:15+00:00,,open,"['type-enh', 'comp-stats', 'type-refactor']"
+statsmodels/statsmodels,9490,2025-01-24 08:33:25+00:00,,open,[]
+statsmodels/statsmodels,9489,2025-01-24 02:54:07+00:00,,open,"['type-enh', 'comp-stats', 'type-cleanup', 'type-refactor']"
+statsmodels/statsmodels,9488,2025-01-22 19:03:53+00:00,,open,"['type-enh', 'comp-stats', 'type-refactor']"
+statsmodels/statsmodels,9486,2025-01-20 22:37:29+00:00,,open,"['type-enh', 'comp-genmod', 'comp-regression', 'topic-diagnostic']"
+statsmodels/statsmodels,9485,2025-01-20 17:09:01+00:00,,open,"['prio-high', 'comp-stats', 'type-bug-wrong']"
+statsmodels/statsmodels,9482,2025-01-19 19:33:10+00:00,,open,"['type-enh', 'comp-base', 'comp-stats']"
+statsmodels/statsmodels,9555,2025-04-03 10:02:51+00:00,2025-04-04 09:14:23+00:00,closed,[]
+statsmodels/statsmodels,9542,2025-03-24 11:00:16+00:00,2025-03-26 08:56:47+00:00,closed,[]
+statsmodels/statsmodels,9539,2025-03-19 08:04:53+00:00,2025-03-20 09:33:02+00:00,closed,[]
+statsmodels/statsmodels,9533,2025-03-14 14:45:38+00:00,2025-03-24 14:24:33+00:00,closed,[]
+statsmodels/statsmodels,9522,2025-03-03 20:02:33+00:00,2025-03-03 22:18:47+00:00,closed,[]
+statsmodels/statsmodels,9521,2025-02-28 14:45:06+00:00,2025-02-28 15:30:29+00:00,closed,[]
+statsmodels/statsmodels,9512,2025-02-20 02:35:17+00:00,2025-02-20 13:52:00+00:00,closed,['duplicate']
+statsmodels/statsmodels,9501,2025-02-03 18:46:45+00:00,2025-02-07 09:36:07+00:00,closed,[]
+statsmodels/statsmodels,9481,2025-01-19 06:38:02+00:00,2025-01-22 10:31:30+00:00,closed,[]
+statsmodels/statsmodels,9464,2024-12-23 15:18:24+00:00,2025-01-09 14:09:39+00:00,closed,"['comp-tsa-statespace', 'question']"
+statsmodels/statsmodels,9463,2024-12-20 06:06:44+00:00,2025-01-22 10:34:54+00:00,closed,[]
+statsmodels/statsmodels,9460,2024-12-17 16:58:01+00:00,2024-12-23 11:42:35+00:00,closed,[]
+statsmodels/statsmodels,9459,2024-12-17 02:47:22+00:00,2025-01-22 10:36:38+00:00,closed,[]
+statsmodels/statsmodels,9455,2024-12-14 16:01:43+00:00,2024-12-16 09:47:15+00:00,closed,[]
+statsmodels/statsmodels,9450,2024-12-11 12:29:41+00:00,2024-12-11 14:14:45+00:00,closed,[]
+statsmodels/statsmodels,9448,2024-12-10 21:27:49+00:00,2025-01-22 10:37:10+00:00,closed,[]
+statsmodels/statsmodels,9446,2024-12-10 09:50:00+00:00,2024-12-10 23:30:58+00:00,closed,[]
+statsmodels/statsmodels,9435,2024-11-22 16:24:41+00:00,2024-11-29 16:13:06+00:00,closed,[]
+statsmodels/statsmodels,9426,2024-11-18 16:57:14+00:00,2024-11-24 09:34:32+00:00,closed,[]
+psf/requests,6928,2025-04-04 22:09:06+00:00,,open,[]
+psf/requests,6917,2025-03-21 08:39:21+00:00,,open,[]
+psf/requests,6910,2025-03-06 10:09:30+00:00,,open,[]
+psf/requests,6900,2025-02-19 12:07:21+00:00,,open,[]
+psf/requests,6890,2025-02-11 17:30:11+00:00,,open,[]
+psf/requests,6885,2025-02-04 18:16:05+00:00,,open,[]
+psf/requests,6877,2025-01-31 16:15:01+00:00,,open,[]
+psf/requests,6868,2025-01-10 02:55:11+00:00,,open,[]
+psf/requests,6859,2024-12-16 22:20:10+00:00,,open,[]
+psf/requests,6831,2024-11-20 03:45:33+00:00,,open,[]
+psf/requests,6830,2024-11-18 17:06:17+00:00,,open,[]
+psf/requests,6828,2024-11-17 13:38:08+00:00,,open,[]
+psf/requests,6813,2024-10-21 05:02:29+00:00,,open,[]
+psf/requests,6810,2024-10-18 10:32:43+00:00,,open,[]
+psf/requests,6808,2024-10-10 22:32:21+00:00,,open,[]
+psf/requests,6793,2024-08-27 10:37:43+00:00,,open,[]
+psf/requests,6790,2024-08-15 12:19:37+00:00,,open,[]
+psf/requests,6784,2024-08-05 07:15:00+00:00,,open,[]
+psf/requests,6782,2024-08-02 17:55:53+00:00,,open,[]
+psf/requests,6777,2024-07-31 11:21:38+00:00,,open,[]
+psf/requests,6922,2025-03-27 03:31:58+00:00,2025-03-27 13:31:57+00:00,closed,[]
+psf/requests,6921,2025-03-24 18:12:38+00:00,2025-03-24 18:12:50+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6915,2025-03-18 15:04:14+00:00,2025-03-18 15:04:25+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6914,2025-03-17 18:16:28+00:00,2025-03-17 20:43:51+00:00,closed,[]
+psf/requests,6912,2025-03-12 10:38:43+00:00,2025-03-12 10:38:53+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6911,2025-03-10 23:12:23+00:00,2025-03-11 00:31:56+00:00,closed,[]
+psf/requests,6908,2025-02-27 06:38:54+00:00,2025-03-13 09:34:12+00:00,closed,[]
+psf/requests,6906,2025-02-23 18:11:10+00:00,2025-02-23 18:11:19+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6905,2025-02-21 11:17:01+00:00,2025-03-03 05:24:43+00:00,closed,[]
+psf/requests,6904,2025-02-21 11:11:03+00:00,2025-02-21 11:11:15+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6903,2025-02-21 00:39:53+00:00,2025-02-21 00:40:05+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6902,2025-02-20 04:33:30+00:00,2025-02-20 04:33:42+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6896,2025-02-16 15:51:42+00:00,2025-02-17 12:40:21+00:00,closed,[]
+psf/requests,6894,2025-02-14 15:28:16+00:00,2025-02-14 15:38:51+00:00,closed,[]
+psf/requests,6893,2025-02-12 12:38:39+00:00,2025-02-12 19:54:09+00:00,closed,['actions/autoclose-qa']
+psf/requests,6892,2025-02-12 12:35:34+00:00,2025-02-12 12:35:43+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6888,2025-02-07 22:20:50+00:00,2025-02-08 13:54:11+00:00,closed,[]
+psf/requests,6887,2025-02-05 12:49:30+00:00,2025-02-05 12:49:40+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6886,2025-02-04 22:06:47+00:00,2025-02-05 00:47:46+00:00,closed,[]
+psf/requests,6878,2025-02-01 18:18:28+00:00,2025-02-01 18:26:04+00:00,closed,[]
+psf/requests,6874,2025-01-26 22:54:29+00:00,2025-01-26 22:54:41+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6872,2025-01-16 18:54:19+00:00,2025-01-28 18:47:37+00:00,closed,[]
+psf/requests,6871,2025-01-15 05:46:49+00:00,2025-01-20 13:15:31+00:00,closed,[]
+psf/requests,6869,2025-01-11 10:01:05+00:00,2025-01-11 10:01:19+00:00,closed,"['Feature Request', 'actions/autoclose-feat']"
+psf/requests,6867,2025-01-06 13:40:01+00:00,2025-01-06 13:40:12+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6862,2024-12-24 14:57:57+00:00,2024-12-24 15:36:29+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6860,2024-12-18 17:36:53+00:00,2024-12-22 22:41:18+00:00,closed,[]
+psf/requests,6858,2024-12-16 09:06:34+00:00,2024-12-16 09:06:46+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6856,2024-12-15 08:59:44+00:00,2025-01-15 15:12:24+00:00,closed,[]
+psf/requests,6855,2024-12-13 21:57:00+00:00,2024-12-13 22:24:45+00:00,closed,[]
+psf/requests,6854,2024-12-12 22:43:46+00:00,2024-12-12 22:43:57+00:00,closed,"['Question/Not a bug', 'actions/autoclose-qa']"
+psf/requests,6838,2024-12-05 09:59:06+00:00,2024-12-06 16:00:54+00:00,closed,[]
+kennethreitz/certifi,226,2023-05-08 07:33:38+00:00,,open,[]
+kennethreitz/certifi,188,2022-03-11 22:53:02+00:00,,open,[]
+kennethreitz/certifi,72,2017-10-17 23:32:14+00:00,,open,[]
+kennethreitz/certifi,345,2025-03-28 12:32:06+00:00,2025-03-28 13:30:07+00:00,closed,[]
+kennethreitz/certifi,338,2025-02-11 17:53:28+00:00,2025-03-25 01:29:46+00:00,closed,[]
+kennethreitz/certifi,330,2024-12-03 12:14:07+00:00,2024-12-08 13:19:35+00:00,closed,[]
+kennethreitz/certifi,324,2024-10-23 18:13:04+00:00,2024-10-24 10:26:30+00:00,closed,[]
+kennethreitz/certifi,315,2024-09-19 01:50:40+00:00,2024-09-19 01:57:03+00:00,closed,[]
+kennethreitz/certifi,303,2024-08-21 01:03:16+00:00,2024-08-21 01:09:27+00:00,closed,[]
+pyinstaller/pyinstaller,9075,2025-03-26 19:58:00+00:00,,open,[]
+pyinstaller/pyinstaller,9062,2025-03-17 09:17:28+00:00,,open,['triage']
+pyinstaller/pyinstaller,9024,2025-02-12 15:00:04+00:00,,open,"['feature', 'triage']"
+pyinstaller/pyinstaller,8860,2024-11-01 18:59:15+00:00,,open,['feature']
+pyinstaller/pyinstaller,8853,2024-10-27 18:18:05+00:00,,open,['triage']
+pyinstaller/pyinstaller,8851,2024-10-27 09:20:26+00:00,,open,['feature']
+pyinstaller/pyinstaller,8824,2024-10-10 23:17:40+00:00,,open,['kind:support']
+pyinstaller/pyinstaller,8817,2024-10-07 23:14:37+00:00,,open,[]
+pyinstaller/pyinstaller,8784,2024-09-11 23:11:50+00:00,,open,['triage']
+pyinstaller/pyinstaller,8775,2024-09-04 23:13:04+00:00,,open,['triage']
+pyinstaller/pyinstaller,8762,2024-08-27 14:19:11+00:00,,open,[]
+pyinstaller/pyinstaller,8734,2024-08-13 12:18:55+00:00,,open,['feature']
+pyinstaller/pyinstaller,8711,2024-08-04 01:14:44+00:00,,open,['feature']
+pyinstaller/pyinstaller,8579,2024-06-03 18:34:07+00:00,,open,['triage']
+pyinstaller/pyinstaller,8424,2024-04-22 21:41:09+00:00,,open,['feature']
+pyinstaller/pyinstaller,8363,2024-03-18 10:58:18+00:00,,open,['bug']
+pyinstaller/pyinstaller,8338,2024-02-29 08:41:53+00:00,,open,['triage']
+pyinstaller/pyinstaller,8269,2024-01-31 10:57:50+00:00,,open,['triage']
+pyinstaller/pyinstaller,8249,2024-01-21 08:45:56+00:00,,open,['bug']
+pyinstaller/pyinstaller,8230,2024-01-13 23:08:40+00:00,,open,"['feature', 'triage']"
+pyinstaller/pyinstaller,8174,2023-12-20 08:32:25+00:00,,open,[]
+pyinstaller/pyinstaller,8161,2023-12-12 07:36:48+00:00,,open,"['feature', 'triage']"
+pyinstaller/pyinstaller,8128,2023-11-26 19:15:10+00:00,,open,['feature']
+pyinstaller/pyinstaller,8111,2023-11-17 17:01:36+00:00,,open,[]
+pyinstaller/pyinstaller,8083,2023-11-08 11:18:57+00:00,,open,['triage']
+pyinstaller/pyinstaller,8074,2023-11-05 15:31:35+00:00,,open,['feature']
+pyinstaller/pyinstaller,8029,2023-10-22 01:16:26+00:00,,open,['triage']
+pyinstaller/pyinstaller,8028,2023-10-21 19:04:13+00:00,,open,[]
+pyinstaller/pyinstaller,8022,2023-10-20 08:07:52+00:00,,open,"['bug', 'not-our-bug']"
+pyinstaller/pyinstaller,8004,2023-10-12 21:59:17+00:00,,open,['feature']
+pyinstaller/pyinstaller,7989,2023-10-07 01:30:02+00:00,,open,['bug']
+pyinstaller/pyinstaller,7969,2023-09-30 13:28:48+00:00,,open,['bug']
+pyinstaller/pyinstaller,7907,2023-08-31 11:18:13+00:00,,open,"['feature', 'triage']"
+pyinstaller/pyinstaller,7816,2023-08-02 04:20:08+00:00,,open,['triage']
+pyinstaller/pyinstaller,7665,2023-05-28 02:16:59+00:00,,open,['triage']
+pyinstaller/pyinstaller,7643,2023-05-18 19:28:20+00:00,,open,['feature']
+pyinstaller/pyinstaller,7624,2023-05-12 09:04:25+00:00,,open,"['bug', 'platform:conda']"
+pyinstaller/pyinstaller,7600,2023-04-27 16:57:11+00:00,,open,[]
+pyinstaller/pyinstaller,7558,2023-04-11 12:18:39+00:00,,open,[]
+pyinstaller/pyinstaller,7524,2023-03-27 16:55:11+00:00,,open,"['area:modulegraph', 'bug']"
+pyinstaller/pyinstaller,7511,2023-03-21 16:10:10+00:00,,open,['feature']
+pyinstaller/pyinstaller,7452,2023-02-21 07:38:14+00:00,,open,[]
+pyinstaller/pyinstaller,7435,2023-02-10 03:48:01+00:00,,open,[]
+pyinstaller/pyinstaller,7415,2023-02-04 15:40:07+00:00,,open,[]
+pyinstaller/pyinstaller,7382,2023-01-19 13:18:08+00:00,,open,['bug']
+pyinstaller/pyinstaller,7355,2022-12-27 13:12:30+00:00,,open,['bug']
+pyinstaller/pyinstaller,9086,2025-04-04 18:34:12+00:00,2025-04-05 09:27:25+00:00,closed,['bug']
+pyinstaller/pyinstaller,9082,2025-04-03 07:28:12+00:00,2025-04-06 23:09:31+00:00,closed,['area:bootloader']
+pyinstaller/pyinstaller,9072,2025-03-25 08:57:26+00:00,2025-03-25 09:51:44+00:00,closed,['triage']
+pyinstaller/pyinstaller,9066,2025-03-21 06:55:42+00:00,2025-04-03 01:04:37+00:00,closed,['state:need info']
+pyinstaller/pyinstaller,9064,2025-03-19 10:00:44+00:00,2025-03-23 00:20:11+00:00,closed,"[""solution:won't fix""]"
+pyinstaller/pyinstaller,9063,2025-03-17 11:43:56+00:00,2025-03-17 11:52:02+00:00,closed,"['feature', 'solution:duplicate']"
+pyinstaller/pyinstaller,9059,2025-03-15 15:22:58+00:00,2025-03-15 17:34:31+00:00,closed,['triage']
+pyinstaller/pyinstaller,9058,2025-03-14 08:24:51+00:00,2025-03-17 02:48:44+00:00,closed,['triage']
+pyinstaller/pyinstaller,9056,2025-03-12 17:44:56+00:00,2025-03-15 13:53:44+00:00,closed,['feature']
+pyinstaller/pyinstaller,9054,2025-03-11 16:16:29+00:00,2025-03-11 18:07:11+00:00,closed,['triage']
+pyinstaller/pyinstaller,9053,2025-03-10 14:07:56+00:00,2025-03-10 15:15:17+00:00,closed,['solution:not enough info']
+pyinstaller/pyinstaller,9052,2025-03-10 12:45:47+00:00,2025-03-12 20:04:42+00:00,closed,['bug']
+pyinstaller/pyinstaller,9049,2025-03-07 22:29:37+00:00,2025-03-08 03:58:39+00:00,closed,['triage']
+pyinstaller/pyinstaller,9047,2025-03-03 13:16:34+00:00,2025-03-10 03:01:59+00:00,closed,['triage']
+pyinstaller/pyinstaller,9034,2025-02-21 01:54:32+00:00,2025-02-21 10:15:28+00:00,closed,['solution:invalid']
+pyinstaller/pyinstaller,9033,2025-02-19 16:03:06+00:00,2025-02-19 21:55:14+00:00,closed,['kind:support']
+pyinstaller/pyinstaller,9032,2025-02-18 11:27:08+00:00,2025-02-18 11:38:26+00:00,closed,[]
+pyinstaller/pyinstaller,9030,2025-02-17 02:40:41+00:00,2025-04-02 18:25:01+00:00,closed,['triage']
+pyinstaller/pyinstaller,9027,2025-02-15 23:07:15+00:00,2025-02-16 00:07:35+00:00,closed,[]
+pyinstaller/pyinstaller,9022,2025-02-11 03:31:52+00:00,2025-03-01 19:16:24+00:00,closed,"['feature', 'triage']"
+pyinstaller/pyinstaller,9020,2025-02-09 16:54:39+00:00,2025-04-06 23:09:32+00:00,closed,[]
+pyinstaller/pyinstaller,9018,2025-02-08 11:48:54+00:00,2025-02-08 14:55:14+00:00,closed,['solution:read the manual']
+pyinstaller/pyinstaller,9017,2025-02-08 09:55:23+00:00,2025-02-09 22:21:11+00:00,closed,['solution:read the manual']
+pyinstaller/pyinstaller,9016,2025-02-06 08:19:11+00:00,2025-04-06 23:34:02+00:00,closed,['kind:support']
+ansible/ansible,84931,2025-04-07 11:38:41+00:00,,open,"['needs_triage', 'bug', 'affects_2.18']"
+ansible/ansible,84926,2025-04-03 17:31:14+00:00,,open,['core-internal']
+ansible/ansible,84924,2025-04-03 13:27:34+00:00,,open,"['needs_info', 'needs_verified']"
+ansible/ansible,84922,2025-04-03 08:54:42+00:00,,open,"['bug', 'P3', 'affects_2.15', 'data_tagging']"
+ansible/ansible,84913,2025-04-01 16:37:04+00:00,,open,['core-internal']
+ansible/ansible,84909,2025-03-29 11:51:57+00:00,,open,"['bug', 'has_pr', 'P3']"
+ansible/ansible,84907,2025-03-28 02:41:24+00:00,,open,"['bug', 'has_pr', 'affects_2.15']"
+ansible/ansible,84905,2025-03-27 12:49:08+00:00,,open,"['module', 'bug', 'affects_2.18']"
+ansible/ansible,84897,2025-03-26 01:09:55+00:00,,open,"['bug', 'affects_2.18']"
+ansible/ansible,84893,2025-03-25 16:35:35+00:00,,open,"['bug', 'P3']"
+ansible/ansible,84880,2025-03-22 18:34:53+00:00,,open,"['waiting_on_contributor', 'module', 'feature']"
+ansible/ansible,84863,2025-03-19 20:01:38+00:00,,open,"['bug', 'has_pr', 'affects_2.18']"
+ansible/ansible,84850,2025-03-18 11:20:18+00:00,,open,"['bug', 'data_tagging']"
+ansible/ansible,84843,2025-03-17 19:15:38+00:00,,open,"['bug', 'has_pr']"
+ansible/ansible,84830,2025-03-14 18:33:30+00:00,,open,"['feature', 'data_tagging', 'fallible_dt']"
+ansible/ansible,84825,2025-03-13 19:06:45+00:00,,open,"['module', 'bug', 'P3', 'needs_verified', 'affects_2.16']"
+ansible/ansible,84822,2025-03-13 13:04:44+00:00,,open,"['module', 'has_pr']"
+ansible/ansible,84818,2025-03-12 17:27:21+00:00,,open,['core-internal']
+ansible/ansible,84817,2025-03-12 15:11:31+00:00,,open,"['waiting_on_contributor', 'module', 'feature']"
+ansible/ansible,84805,2025-03-11 02:15:43+00:00,,open,"['bug', 'data_tagging', 'fallible_dt']"
+ansible/ansible,84803,2025-03-10 20:02:11+00:00,,open,"['module', 'feature', 'needs_verified']"
+ansible/ansible,84799,2025-03-09 12:27:50+00:00,,open,"['bug', 'has_pr', 'data_tagging', 'fallible_dt']"
+ansible/ansible,84793,2025-03-07 17:58:02+00:00,,open,"['module', 'bug', 'needs_verified']"
+ansible/ansible,84790,2025-03-06 21:37:20+00:00,,open,['feature']
+ansible/ansible,84781,2025-03-05 20:19:49+00:00,,open,"['bug', 'has_pr', 'data_tagging', 'fallible_dt']"
+ansible/ansible,84929,2025-04-07 08:55:33+00:00,2025-04-07 11:16:14+00:00,closed,"['needs_triage', 'bug', 'bot_closed', 'affects_2.13']"
+ansible/ansible,84928,2025-04-04 04:45:29+00:00,2025-04-04 14:37:56+00:00,closed,"['module', 'needs_triage', 'bug', 'affects_2.18']"
+ansible/ansible,84910,2025-03-31 06:19:24+00:00,2025-03-31 06:39:48+00:00,closed,"['needs_info', 'needs_template', 'core-internal']"
+ansible/ansible,84908,2025-03-28 19:53:48+00:00,2025-03-28 21:19:17+00:00,closed,"['module', 'bug', 'affects_2.15']"
+ansible/ansible,84906,2025-03-27 15:15:34+00:00,2025-04-01 15:40:01+00:00,closed,['feature']
+ansible/ansible,84899,2025-03-26 16:39:30+00:00,2025-04-01 15:40:43+00:00,closed,['feature']
+ansible/ansible,84889,2025-03-25 14:07:52+00:00,2025-03-25 15:25:00+00:00,closed,"['bug', 'affects_2.16']"
+ansible/ansible,84888,2025-03-25 11:45:01+00:00,2025-03-25 11:48:49+00:00,closed,['bot_closed']
+ansible/ansible,84882,2025-03-24 14:30:33+00:00,2025-03-25 15:21:17+00:00,closed,"['module', 'bug', 'affects_2.15', 'affects_2.18']"
+ansible/ansible,84879,2025-03-21 18:24:14+00:00,2025-03-25 15:14:12+00:00,closed,"['module', 'bug', 'affects_2.18']"
+ansible/ansible,84873,2025-03-20 18:21:25+00:00,2025-03-24 14:37:03+00:00,closed,"['module', 'bug', 'has_pr', 'verified', 'affects_2.14']"
+ansible/ansible,84861,2025-03-19 14:50:25+00:00,2025-03-25 15:07:23+00:00,closed,"['bug', 'has_pr', 'affects_2.16', 'affects_2.18']"
+ansible/ansible,84856,2025-03-19 11:59:43+00:00,2025-03-19 12:04:37+00:00,closed,['bot_closed']
+ansible/ansible,84849,2025-03-18 11:04:03+00:00,2025-03-18 15:20:51+00:00,closed,"['bug', 'has_pr', 'affects_2.18']"
+fabric/fabric,2335,2025-04-01 23:47:24+00:00,,open,"['Bug', 'put()/get()', 'Nonstandard platforms', 'Needs tests']"
+fabric/fabric,2334,2025-04-01 23:00:43+00:00,,open,"['Docs', 'Needs investigation']"
+fabric/fabric,2330,2025-02-19 14:51:26+00:00,,open,[]
+fabric/fabric,2329,2025-02-10 03:56:20+00:00,,open,"['Bug', 'Needs patch']"
+fabric/fabric,2326,2025-01-19 04:23:08+00:00,,open,[]
+fabric/fabric,2325,2025-01-13 20:41:49+00:00,,open,[]
+fabric/fabric,2324,2024-12-11 10:14:49+00:00,,open,"['Support', 'Tests', 'Docs', 'Awaiting feedback']"
+fabric/fabric,2320,2024-11-08 14:59:49+00:00,,open,"['Support', 'Needs investigation', 'Connection']"
+fabric/fabric,2318,2024-10-01 19:08:53+00:00,,open,['Support']
+fabric/fabric,2313,2024-09-09 01:23:03+00:00,,open,['Support']
+fabric/fabric,2306,2024-07-12 05:21:26+00:00,,open,"['Needs investigation', 'Connection']"
+fabric/fabric,2304,2024-06-16 20:38:05+00:00,,open,"['Support', 'Tests']"
+fabric/fabric,2303,2024-05-21 15:18:16+00:00,,open,"['Support', 'Needs investigation', 'ssh_config']"
+fabric/fabric,2302,2024-05-20 17:14:14+00:00,,open,"['Support', 'Awaiting feedback']"
+fabric/fabric,2300,2024-04-14 20:05:35+00:00,,open,"['Needs investigation', 'ssh_config']"
+fabric/fabric,2295,2024-01-26 00:14:14+00:00,,open,['Needs investigation']
+fabric/fabric,2292,2024-01-11 12:12:12+00:00,,open,"['Support', 'Needs investigation']"
+fabric/fabric,2290,2023-11-30 11:07:17+00:00,,open,['Support']
+fabric/fabric,2289,2023-11-16 16:02:06+00:00,,open,"['Support', 'Awaiting feedback']"
+fabric/fabric,2282,2023-10-13 15:32:19+00:00,,open,['Support']
+fabric/fabric,2275,2023-07-01 00:51:02+00:00,,open,['Support']
+fabric/fabric,2273,2023-06-09 15:35:36+00:00,,open,"['Bug', 'Needs investigation', 'Configuration']"
+fabric/fabric,2272,2023-06-09 14:36:05+00:00,,open,"['Support', 'Configuration']"
+fabric/fabric,2271,2023-06-02 18:44:35+00:00,,open,['Needs investigation']
+fabric/fabric,2269,2023-05-16 17:23:35+00:00,,open,"['Support', 'Awaiting feedback']"
+fabric/fabric,2268,2023-05-08 03:42:31+00:00,,open,"['Support', 'Nonstandard platforms']"
+fabric/fabric,2267,2023-05-06 00:30:35+00:00,,open,"['Support', 'Nonstandard platforms', 'Authentication/Keys']"
+fabric/fabric,2264,2023-05-02 10:34:22+00:00,,open,"['Bug', 'Needs investigation', 'Configuration']"
+fabric/fabric,2262,2023-05-01 10:37:42+00:00,,open,['Needs investigation']
+fabric/fabric,2261,2023-05-01 00:12:47+00:00,,open,['Support']
+fabric/fabric,2260,2023-04-18 21:40:46+00:00,,open,['Support']
+fabric/fabric,2259,2023-04-16 13:00:01+00:00,,open,"['Bug', 'Connection']"
+fabric/fabric,2257,2023-03-27 09:28:59+00:00,,open,"['Needs investigation', 'Nonstandard platforms', 'Awaiting feedback']"
+fabric/fabric,2256,2023-03-27 02:32:48+00:00,,open,"['Feature', 'sudo()', 'Needs investigation', 'Needs patch', 'Needs tests', 'Awaiting feedback']"
+fabric/fabric,2255,2023-03-26 09:16:53+00:00,,open,"['Docs', 'Needs investigation']"
+fabric/fabric,2250,2023-03-07 21:22:02+00:00,,open,['Awaiting feedback']
+fabric/fabric,2247,2023-02-25 06:03:30+00:00,,open,"['Support', 'Awaiting feedback']"
+fabric/fabric,2244,2023-02-17 21:10:49+00:00,,open,"['Docs', 'Needs investigation', 'Awaiting feedback']"
+fabric/fabric,2332,2025-03-13 10:15:49+00:00,2025-03-13 10:17:51+00:00,closed,['Invalid']
+fabric/fabric,2323,2024-11-26 09:51:29+00:00,2024-12-12 10:30:45+00:00,closed,"['Support', 'Tasks', 'Decorators']"
+fabric/fabric,2322,2024-11-20 02:26:54+00:00,2024-12-12 10:27:19+00:00,closed,"['Support', 'run()']"
+fabric/fabric,2321,2024-11-09 11:57:12+00:00,2024-12-12 09:47:51+00:00,closed,"['Support', 'Configuration']"
+fabric/fabric,2319,2024-11-01 14:12:17+00:00,2024-12-12 09:44:01+00:00,closed,"['Support', 'sudo()', 'Nonstandard platforms']"
+fabric/fabric,2316,2024-09-10 10:38:02+00:00,2024-09-10 10:38:12+00:00,closed,[]
+fabric/fabric,2315,2024-09-10 10:28:55+00:00,2024-09-10 10:30:06+00:00,closed,['Invalid']
+fabric/fabric,2314,2024-09-09 07:16:38+00:00,2024-09-28 09:39:06+00:00,closed,['Invalid']
+fabric/fabric,2312,2024-09-08 10:01:31+00:00,2024-09-29 09:13:11+00:00,closed,['Support']
+fabric/fabric,2311,2024-08-28 22:11:56+00:00,2024-08-29 07:14:48+00:00,closed,['Invalid']
+fabric/fabric,2310,2024-08-19 16:34:25+00:00,2024-09-29 09:08:55+00:00,closed,"['Support', 'Nonstandard platforms']"
+fabric/fabric,2309,2024-08-15 17:39:24+00:00,2024-08-29 07:18:23+00:00,closed,['Support']
+fabric/fabric,2308,2024-07-26 14:37:10+00:00,2024-08-14 16:00:52+00:00,closed,[]
+fabric/fabric,2307,2024-07-16 08:12:26+00:00,2024-08-29 07:21:19+00:00,closed,['Support']
+fabric/fabric,2305,2024-07-11 14:15:38+00:00,2024-09-29 09:18:57+00:00,closed,['Support']
+fabric/fabric,2301,2024-04-23 14:30:08+00:00,2024-09-29 09:23:20+00:00,closed,['Support']
+fabric/fabric,2298,2024-03-24 16:18:49+00:00,2024-04-25 14:46:07+00:00,closed,[]
+fabric/fabric,2296,2024-01-29 02:33:14+00:00,2024-03-28 05:27:26+00:00,closed,[]
+fabric/fabric,2294,2024-01-17 00:53:00+00:00,2024-09-29 09:26:35+00:00,closed,['Support']
+fabric/fabric,2293,2024-01-13 03:14:19+00:00,2024-09-29 09:17:25+00:00,closed,['Support']
+fabric/fabric,2288,2023-11-03 12:19:40+00:00,2023-11-03 12:57:48+00:00,closed,['Invalid']
+fabric/fabric,2287,2023-11-02 01:01:27+00:00,2024-09-29 08:58:33+00:00,closed,"['Support', 'Awaiting feedback']"
+fabric/fabric,2286,2023-10-29 13:38:38+00:00,2024-09-28 10:12:10+00:00,closed,['Invalid']
+fabric/fabric,2285,2023-10-29 13:36:29+00:00,2024-09-28 10:11:52+00:00,closed,[]
+fabric/fabric,2284,2023-10-23 07:08:05+00:00,2024-09-28 10:11:01+00:00,closed,['Invalid']
+fabric/fabric,2283,2023-10-20 04:27:39+00:00,2023-10-20 04:34:12+00:00,closed,[]
+fabric/fabric,2279,2023-09-04 11:28:50+00:00,2024-09-28 10:10:19+00:00,closed,['Support']
+fabric/fabric,2278,2023-08-31 11:25:36+00:00,2024-09-28 09:59:59+00:00,closed,"['Nonstandard platforms', 'Invalid']"
+fabric/fabric,2277,2023-08-18 19:46:54+00:00,2024-09-28 09:58:30+00:00,closed,['Invalid']
+fabric/fabric,2276,2023-08-18 16:00:59+00:00,2023-08-18 20:51:04+00:00,closed,[]
+fabric/fabric,2270,2023-05-26 09:05:28+00:00,2024-08-29 10:10:25+00:00,closed,['Support']
+fabric/fabric,2266,2023-05-03 14:26:57+00:00,2023-06-15 19:35:40+00:00,closed,[]
+fabric/fabric,2265,2023-05-02 15:36:12+00:00,2023-05-22 09:03:22+00:00,closed,[]
+fabric/fabric,2263,2023-05-01 14:28:52+00:00,2023-05-02 21:24:31+00:00,closed,[]
+fabric/fabric,2258,2023-04-10 14:37:13+00:00,2023-04-18 21:20:17+00:00,closed,[]
+fabric/fabric,2252,2023-03-14 19:16:18+00:00,2023-03-24 18:55:27+00:00,closed,"['Support', 'Awaiting feedback']"
+fabric/fabric,2251,2023-03-13 23:34:48+00:00,2023-03-14 00:13:40+00:00,closed,['Invalid']
+fabric/fabric,2246,2023-02-23 11:52:49+00:00,2023-02-28 12:27:25+00:00,closed,[]
+fabric/fabric,2241,2023-01-25 18:03:01+00:00,2023-04-29 17:52:10+00:00,closed,"['Needs investigation', 'Awaiting feedback']"
+fabric/fabric,2240,2023-01-12 19:54:24+00:00,2023-01-13 22:23:51+00:00,closed,[]
+fabric/fabric,2238,2022-12-29 19:04:35+00:00,2023-01-03 15:21:31+00:00,closed,[]
+fabric/fabric,2235,2022-11-30 15:09:51+00:00,2023-03-14 00:15:24+00:00,closed,[]
+fabric/fabric,2234,2022-11-11 15:38:09+00:00,2022-11-15 11:23:47+00:00,closed,[]
+fabric/fabric,2231,2022-10-28 02:28:34+00:00,2023-03-14 00:23:29+00:00,closed,[]
+fabric/fabric,2229,2022-10-03 09:37:26+00:00,2022-10-11 19:22:26+00:00,closed,[]
+fabric/fabric,2226,2022-09-13 21:40:44+00:00,2022-09-13 21:51:49+00:00,closed,[]
+pytest-dev/pytest,13360,2025-04-07 13:29:18+00:00,,open,[]
+pytest-dev/pytest,13355,2025-04-05 11:00:55+00:00,,open,[]
+pytest-dev/pytest,13354,2025-04-04 17:17:33+00:00,,open,[]
+pytest-dev/pytest,13349,2025-04-03 21:24:18+00:00,,open,[]
+pytest-dev/pytest,13331,2025-03-27 19:56:02+00:00,,open,"['type: enhancement', 'topic: fixtures']"
+pytest-dev/pytest,13330,2025-03-27 18:19:24+00:00,,open,"['type: enhancement', 'topic: reporting']"
+pytest-dev/pytest,13327,2025-03-25 18:29:55+00:00,,open,['plugin: doctests']
+pytest-dev/pytest,13326,2025-03-25 01:44:15+00:00,,open,['topic: fixtures']
+pytest-dev/pytest,13324,2025-03-24 08:28:27+00:00,,open,['topic: collection']
+pytest-dev/pytest,13322,2025-03-22 18:54:05+00:00,,open,"['type: bug', 'plugin: capture']"
+pytest-dev/pytest,13319,2025-03-21 13:45:57+00:00,,open,"['type: bug', 'topic: collection']"
+pytest-dev/pytest,13314,2025-03-20 10:59:32+00:00,,open,"['type: bug', 'plugin: pytester']"
+pytest-dev/pytest,13312,2025-03-19 19:21:20+00:00,,open,"['type: bug', 'topic: parametrize', 'topic: collection', 'topic: selection', 'type: regression', 'topic: fixtures']"
+pytest-dev/pytest,13308,2025-03-18 11:45:22+00:00,,open,[]
+pytest-dev/pytest,13305,2025-03-17 17:22:57+00:00,,open,"['type: docs', 'type: infrastructure']"
+pytest-dev/pytest,13304,2025-03-17 11:10:33+00:00,,open,"['type: docs', 'topic: config']"
+pytest-dev/pytest,13296,2025-03-14 11:12:41+00:00,,open,"['platform: windows', 'topic: config']"
+pytest-dev/pytest,13292,2025-03-13 05:56:23+00:00,,open,[]
+pytest-dev/pytest,13286,2025-03-11 11:46:37+00:00,,open,"['topic: reporting', 'type: backward compatibility']"
+pytest-dev/pytest,13284,2025-03-10 14:32:29+00:00,,open,[]
+pytest-dev/pytest,13274,2025-03-06 11:53:46+00:00,,open,[]
+pytest-dev/pytest,13269,2025-03-03 13:34:09+00:00,,open,['status: needs information']
+pytest-dev/pytest,13266,2025-03-02 13:25:00+00:00,,open,['type: docs']
+pytest-dev/pytest,13257,2025-02-28 21:13:25+00:00,,open,[]
+pytest-dev/pytest,13254,2025-02-27 11:32:29+00:00,,open,"['type: bug', 'topic: collection']"
+pytest-dev/pytest,13246,2025-02-22 11:24:52+00:00,,open,"['type: regression', 'topic: config']"
+pytest-dev/pytest,13235,2025-02-18 12:03:45+00:00,,open,"['type: bug', 'topic: parametrize']"
+pytest-dev/pytest,13233,2025-02-17 10:13:58+00:00,,open,"['type: proposal', 'topic: parametrize', 'topic: marks']"
+pytest-dev/pytest,13224,2025-02-15 14:26:55+00:00,,open,"['type: proposal', 'topic: reporting']"
+pytest-dev/pytest,13223,2025-02-13 17:04:33+00:00,,open,['topic: parametrize']
+pytest-dev/pytest,13216,2025-02-11 15:12:40+00:00,,open,['topic: fixtures']
+pytest-dev/pytest,13201,2025-02-07 12:16:16+00:00,,open,['topic: reporting']
+pytest-dev/pytest,13198,2025-02-06 01:41:22+00:00,,open,"['type: enhancement', 'topic: rewrite']"
+pytest-dev/pytest,13194,2025-02-05 08:31:59+00:00,,open,"['type: enhancement', 'plugin: tmpdir']"
+pytest-dev/pytest,13177,2025-01-30 11:13:01+00:00,,open,['type: infrastructure']
+pytest-dev/pytest,13173,2025-01-29 18:19:42+00:00,,open,"['type: proposal', 'topic: config']"
+pytest-dev/pytest,13169,2025-01-28 09:26:04+00:00,,open,"['type: enhancement', 'topic: reporting', 'topic: fixtures']"
+pytest-dev/pytest,13155,2025-01-21 15:35:31+00:00,,open,"['type: docs', 'topic: fixtures']"
+pytest-dev/pytest,13148,2025-01-20 10:56:44+00:00,,open,['type: docs']
+pytest-dev/pytest,13108,2025-01-06 02:21:49+00:00,,open,"['type: proposal', 'topic: fixtures']"
+pytest-dev/pytest,13103,2025-01-04 10:05:35+00:00,,open,"['type: proposal', 'plugin: junitxml']"
+pytest-dev/pytest,13072,2024-12-17 14:57:37+00:00,,open,"['type: proposal', 'topic: reporting', 'good first issue']"
+pytest-dev/pytest,13059,2024-12-14 12:31:51+00:00,,open,['type: proposal']
+pytest-dev/pytest,13055,2024-12-12 15:36:58+00:00,,open,"['type: proposal', 'topic: parametrize']"
+pytest-dev/pytest,13351,2025-04-04 09:15:30+00:00,2025-04-04 10:04:39+00:00,closed,[]
+pytest-dev/pytest,13350,2025-04-03 22:52:38+00:00,2025-04-04 17:11:54+00:00,closed,[]
+pytest-dev/pytest,13344,2025-04-02 14:59:33+00:00,2025-04-02 14:59:41+00:00,closed,[]
+pytest-dev/pytest,13334,2025-03-29 13:17:24+00:00,2025-03-31 13:18:57+00:00,closed,['status: needs information']
+pytest-dev/pytest,13321,2025-03-21 15:29:33+00:00,2025-03-23 07:38:15+00:00,closed,[]
+pytest-dev/pytest,13310,2025-03-18 19:24:29+00:00,2025-03-18 20:44:39+00:00,closed,[]
+pytest-dev/pytest,13298,2025-03-15 18:36:06+00:00,2025-03-21 07:22:54+00:00,closed,[]
+pytest-dev/pytest,13290,2025-03-12 12:39:47+00:00,2025-03-13 12:15:04+00:00,closed,['status: help wanted']
+pytest-dev/pytest,13288,2025-03-12 10:08:05+00:00,2025-03-15 05:28:59+00:00,closed,[]
+pytest-dev/pytest,13287,2025-03-11 13:40:57+00:00,2025-03-21 07:27:48+00:00,closed,[]
+tox-dev/tox,3512,2025-04-04 14:47:58+00:00,,open,[]
+tox-dev/tox,3510,2025-03-30 01:06:48+00:00,,open,[]
+tox-dev/tox,3508,2025-03-28 17:36:51+00:00,,open,"['feature:new', 'help:wanted']"
+tox-dev/tox,3504,2025-03-22 03:37:21+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3498,2025-03-17 15:19:44+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3497,2025-03-17 11:45:36+00:00,,open,['bug:minor']
+tox-dev/tox,3489,2025-03-04 11:50:49+00:00,,open,"['bug:minor', 'help:wanted']"
+tox-dev/tox,3485,2025-02-19 09:31:09+00:00,,open,"['bug:minor', 'help:wanted']"
+tox-dev/tox,3483,2025-02-15 18:34:58+00:00,,open,"['area:documentation', 'help:wanted']"
+tox-dev/tox,3475,2025-01-30 15:04:35+00:00,,open,"['area:documentation', 'help:wanted']"
+tox-dev/tox,3473,2025-01-28 11:39:51+00:00,,open,['help:wanted']
+tox-dev/tox,3472,2025-01-28 00:34:18+00:00,,open,"['bug:minor', 'help:wanted']"
+tox-dev/tox,3468,2024-12-10 17:31:01+00:00,,open,"['feature:new', 'help:wanted']"
+tox-dev/tox,3457,2024-12-06 06:42:37+00:00,,open,['help:wanted']
+tox-dev/tox,3449,2024-11-19 10:33:49+00:00,,open,"['area:documentation', 'area:plugins-hooks']"
+tox-dev/tox,3447,2024-11-18 14:45:49+00:00,,open,[]
+tox-dev/tox,3445,2024-11-15 05:57:59+00:00,,open,[]
+tox-dev/tox,3433,2024-10-31 03:21:17+00:00,,open,[]
+tox-dev/tox,3423,2024-10-22 16:27:52+00:00,,open,['enhancement']
+tox-dev/tox,3414,2024-10-20 15:36:08+00:00,,open,['enhancement']
+tox-dev/tox,3413,2024-10-19 17:49:14+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3412,2024-10-18 08:14:43+00:00,,open,['help:wanted']
+tox-dev/tox,3403,2024-10-11 23:55:14+00:00,,open,"['area:documentation', 'level:easy', 'help:wanted']"
+tox-dev/tox,3402,2024-10-10 09:37:15+00:00,,open,"['level:easy', 'help:wanted', 'enhancement']"
+tox-dev/tox,3398,2024-10-07 21:24:10+00:00,,open,"['area:documentation', 'level:easy', 'help:wanted']"
+tox-dev/tox,3396,2024-10-07 20:55:48+00:00,,open,['help:wanted']
+tox-dev/tox,3393,2024-10-04 09:56:56+00:00,,open,"['area:documentation', 'help:wanted']"
+tox-dev/tox,3391,2024-10-04 06:01:05+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3348,2024-09-21 19:49:52+00:00,,open,[]
+tox-dev/tox,3343,2024-09-13 13:12:48+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3336,2024-08-30 10:11:21+00:00,,open,[]
+tox-dev/tox,3335,2024-08-29 13:40:38+00:00,,open,"['bug:minor', 'help:wanted']"
+tox-dev/tox,3334,2024-08-28 14:25:35+00:00,,open,"['help:wanted', 'enhancement']"
+tox-dev/tox,3331,2024-08-23 10:10:45+00:00,,open,[]
+tox-dev/tox,3330,2024-08-20 19:14:57+00:00,,open,"['bug:normal', 'help:wanted']"
+tox-dev/tox,3326,2024-08-13 18:34:58+00:00,,open,[]
+tox-dev/tox,3322,2024-08-11 13:29:24+00:00,,open,[]
+tox-dev/tox,3320,2024-08-10 20:51:50+00:00,,open,['enhancement']
+tox-dev/tox,3314,2024-08-03 13:28:33+00:00,,open,[]
+tox-dev/tox,3310,2024-07-18 11:24:58+00:00,,open,['enhancement']
+tox-dev/tox,3294,2024-06-14 14:45:46+00:00,,open,[]
+tox-dev/tox,3290,2024-06-07 15:07:17+00:00,,open,[]
+tox-dev/tox,3280,2024-05-08 14:30:10+00:00,,open,[]
+tox-dev/tox,3276,2024-05-02 02:04:15+00:00,,open,[]
+tox-dev/tox,3270,2024-04-23 21:19:29+00:00,,open,[]
+tox-dev/tox,3266,2024-04-11 11:28:06+00:00,,open,[]
+tox-dev/tox,3254,2024-03-26 10:59:15+00:00,,open,"['bug:minor', 'level:hard', 'help:wanted']"
+tox-dev/tox,3238,2024-03-07 11:23:48+00:00,,open,"['bug:minor', 'level:hard', 'help:wanted']"
+tox-dev/tox,3224,2024-02-17 22:30:23+00:00,,open,['help:wanted']
+tox-dev/tox,3506,2025-03-27 00:03:56+00:00,2025-03-28 15:18:01+00:00,closed,['enhancement']
+tox-dev/tox,3502,2025-03-20 12:28:54+00:00,2025-03-28 06:02:57+00:00,closed,['enhancement']
+tox-dev/tox,3501,2025-03-19 08:37:23+00:00,2025-03-19 13:41:03+00:00,closed,[]
+tox-dev/tox,3494,2025-03-06 07:42:36+00:00,2025-03-06 08:10:29+00:00,closed,[]
+tox-dev/tox,3493,2025-03-05 14:45:45+00:00,2025-03-06 21:28:52+00:00,closed,"['bug:minor', 'help:wanted']"
+tox-dev/tox,3492,2025-03-05 10:02:23+00:00,2025-03-05 14:28:03+00:00,closed,[]
+tox-dev/tox,3474,2025-01-29 18:36:07+00:00,2025-03-06 22:18:17+00:00,closed,"['help:wanted', 'enhancement']"
+tox-dev/tox,3467,2025-01-16 18:18:06+00:00,2025-01-16 18:23:39+00:00,closed,[]
+tox-dev/tox,3465,2025-01-03 14:56:10+00:00,2025-01-16 16:49:48+00:00,closed,"['needs:discussion', 'help:wanted']"
+tox-dev/tox,3456,2024-12-05 23:14:16+00:00,2025-02-15 18:20:36+00:00,closed,[]
+tox-dev/tox,3455,2024-12-04 10:06:32+00:00,2024-12-10 14:24:00+00:00,closed,[]
+tox-dev/tox,3444,2024-11-14 02:23:20+00:00,2024-11-18 14:46:19+00:00,closed,[]
+tox-dev/tox,3443,2024-11-13 11:45:24+00:00,2024-11-13 11:52:48+00:00,closed,['enhancement']
+tox-dev/tox,3442,2024-11-12 15:45:25+00:00,2024-11-12 23:26:53+00:00,closed,['enhancement']
+python/mypy,18896,2025-04-07 19:18:32+00:00,,open,"['bug', 'topic-enum']"
+python/mypy,18895,2025-04-07 17:23:32+00:00,,open,['crash']
+python/mypy,18894,2025-04-07 14:42:10+00:00,,open,['bug']
+python/mypy,18893,2025-04-07 13:47:59+00:00,,open,"['topic-incremental', 'crash', 'topic-daemon']"
+python/mypy,18891,2025-04-07 08:50:25+00:00,,open,"['bug', 'topic-reachability']"
+python/mypy,18886,2025-04-05 13:18:23+00:00,,open,"['crash', 'topic-stubgen']"
+python/mypy,18877,2025-04-03 19:19:48+00:00,,open,['question']
+python/mypy,18869,2025-04-01 15:55:48+00:00,,open,['bug']
+python/mypy,18866,2025-04-01 08:51:36+00:00,,open,"['bug', 'topic-enum', 'topic-match-statement', 'topic-runtime-semantics']"
+python/mypy,18864,2025-03-31 23:52:16+00:00,,open,"['bug', 'topic-type-variables']"
+python/mypy,18862,2025-03-31 21:15:15+00:00,,open,"['bug', 'topic-type-alias']"
+python/mypy,18859,2025-03-31 03:40:54+00:00,,open,"['feature', 'topic-configuration']"
+python/mypy,18855,2025-03-30 16:40:28+00:00,,open,"['bug', 'topic-error-reporting']"
+python/mypy,18842,2025-03-26 18:47:19+00:00,,open,"['bug', 'topic-type-alias']"
+python/mypy,18837,2025-03-24 21:33:10+00:00,,open,"['bug', 'topic-type-variables']"
+python/mypy,18833,2025-03-24 15:31:55+00:00,,open,"['bug', 'topic-match-statement']"
+python/mypy,18830,2025-03-22 06:39:28+00:00,,open,"['bug', 'topic-join-v-union']"
+python/mypy,18826,2025-03-21 05:25:47+00:00,,open,"['bug', 'topic-type-context']"
+python/mypy,18817,2025-03-19 12:52:00+00:00,,open,"['bug', 'topic-type-context']"
+python/mypy,18816,2025-03-19 11:34:15+00:00,,open,"['bug', 'topic-type-variables', 'topic-type-context']"
+python/mypy,18812,2025-03-17 21:16:18+00:00,,open,"['bug', 'topic-pep-696']"
+python/mypy,18811,2025-03-17 18:14:19+00:00,,open,"['bug', 'topic-stubtest']"
+python/mypy,18809,2025-03-17 11:49:09+00:00,,open,"['feature', 'topic-configuration']"
+python/mypy,18807,2025-03-16 20:08:26+00:00,,open,"['bug', 'topic-type-narrowing']"
+python/mypy,18805,2025-03-15 17:13:48+00:00,,open,"['bug', 'topic-type-context']"
+python/mypy,18804,2025-03-15 08:51:57+00:00,,open,"['bug', 'topic-typed-dict']"
+python/mypy,18800,2025-03-13 15:56:24+00:00,,open,['feature']
+python/mypy,18796,2025-03-12 23:43:01+00:00,,open,['bug']
+python/mypy,18795,2025-03-12 23:41:24+00:00,,open,"['bug', 'topic-error-reporting', 'topic-async']"
+python/mypy,18794,2025-03-12 21:30:30+00:00,,open,['feature']
+python/mypy,18792,2025-03-12 07:37:00+00:00,,open,"['bug', 'topic-match-statement', 'topic-reachability']"
+python/mypy,18790,2025-03-11 23:32:24+00:00,,open,"['bug', 'good-second-issue']"
+python/mypy,18786,2025-03-11 14:16:40+00:00,,open,"['bug', 'topic-enum']"
+python/mypy,18783,2025-03-11 12:38:33+00:00,,open,"['bug', 'good-second-issue', 'topic-calls']"
+python/mypy,18779,2025-03-10 16:17:42+00:00,,open,"['bug', 'topic-union-types']"
+python/mypy,18890,2025-04-05 20:16:44+00:00,2025-04-05 20:30:18+00:00,closed,['bug']
+python/mypy,18879,2025-04-04 11:46:24+00:00,2025-04-04 13:06:02+00:00,closed,['bug']
+python/mypy,18875,2025-04-03 11:48:18+00:00,2025-04-04 15:03:03+00:00,closed,"['bug', 'topic-enum', 'topic-match-statement']"
+python/mypy,18873,2025-04-02 16:26:45+00:00,2025-04-02 16:57:32+00:00,closed,['bug']
+python/mypy,18872,2025-04-02 09:30:24+00:00,2025-04-02 18:42:36+00:00,closed,['feature']
+python/mypy,18863,2025-03-31 21:23:54+00:00,2025-04-07 13:01:31+00:00,closed,"['bug', 'topic-match-statement', 'topic-dataclasses']"
+python/mypy,18856,2025-03-30 21:50:47+00:00,2025-03-31 00:29:51+00:00,closed,"['bug', 'crash', 'topic-pep-646']"
+python/mypy,18851,2025-03-29 03:05:03+00:00,2025-03-29 03:23:26+00:00,closed,"['bug', 'topic-typed-dict']"
+python/mypy,18843,2025-03-26 21:12:42+00:00,2025-03-26 21:31:18+00:00,closed,"['bug', 'topic-paramspec']"
+python/mypy,18841,2025-03-26 15:46:22+00:00,2025-03-26 16:51:15+00:00,closed,['feature']
+python/mypy,18839,2025-03-25 15:47:16+00:00,2025-03-25 18:01:38+00:00,closed,['bug']
+python/mypy,18836,2025-03-24 19:01:14+00:00,2025-03-24 23:24:23+00:00,closed,"['bug', 'topic-usability', 'topic-configuration']"
+python/mypy,18827,2025-03-21 13:02:16+00:00,2025-03-21 13:07:11+00:00,closed,['bug']
+python/mypy,18824,2025-03-20 21:06:10+00:00,2025-03-21 00:48:26+00:00,closed,['bug']
+pypa/pip,13317,2025-04-05 11:59:03+00:00,,open,['type: deprecation']
+pypa/pip,13307,2025-03-28 01:11:18+00:00,,open,"['state: needs discussion', 'type: feature request']"
+pypa/pip,13305,2025-03-27 02:40:56+00:00,,open,"['type: docs', 'state: awaiting PR']"
+pypa/pip,13302,2025-03-25 21:01:03+00:00,,open,"['C: logging', 'type: feature request']"
+pypa/pip,13300,2025-03-24 22:03:55+00:00,,open,"['state: awaiting PR', 'type: feature request']"
+pypa/pip,13299,2025-03-24 20:40:36+00:00,,open,"['state: awaiting PR', 'type: feature request']"
+pypa/pip,13292,2025-03-20 15:04:42+00:00,,open,['type: support']
+pypa/pip,13289,2025-03-19 15:12:54+00:00,,open,"['type: bug', 'project: vendored dependency']"
+pypa/pip,13288,2025-03-19 14:24:30+00:00,,open,"['type: bug', 'C: network connectivity']"
+pypa/pip,13281,2025-03-16 03:15:00+00:00,,open,"['C: dependency resolution', 'C: error messages']"
+pypa/pip,13279,2025-03-14 03:27:05+00:00,,open,"['type: bug', 'C: configuration']"
+pypa/pip,13271,2025-03-07 14:43:12+00:00,,open,['type: support']
+pypa/pip,13263,2025-03-05 23:43:01+00:00,,open,"['C: dependency resolution', 'type: feature request']"
+pypa/pip,13260,2025-03-04 03:23:07+00:00,,open,['type: bug']
+pypa/pip,13250,2025-02-28 14:15:01+00:00,,open,"['type: feature request', 'S: needs triage']"
+pypa/pip,13236,2025-02-23 17:52:30+00:00,,open,[]
+pypa/pip,13226,2025-02-20 21:25:22+00:00,,open,"['type: bug', 'C: constraint', 'state: awaiting PR', 'UX', 'C: error messages', 'C: output']"
+pypa/pip,13224,2025-02-16 19:58:26+00:00,,open,"['type: bug', 'C: target']"
+pypa/pip,13222,2025-02-14 21:05:02+00:00,,open,"['type: bug', 'C: PEP 517 impact', 'state: needs eyes']"
+pypa/pip,13221,2025-02-14 15:02:07+00:00,,open,"['state: needs discussion', 'type: feature request']"
+pypa/pip,13212,2025-02-08 03:37:05+00:00,,open,"['type: bug', 'S: needs triage']"
+pypa/pip,13208,2025-02-06 18:49:09+00:00,,open,"['type: bug', 'S: awaiting response', 'S: needs triage']"
+pypa/pip,13207,2025-02-06 13:44:31+00:00,,open,"['state: awaiting PR', 'type: feature request']"
+pypa/pip,13204,2025-02-04 18:14:00+00:00,,open,"['kind: crash', 'S: awaiting response', 'C: error messages']"
+pypa/pip,13200,2025-02-02 23:01:53+00:00,,open,"['type: feature request', 'resolution: needs standard']"
+pypa/pip,13196,2025-01-31 17:59:07+00:00,,open,"['type: maintenance', 'type: question']"
+pypa/pip,13188,2025-01-28 16:57:53+00:00,,open,"['type: feature request', 'S: needs triage']"
+pypa/pip,13185,2025-01-27 00:11:17+00:00,,open,['type: maintenance']
+pypa/pip,13165,2025-01-14 18:14:47+00:00,,open,"['state: needs discussion', 'type: feature request']"
+pypa/pip,13162,2025-01-12 22:20:37+00:00,,open,"['type: feature request', 'S: needs triage']"
+pypa/pip,13157,2025-01-12 15:43:02+00:00,,open,['type: deprecation']
+pypa/pip,13150,2025-01-10 05:10:26+00:00,,open,"['type: bug', 'S: needs triage']"
+pypa/pip,13147,2025-01-08 17:33:01+00:00,,open,"['state: awaiting PR', 'C: error messages']"
+pypa/pip,13320,2025-04-05 19:08:57+00:00,2025-04-06 14:28:27+00:00,closed,['type: support']
+pypa/pip,13314,2025-04-04 17:49:41+00:00,2025-04-05 13:03:26+00:00,closed,"['type: deprecation', 'C: build logic']"
+pypa/pip,13312,2025-04-01 04:16:03+00:00,2025-04-05 19:56:32+00:00,closed,['type: support']
+pypa/pip,13311,2025-04-01 00:51:31+00:00,2025-04-03 12:44:44+00:00,closed,['type: support']
+pypa/pip,13301,2025-03-25 08:06:19+00:00,2025-03-25 08:46:38+00:00,closed,"['type: bug', 'S: needs triage']"
+pypa/pip,13296,2025-03-22 06:15:44+00:00,2025-03-27 02:34:06+00:00,closed,"['type: bug', 'resolution: duplicate', 'state: awaiting PR']"
+pypa/pip,13295,2025-03-21 01:56:34+00:00,2025-03-21 14:36:53+00:00,closed,['type: support']
+pypa/pip,13290,2025-03-20 11:56:10+00:00,2025-03-28 22:47:38+00:00,closed,"['type: feature request', 'S: needs triage']"
+pypa/pip,13287,2025-03-18 20:25:14+00:00,2025-03-20 20:32:47+00:00,closed,['type: support']
+pypa/pip,13286,2025-03-17 16:25:18+00:00,2025-03-17 19:48:51+00:00,closed,"['type: bug', 'S: needs triage']"
+pypa/pip,13285,2025-03-17 15:59:32+00:00,2025-03-19 21:57:46+00:00,closed,['type: support']
+pypa/pip,13283,2025-03-16 13:10:48+00:00,2025-03-16 14:19:41+00:00,closed,"['type: bug', 'S: needs triage']"
+pypa/pip,13277,2025-03-12 23:09:40+00:00,2025-03-13 20:17:34+00:00,closed,['type: support']
+pypa/pip,13267,2025-03-06 16:05:59+00:00,2025-03-29 01:10:43+00:00,closed,"['C: dependency resolution', 'C: error messages']"
+pypa/pip,13264,2025-03-06 12:01:07+00:00,2025-03-06 13:26:20+00:00,closed,"['type: bug', 'S: needs triage']"
+pypa/pip,13262,2025-03-04 20:54:05+00:00,2025-03-04 21:09:43+00:00,closed,"['type: bug', 'resolution: duplicate']"
+pypa/pip,13261,2025-03-04 18:10:39+00:00,2025-03-04 18:11:24+00:00,closed,[]
+pypa/pip,13259,2025-03-03 19:49:36+00:00,2025-03-03 21:24:43+00:00,closed,['resolution: wrong project']
+pypa/pip,13254,2025-03-02 12:15:22+00:00,2025-03-04 10:27:08+00:00,closed,['type: feature request']
+pypa/setuptools,4941,2025-04-07 07:26:49+00:00,,open,"['Needs Triage', 'documentation']"
+pypa/setuptools,4940,2025-04-04 17:20:23+00:00,,open,[]
+pypa/setuptools,4938,2025-04-04 15:35:56+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4937,2025-04-03 16:12:29+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4936,2025-04-03 13:41:34+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4935,2025-04-03 11:33:06+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4934,2025-04-02 11:59:15+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4928,2025-03-29 05:30:06+00:00,,open,[]
+pypa/setuptools,4926,2025-03-27 16:58:17+00:00,,open,"['enhancement', 'help wanted']"
+pypa/setuptools,4924,2025-03-27 08:06:53+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4921,2025-03-25 21:34:40+00:00,,open,[]
+pypa/setuptools,4920,2025-03-25 19:45:33+00:00,,open,"['enhancement', 'proposal', 'Needs Discussion', 'Long Term']"
+pypa/setuptools,4919,2025-03-25 14:13:36+00:00,,open,['question']
+pypa/setuptools,4917,2025-03-24 20:02:00+00:00,,open,"['question', 'proposal', 'Needs Discussion']"
+pypa/setuptools,4916,2025-03-24 19:39:37+00:00,,open,[]
+pypa/setuptools,4915,2025-03-24 19:33:17+00:00,,open,[]
+pypa/setuptools,4913,2025-03-24 18:18:25+00:00,,open,[]
+pypa/setuptools,4903,2025-03-20 19:31:52+00:00,,open,"['enhancement', 'help wanted', 'documentation']"
+pypa/setuptools,4887,2025-03-17 11:00:33+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4873,2025-03-10 08:48:41+00:00,,open,"['Needs Triage', 'distutils deprecation']"
+pypa/setuptools,4859,2025-02-27 15:03:37+00:00,,open,"['Needs Triage', 'documentation']"
+pypa/setuptools,4850,2025-02-22 14:10:50+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4847,2025-02-22 12:55:28+00:00,,open,[]
+pypa/setuptools,4845,2025-02-21 10:07:59+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4843,2025-02-19 18:29:10+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4821,2025-02-03 18:47:24+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4815,2025-01-29 16:06:35+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4810,2025-01-19 15:33:24+00:00,,open,"['bug', 'help wanted', 'good first issue', 'Needs Triage']"
+pypa/setuptools,4806,2025-01-16 19:18:04+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4800,2025-01-13 03:45:06+00:00,,open,"['bug', 'Needs Triage']"
+pypa/setuptools,4798,2025-01-11 12:27:30+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4794,2025-01-08 22:02:56+00:00,,open,"['enhancement', 'Needs Triage']"
+pypa/setuptools,4788,2025-01-04 06:07:16+00:00,,open,[]
+pypa/setuptools,4933,2025-04-02 00:57:01+00:00,2025-04-02 01:40:20+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4932,2025-04-01 20:16:23+00:00,2025-04-01 21:26:09+00:00,closed,"['Needs Triage', 'distutils deprecation']"
+pypa/setuptools,4930,2025-03-30 09:22:45+00:00,2025-04-06 19:26:10+00:00,closed,[]
+pypa/setuptools,4925,2025-03-27 14:55:33+00:00,2025-03-27 17:40:19+00:00,closed,"['Needs Triage', 'distutils deprecation']"
+pypa/setuptools,4912,2025-03-24 17:52:37+00:00,2025-03-24 18:09:30+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4910,2025-03-24 15:10:18+00:00,2025-03-24 19:23:07+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4908,2025-03-22 07:18:42+00:00,2025-03-23 20:19:34+00:00,closed,['upstream']
+pypa/setuptools,4907,2025-03-22 06:46:00+00:00,2025-03-22 07:12:53+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4906,2025-03-21 16:54:48+00:00,2025-03-23 20:19:34+00:00,closed,['upstream']
+pypa/setuptools,4902,2025-03-20 16:37:39+00:00,2025-03-23 20:19:34+00:00,closed,"['bug', 'Waiting Upstream Input']"
+pypa/setuptools,4897,2025-03-20 12:13:18+00:00,2025-03-20 13:59:36+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4895,2025-03-20 11:02:14+00:00,2025-03-20 12:41:39+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4894,2025-03-20 10:53:49+00:00,2025-03-20 13:56:51+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4892,2025-03-19 21:29:37+00:00,2025-03-20 14:40:02+00:00,closed,['Needs Discussion']
+pypa/setuptools,4890,2025-03-19 09:43:03+00:00,2025-03-19 16:50:23+00:00,closed,"['Needs Triage', 'distutils deprecation']"
+pypa/setuptools,4889,2025-03-19 00:43:34+00:00,2025-03-20 08:28:02+00:00,closed,[]
+pypa/setuptools,4885,2025-03-14 00:06:10+00:00,2025-03-19 22:51:03+00:00,closed,"['bug', 'upstream']"
+pypa/setuptools,4883,2025-03-12 17:47:21+00:00,2025-03-12 18:23:52+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4882,2025-03-12 16:57:16+00:00,2025-03-12 17:23:53+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4881,2025-03-12 10:46:24+00:00,2025-03-12 11:17:15+00:00,closed,[]
+pypa/setuptools,4880,2025-03-12 07:08:49+00:00,2025-03-12 10:10:44+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4877,2025-03-11 19:48:44+00:00,2025-03-12 22:54:51+00:00,closed,[]
+pypa/setuptools,4876,2025-03-10 17:48:05+00:00,2025-03-18 00:57:48+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4874,2025-03-10 10:43:45+00:00,2025-03-25 21:42:48+00:00,closed,['upstream']
+pypa/setuptools,4871,2025-03-09 17:14:18+00:00,2025-03-16 23:07:08+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4868,2025-03-09 07:14:46+00:00,2025-03-09 18:53:37+00:00,closed,"['bug', 'Needs Triage']"
+pypa/setuptools,4866,2025-03-09 01:30:51+00:00,2025-03-09 02:31:22+00:00,closed,['bug']
+pypa/setuptools,4864,2025-03-08 21:53:43+00:00,2025-03-23 00:28:45+00:00,closed,['technical debt']
+pypa/setuptools,4863,2025-03-07 06:49:05+00:00,2025-03-09 00:33:26+00:00,closed,"['technical debt', 'standardization']"
+pypa/setuptools,4862,2025-03-04 17:14:10+00:00,2025-03-12 05:53:28+00:00,closed,"['bug', 'deprecated']"
+psf/black,4642,2025-04-02 06:50:59+00:00,,open,['T: bug']
+psf/black,4640,2025-03-31 19:56:19+00:00,,open,['T: bug']
+psf/black,4633,2025-03-21 08:26:45+00:00,,open,['T: bug']
+psf/black,4609,2025-03-11 11:14:22+00:00,,open,['T: bug']
+psf/black,4589,2025-02-24 20:59:27+00:00,,open,[]
+psf/black,4569,2025-01-30 23:36:03+00:00,,open,['T: bug']
+psf/black,4556,2025-01-22 07:28:16+00:00,,open,[]
+psf/black,4554,2025-01-21 11:43:39+00:00,,open,['T: style']
+psf/black,4523,2024-12-04 07:56:17+00:00,,open,"['T: style', 'F: strings']"
+psf/black,4516,2024-11-22 11:01:30+00:00,,open,['T: enhancement']
+psf/black,4514,2024-11-19 22:56:39+00:00,,open,[]
+psf/black,4513,2024-11-15 01:35:38+00:00,,open,"['T: bug', 'F: strings']"
+psf/black,4511,2024-11-14 02:19:33+00:00,,open,"['T: bug', 'F: fmtoff']"
+psf/black,4510,2024-11-11 14:36:00+00:00,,open,"['T: bug', 'F: strings', 'C: preview style']"
+psf/black,4506,2024-11-05 23:55:39+00:00,,open,['C: maintenance']
+psf/black,4495,2024-10-22 20:20:02+00:00,,open,"['T: bug', 'F: strings']"
+psf/black,4494,2024-10-22 12:25:38+00:00,,open,"['T: bug', 'F: strings']"
+psf/black,4493,2024-10-22 12:19:10+00:00,,open,"['T: bug', 'F: strings']"
+psf/black,4461,2024-09-18 13:50:56+00:00,,open,['T: bug']
+psf/black,4455,2024-09-11 20:47:15+00:00,,open,['T: style']
+psf/black,4438,2024-08-20 15:37:01+00:00,,open,['T: enhancement']
+psf/black,4437,2024-08-15 17:43:14+00:00,,open,['T: bug']
+psf/black,4430,2024-08-06 18:08:55+00:00,,open,['T: bug']
+psf/black,4429,2024-08-06 01:04:04+00:00,,open,['T: documentation']
+psf/black,4420,2024-07-31 08:24:27+00:00,,open,['T: style']
+psf/black,4418,2024-07-29 20:21:49+00:00,,open,['T: enhancement']
+psf/black,4411,2024-07-24 14:31:29+00:00,,open,['T: bug']
+psf/black,4406,2024-07-19 22:07:52+00:00,,open,['T: enhancement']
+psf/black,4389,2024-06-26 21:22:02+00:00,,open,['T: style']
+psf/black,4374,2024-06-01 13:29:44+00:00,,open,['T: documentation']
+psf/black,4367,2024-05-18 17:15:42+00:00,,open,['T: bug']
+psf/black,4366,2024-05-17 15:32:45+00:00,,open,"['T: bug', 'F: fmtskip']"
+psf/black,4353,2024-05-08 14:36:58+00:00,,open,"['T: style', 'F: linebreak']"
+psf/black,4349,2024-05-05 11:59:12+00:00,,open,"['T: bug', 'F: parentheses']"
+psf/black,4344,2024-05-02 08:59:23+00:00,,open,['T: documentation']
+psf/black,4296,2024-03-31 23:41:54+00:00,,open,"['T: bug', 'F: comments', 'C: crash']"
+psf/black,4280,2024-03-15 22:49:03+00:00,,open,"['T: bug', 'C: crash']"
+psf/black,4276,2024-03-15 05:44:29+00:00,,open,['T: style']
+psf/black,4256,2024-02-28 11:39:15+00:00,,open,['T: bug']
+psf/black,4249,2024-02-23 17:52:01+00:00,,open,"['T: style', 'F: parentheses', 'F: strings']"
+psf/black,4643,2025-04-02 16:05:58+00:00,2025-04-02 16:30:14+00:00,closed,['T: bug']
+psf/black,4641,2025-04-01 12:30:28+00:00,2025-04-01 14:48:13+00:00,closed,['T: bug']
+psf/black,4637,2025-03-22 12:43:40+00:00,2025-03-22 13:19:55+00:00,closed,['T: style']
+psf/black,4632,2025-03-20 21:37:18+00:00,2025-04-01 14:49:39+00:00,closed,['T: bug']
+psf/black,4631,2025-03-20 20:58:02+00:00,2025-03-23 02:30:41+00:00,closed,"['T: bug', 'C: crash', 'F: fmtskip']"
+psf/black,4629,2025-03-20 04:17:29+00:00,2025-03-20 21:00:12+00:00,closed,['T: bug']
+psf/black,4627,2025-03-19 12:48:32+00:00,2025-03-19 16:32:32+00:00,closed,[]
+psf/black,4625,2025-03-17 05:28:29+00:00,2025-03-19 22:02:42+00:00,closed,['T: bug']
+psf/black,4605,2025-03-04 04:27:48+00:00,2025-03-04 04:43:17+00:00,closed,['T: bug']
+psf/black,4600,2025-03-02 19:37:54+00:00,2025-03-02 21:21:37+00:00,closed,[]
+psf/black,4599,2025-03-02 18:56:42+00:00,2025-03-03 08:20:24+00:00,closed,"['T: bug', 'C: parser']"
+psf/black,4597,2025-03-02 08:20:55+00:00,2025-03-02 08:33:56+00:00,closed,[]
+psf/black,4596,2025-02-28 12:40:56+00:00,2025-02-28 17:37:33+00:00,closed,['T: bug']
+psf/black,4595,2025-02-28 12:25:43+00:00,2025-03-02 08:34:49+00:00,closed,['T: bug']
+psf/black,4594,2025-02-28 11:37:29+00:00,2025-02-28 16:42:24+00:00,closed,['T: bug']
+psf/black,4590,2025-02-27 05:15:32+00:00,2025-02-27 06:16:07+00:00,closed,"['T: style', 'F: linetoolong']"
+psf/black,4588,2025-02-24 11:46:02+00:00,2025-03-16 00:41:21+00:00,closed,"['T: bug', 'F: strings', 'C: parser']"
+scipy/scipy,22804,2025-04-06 12:48:05+00:00,,open,"['enhancement', 'scipy.optimize', 'C/C++', 'Cython']"
+scipy/scipy,22794,2025-04-03 15:31:03+00:00,,open,"['scipy.stats', 'enhancement']"
+scipy/scipy,22793,2025-04-03 14:09:24+00:00,,open,"['defect', 'scipy.linalg']"
+scipy/scipy,22789,2025-04-03 06:45:16+00:00,,open,"['defect', 'maintenance']"
+scipy/scipy,22781,2025-04-02 10:13:01+00:00,,open,"['RFC', 'array types']"
+scipy/scipy,22780,2025-04-02 07:21:03+00:00,,open,"['defect', 'Build issues']"
+scipy/scipy,22769,2025-03-31 22:38:53+00:00,,open,"['enhancement', 'scipy.optimize']"
+scipy/scipy,22767,2025-03-31 13:49:10+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22765,2025-03-31 04:41:50+00:00,,open,"['defect', 'scipy.integrate']"
+scipy/scipy,22758,2025-03-29 21:31:42+00:00,,open,"['defect', 'CI', 'free-threading']"
+scipy/scipy,22757,2025-03-28 19:40:43+00:00,,open,"['maintenance', 'C/C++']"
+scipy/scipy,22753,2025-03-28 11:21:29+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22752,2025-03-28 09:52:51+00:00,,open,"['defect', 'scipy.signal']"
+scipy/scipy,22746,2025-03-27 14:05:29+00:00,,open,"['scipy.stats', 'query']"
+scipy/scipy,22736,2025-03-24 12:16:31+00:00,,open,"['enhancement', 'scipy.io']"
+scipy/scipy,22734,2025-03-23 17:00:55+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22717,2025-03-20 04:53:57+00:00,,open,"['enhancement', 'scipy.spatial']"
+scipy/scipy,22709,2025-03-18 04:30:54+00:00,,open,"['query', 'maintenance', 'array types']"
+scipy/scipy,22708,2025-03-18 00:44:11+00:00,,open,"['enhancement', 'scipy.sparse.csgraph']"
+scipy/scipy,22706,2025-03-17 21:18:53+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22705,2025-03-17 21:02:18+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22704,2025-03-17 20:51:38+00:00,,open,"['defect', 'scipy.interpolate']"
+scipy/scipy,22685,2025-03-14 13:12:11+00:00,,open,"['enhancement', 'scipy.sparse.csgraph']"
+scipy/scipy,22682,2025-03-13 21:03:31+00:00,,open,"['defect', 'scipy.special']"
+scipy/scipy,22680,2025-03-13 15:03:28+00:00,,open,"['defect', 'array types']"
+scipy/scipy,22674,2025-03-12 11:20:04+00:00,,open,"['scipy.signal', 'query']"
+scipy/scipy,22812,2025-04-07 17:07:52+00:00,2025-04-07 19:39:18+00:00,closed,['defect']
+scipy/scipy,22800,2025-04-04 11:54:58+00:00,2025-04-04 13:21:54+00:00,closed,"['defect', 'scipy.signal', 'array types']"
+scipy/scipy,22799,2025-04-04 04:30:06+00:00,2025-04-04 05:10:36+00:00,closed,['defect']
+scipy/scipy,22791,2025-04-03 12:35:03+00:00,2025-04-06 09:59:38+00:00,closed,"['defect', 'scipy.optimize']"
+scipy/scipy,22775,2025-04-01 18:02:56+00:00,2025-04-04 13:55:16+00:00,closed,"['enhancement', 'Cython']"
+scipy/scipy,22774,2025-04-01 16:28:51+00:00,2025-04-02 10:31:08+00:00,closed,"['defect', 'scipy.optimize', 'array types']"
+scipy/scipy,22773,2025-04-01 15:34:29+00:00,2025-04-03 06:02:46+00:00,closed,['defect']
+scipy/scipy,22768,2025-03-31 22:00:30+00:00,2025-04-04 07:19:32+00:00,closed,"['Documentation', 'good first issue', 'DX']"
+scipy/scipy,22754,2025-03-28 12:16:08+00:00,2025-03-28 12:24:27+00:00,closed,"['defect', 'duplicate']"
+scipy/scipy,22747,2025-03-27 17:11:09+00:00,2025-03-28 00:23:38+00:00,closed,"['scipy.linalg', 'maintenance']"
+scipy/scipy,22744,2025-03-26 15:33:12+00:00,2025-03-27 16:45:15+00:00,closed,"['Build issues', 'query']"
+scipy/scipy,22737,2025-03-24 12:52:44+00:00,2025-03-24 15:09:25+00:00,closed,"['defect', 'scipy.linalg']"
+scipy/scipy,22731,2025-03-23 01:23:00+00:00,2025-03-23 09:16:24+00:00,closed,"['enhancement', 'scipy.linalg', 'wontfix']"
+sympy/sympy,27902,2025-04-06 13:29:37+00:00,,open,['solvers.rsolve']
+sympy/sympy,27901,2025-04-06 10:50:49+00:00,,open,"['simplify', 'solvers.rsolve']"
+sympy/sympy,27899,2025-04-05 21:55:11+00:00,,open,[]
+sympy/sympy,27897,2025-04-05 14:50:52+00:00,,open,['Code quality']
+sympy/sympy,27895,2025-04-05 06:12:58+00:00,,open,[]
+sympy/sympy,27891,2025-04-04 10:20:28+00:00,,open,"['integrals', 'NonCommutative', 'integrals.risch']"
+sympy/sympy,27888,2025-04-03 23:15:01+00:00,,open,['assumptions']
+sympy/sympy,27886,2025-04-03 18:22:05+00:00,,open,[]
+sympy/sympy,27885,2025-04-03 17:11:51+00:00,,open,[]
+sympy/sympy,27881,2025-04-03 02:42:36+00:00,,open,"['Wrong Result', 'core', 'assumptions']"
+sympy/sympy,27878,2025-04-02 21:13:28+00:00,,open,['assumptions']
+sympy/sympy,27868,2025-04-01 17:59:53+00:00,,open,[]
+sympy/sympy,27865,2025-04-01 10:59:40+00:00,,open,"['Wrong Result', 'assumptions']"
+sympy/sympy,27859,2025-03-31 02:48:10+00:00,,open,[]
+sympy/sympy,27854,2025-03-30 10:34:57+00:00,,open,"['solvers.solve', 'matrices.expressions']"
+sympy/sympy,27853,2025-03-30 08:21:09+00:00,,open,"['Performance', 'functions']"
+sympy/sympy,27837,2025-03-27 23:46:50+00:00,,open,['Documentation']
+sympy/sympy,27836,2025-03-27 21:56:21+00:00,,open,[]
+sympy/sympy,27834,2025-03-27 12:59:10+00:00,,open,['assumptions']
+sympy/sympy,27832,2025-03-27 09:09:15+00:00,,open,['unevaluated']
+sympy/sympy,27828,2025-03-25 19:33:51+00:00,,open,['unevaluated']
+sympy/sympy,27826,2025-03-25 16:12:37+00:00,,open,['assumptions']
+sympy/sympy,27824,2025-03-24 14:23:26+00:00,,open,['concrete']
+sympy/sympy,27822,2025-03-24 09:58:29+00:00,,open,[]
+sympy/sympy,27898,2025-04-05 19:43:53+00:00,2025-04-06 21:44:19+00:00,closed,[]
+sympy/sympy,27893,2025-04-04 16:55:41+00:00,2025-04-06 14:35:44+00:00,closed,[]
+sympy/sympy,27883,2025-04-03 10:42:04+00:00,2025-04-04 15:26:04+00:00,closed,"['Alternate Python', 'CI']"
+sympy/sympy,27874,2025-04-02 14:13:07+00:00,2025-04-03 14:05:05+00:00,closed,['core']
+sympy/sympy,27855,2025-03-30 11:26:54+00:00,2025-03-31 14:06:09+00:00,closed,"['Code quality', 'CI']"
+sympy/sympy,27852,2025-03-30 07:14:09+00:00,2025-04-06 06:08:52+00:00,closed,[]
+sympy/sympy,27848,2025-03-29 23:23:22+00:00,2025-03-30 20:16:23+00:00,closed,['codegen']
+sympy/sympy,27847,2025-03-29 18:19:55+00:00,2025-03-29 19:00:54+00:00,closed,[]
+sympy/sympy,27845,2025-03-29 11:27:38+00:00,2025-04-05 10:07:58+00:00,closed,"['Easy to Fix', 'mypy', 'typing']"
+sympy/sympy,27820,2025-03-24 07:49:53+00:00,2025-03-24 08:08:57+00:00,closed,[]
+sympy/sympy,27816,2025-03-24 00:36:27+00:00,2025-03-28 15:15:35+00:00,closed,[]
+sympy/sympy,27798,2025-03-20 15:28:03+00:00,2025-03-22 11:46:26+00:00,closed,['polys']
+sympy/sympy,27791,2025-03-19 20:31:06+00:00,2025-03-19 20:37:41+00:00,closed,[]
+biopython/biopython,4985,2025-04-01 14:19:01+00:00,,open,[]
+biopython/biopython,4978,2025-03-22 18:01:31+00:00,,open,[]
+biopython/biopython,4969,2025-03-11 15:23:36+00:00,,open,[]
+biopython/biopython,4956,2025-02-26 07:48:22+00:00,,open,[]
+biopython/biopython,4944,2025-02-23 20:54:35+00:00,,open,[]
+biopython/biopython,4943,2025-02-22 21:33:14+00:00,,open,[]
+biopython/biopython,4936,2025-02-12 09:06:34+00:00,,open,[]
+biopython/biopython,4932,2025-02-09 03:30:01+00:00,,open,[]
+biopython/biopython,4926,2025-02-03 16:25:45+00:00,,open,[]
+biopython/biopython,4925,2025-02-01 16:28:10+00:00,,open,[]
+biopython/biopython,4922,2025-01-29 05:25:10+00:00,,open,[]
+biopython/biopython,4920,2025-01-26 23:02:46+00:00,,open,[]
+biopython/biopython,4908,2025-01-14 23:06:18+00:00,,open,[]
+biopython/biopython,4895,2024-12-10 12:25:06+00:00,,open,[]
+biopython/biopython,4888,2024-11-19 16:12:56+00:00,,open,[]
+biopython/biopython,4879,2024-11-05 18:33:12+00:00,,open,[]
+biopython/biopython,4878,2024-11-05 18:18:10+00:00,,open,[]
+biopython/biopython,4870,2024-10-20 18:50:11+00:00,,open,[]
+biopython/biopython,4868,2024-10-10 02:28:10+00:00,,open,['Enhancement']
+biopython/biopython,4867,2024-10-09 09:50:33+00:00,,open,[]
+biopython/biopython,4865,2024-10-08 16:37:31+00:00,,open,[]
+biopython/biopython,4846,2024-09-18 16:45:57+00:00,,open,[]
+biopython/biopython,4839,2024-09-16 20:23:26+00:00,,open,[]
+biopython/biopython,4836,2024-09-13 11:02:24+00:00,,open,[]
+biopython/biopython,4785,2024-08-05 18:01:47+00:00,,open,['Enhancement']
+biopython/biopython,4768,2024-07-08 21:40:24+00:00,,open,"['Documentation', 'good first issue']"
+biopython/biopython,4764,2024-06-28 03:31:44+00:00,,open,['Documentation']
+biopython/biopython,4744,2024-06-13 13:41:33+00:00,,open,[]
+biopython/biopython,4720,2024-05-05 11:47:55+00:00,,open,[]
+biopython/biopython,4712,2024-04-27 16:40:05+00:00,,open,[]
+biopython/biopython,4708,2024-04-24 05:31:48+00:00,,open,[]
+biopython/biopython,4701,2024-04-12 04:14:14+00:00,,open,[]
+biopython/biopython,4694,2024-04-09 09:21:38+00:00,,open,[]
+biopython/biopython,4661,2024-03-14 11:04:52+00:00,,open,[]
+biopython/biopython,4656,2024-03-07 20:05:36+00:00,,open,[]
+biopython/biopython,4652,2024-03-05 19:25:07+00:00,,open,[]
+biopython/biopython,4983,2025-03-27 14:00:50+00:00,2025-03-28 14:47:29+00:00,closed,[]
+biopython/biopython,4981,2025-03-25 17:41:26+00:00,2025-03-25 18:52:05+00:00,closed,[]
+biopython/biopython,4980,2025-03-25 09:12:00+00:00,2025-03-25 19:59:45+00:00,closed,[]
+biopython/biopython,4979,2025-03-22 20:17:04+00:00,2025-03-24 06:40:33+00:00,closed,[]
+biopython/biopython,4976,2025-03-21 10:26:43+00:00,2025-03-26 08:58:09+00:00,closed,[]
+biopython/biopython,4974,2025-03-20 00:08:39+00:00,2025-03-21 02:50:51+00:00,closed,[]
+biopython/biopython,4973,2025-03-19 18:44:32+00:00,2025-03-20 11:51:01+00:00,closed,[]
+biopython/biopython,4972,2025-03-19 10:00:02+00:00,2025-03-21 15:39:59+00:00,closed,[]
+biopython/biopython,4963,2025-02-28 12:41:21+00:00,2025-02-28 12:46:32+00:00,closed,[]
+biopython/biopython,4940,2025-02-18 18:50:44+00:00,2025-02-19 21:49:10+00:00,closed,[]
+biopython/biopython,4923,2025-01-29 20:45:14+00:00,2025-02-20 23:19:45+00:00,closed,"['Enhancement', 'Documentation', 'help wanted']"
+paramiko/paramiko,2507,2025-03-26 09:56:05+00:00,,open,['Feature']
+paramiko/paramiko,2505,2025-03-12 21:53:00+00:00,,open,['Bug']
+paramiko/paramiko,2500,2025-02-21 10:22:05+00:00,,open,['Feature']
+paramiko/paramiko,2499,2025-02-13 20:50:48+00:00,,open,['Bug']
+paramiko/paramiko,2497,2025-02-11 06:57:15+00:00,,open,['Support']
+paramiko/paramiko,2492,2025-01-24 16:22:36+00:00,,open,['Feature']
+paramiko/paramiko,2491,2025-01-23 19:51:47+00:00,,open,['Bug']
+paramiko/paramiko,2489,2025-01-11 23:26:21+00:00,,open,[]
+paramiko/paramiko,2487,2025-01-05 11:22:43+00:00,,open,['Bug']
+paramiko/paramiko,2486,2025-01-02 11:31:06+00:00,,open,['Support']
+paramiko/paramiko,2485,2024-12-30 17:29:18+00:00,,open,['Feature']
+paramiko/paramiko,2484,2024-12-15 13:36:12+00:00,,open,['Bug']
+paramiko/paramiko,2483,2024-12-10 10:39:22+00:00,,open,['Support']
+paramiko/paramiko,2482,2024-12-05 22:06:23+00:00,,open,['Bug']
+paramiko/paramiko,2481,2024-12-05 09:28:04+00:00,,open,['Feature']
+paramiko/paramiko,2480,2024-12-05 09:24:30+00:00,,open,['Feature']
+paramiko/paramiko,2479,2024-12-03 21:11:03+00:00,,open,['Bug']
+paramiko/paramiko,2476,2024-11-21 21:23:43+00:00,,open,['Bug']
+paramiko/paramiko,2473,2024-11-19 18:53:42+00:00,,open,['Bug']
+paramiko/paramiko,2471,2024-11-17 11:05:47+00:00,,open,['Bug']
+paramiko/paramiko,2470,2024-11-06 19:04:54+00:00,,open,['Bug']
+paramiko/paramiko,2469,2024-11-04 12:04:55+00:00,,open,['Bug']
+paramiko/paramiko,2468,2024-10-25 20:27:08+00:00,,open,"['Feature', 'SFTP']"
+paramiko/paramiko,2467,2024-10-24 21:03:52+00:00,,open,['Bug']
+paramiko/paramiko,2466,2024-10-09 16:28:20+00:00,,open,['Bug']
+paramiko/paramiko,2464,2024-10-04 17:35:26+00:00,,open,['Bug']
+paramiko/paramiko,2463,2024-10-04 16:01:38+00:00,,open,['Feature']
+paramiko/paramiko,2462,2024-10-02 21:33:11+00:00,,open,['Bug']
+paramiko/paramiko,2460,2024-09-30 18:59:10+00:00,,open,['Bug']
+paramiko/paramiko,2459,2024-09-29 10:32:47+00:00,,open,['Bug']
+paramiko/paramiko,2458,2024-09-26 06:44:49+00:00,,open,['Bug']
+paramiko/paramiko,2455,2024-09-22 09:42:38+00:00,,open,['Feature']
+paramiko/paramiko,2454,2024-09-22 08:48:02+00:00,,open,['Feature']
+paramiko/paramiko,2453,2024-09-22 00:02:22+00:00,,open,['Bug']
+paramiko/paramiko,2452,2024-09-21 18:16:41+00:00,,open,['Feature']
+paramiko/paramiko,2451,2024-09-19 04:11:15+00:00,,open,['Bug']
+paramiko/paramiko,2450,2024-09-17 15:33:13+00:00,,open,['Bug']
+paramiko/paramiko,2504,2025-03-12 01:47:40+00:00,2025-03-13 09:28:37+00:00,closed,['Bug']
+paramiko/paramiko,2493,2025-01-29 11:12:44+00:00,2025-02-03 12:27:08+00:00,closed,['Support']
+paramiko/paramiko,2478,2024-12-02 09:30:20+00:00,2024-12-05 12:20:40+00:00,closed,['Feature']
+paramiko/paramiko,2477,2024-11-29 17:02:18+00:00,2024-12-11 17:47:26+00:00,closed,['Support']
+paramiko/paramiko,2474,2024-11-20 09:17:27+00:00,2024-11-22 11:02:17+00:00,closed,['Support']
+paramiko/paramiko,2472,2024-11-18 18:20:54+00:00,2024-11-19 17:29:11+00:00,closed,['Support']
+paramiko/paramiko,2461,2024-10-01 17:42:31+00:00,2024-10-04 15:45:15+00:00,closed,['Support']
+paramiko/paramiko,2428,2024-08-05 15:05:51+00:00,2024-08-05 15:10:31+00:00,closed,['Support']
+paramiko/paramiko,2427,2024-08-03 17:29:07+00:00,2024-08-03 17:53:27+00:00,closed,['Bug']
+paramiko/paramiko,2426,2024-08-03 05:43:29+00:00,2024-08-03 19:28:12+00:00,closed,['Bug']
+paramiko/paramiko,2422,2024-07-26 15:32:14+00:00,2024-08-14 16:01:08+00:00,closed,['Bug']
+paramiko/paramiko,2419,2024-07-21 17:22:40+00:00,2024-08-11 18:50:51+00:00,closed,['Support']
+paramiko/paramiko,2402,2024-06-03 12:02:44+00:00,2024-06-03 23:28:15+00:00,closed,['Support']
+paramiko/paramiko,2399,2024-05-30 21:23:56+00:00,2024-05-31 06:32:58+00:00,closed,[]
+paramiko/paramiko,2398,2024-05-28 08:35:05+00:00,2024-05-31 13:56:00+00:00,closed,['Bug']
+paramiko/paramiko,2394,2024-05-21 03:55:40+00:00,2024-05-21 05:47:11+00:00,closed,[]
+paramiko/paramiko,2392,2024-05-13 19:21:05+00:00,2024-07-14 19:58:49+00:00,closed,['Support']
+paramiko/paramiko,2390,2024-05-06 06:20:13+00:00,2024-05-06 16:21:56+00:00,closed,['Security']
+paramiko/paramiko,2376,2024-04-02 20:05:24+00:00,2024-05-06 13:06:00+00:00,closed,['Support']
+paramiko/paramiko,2374,2024-03-24 16:22:15+00:00,2024-04-25 14:50:20+00:00,closed,[]
+paramiko/paramiko,2371,2024-03-13 17:28:31+00:00,2024-03-15 17:16:08+00:00,closed,['Support']
+paramiko/paramiko,2360,2024-02-09 15:20:22+00:00,2024-02-10 00:06:39+00:00,closed,['Support']
+paramiko/paramiko,2353,2024-02-07 15:41:36+00:00,2024-02-11 02:30:04+00:00,closed,"['Bug', 'Needs patch']"
+paramiko/paramiko,2337,2023-12-18 16:21:20+00:00,2023-12-18 20:00:54+00:00,closed,"['High priority', 'Feature', 'Security']"
+paramiko/paramiko,2336,2023-12-17 15:10:12+00:00,2023-12-18 15:33:54+00:00,closed,['Support']
+paramiko/paramiko,2335,2023-12-17 05:59:35+00:00,2023-12-18 05:45:55+00:00,closed,['Support']
+paramiko/paramiko,2333,2023-12-11 22:13:33+00:00,2023-12-18 16:32:51+00:00,closed,[]
+paramiko/paramiko,2332,2023-11-27 18:58:21+00:00,2023-11-27 20:42:59+00:00,closed,"['Needs investigation', 'High priority', 'Bug', 'Security']"
+paramiko/paramiko,2324,2023-11-04 11:04:01+00:00,2023-11-07 08:27:10+00:00,closed,['Support']
+paramiko/paramiko,2312,2023-10-12 03:52:39+00:00,2023-10-12 06:52:25+00:00,closed,['Support']
+paramiko/paramiko,2309,2023-10-07 11:42:27+00:00,2023-10-07 15:55:38+00:00,closed,['Support']
+paramiko/paramiko,2304,2023-09-25 05:10:03+00:00,2023-10-11 17:10:17+00:00,closed,"['Support', 'Hangs']"
+paramiko/paramiko,2302,2023-09-14 19:27:21+00:00,2023-09-17 13:37:00+00:00,closed,['Support']
+paramiko/paramiko,2297,2023-09-05 10:00:53+00:00,2023-09-07 01:10:21+00:00,closed,"['Support', 'Security']"
+paramiko/paramiko,2296,2023-09-05 02:00:36+00:00,2023-09-05 03:17:30+00:00,closed,['Feature']
+paramiko/paramiko,2292,2023-08-29 10:11:20+00:00,2023-08-29 10:50:30+00:00,closed,['Support']
+paramiko/paramiko,2289,2023-08-24 20:54:03+00:00,2023-08-24 21:24:54+00:00,closed,['Bug']
+scrapy/scrapy,6745,2025-04-01 10:57:48+00:00,,open,[]
+scrapy/scrapy,6742,2025-03-21 13:52:31+00:00,,open,[]
+scrapy/scrapy,6737,2025-03-17 09:47:11+00:00,,open,[]
+scrapy/scrapy,6733,2025-03-14 20:05:25+00:00,,open,"['enhancement', 'discuss']"
+scrapy/scrapy,6718,2025-03-10 11:05:31+00:00,,open,['asyncio']
+scrapy/scrapy,6717,2025-03-10 09:58:01+00:00,,open,[]
+scrapy/scrapy,6707,2025-03-09 09:05:49+00:00,,open,"['enhancement', 'asyncio']"
+scrapy/scrapy,6705,2025-03-08 17:15:47+00:00,,open,"['enhancement', 'discuss', 'asyncio']"
+scrapy/scrapy,6692,2025-02-25 07:19:23+00:00,,open,"['enhancement', 'performance']"
+scrapy/scrapy,6681,2025-02-18 02:10:52+00:00,,open,"['enhancement', 'contracts', 'asyncio']"
+scrapy/scrapy,6677,2025-02-15 19:05:34+00:00,,open,"['enhancement', 'docs', 'asyncio']"
+scrapy/scrapy,6676,2025-02-15 11:55:42+00:00,,open,"['enhancement', 'docs']"
+scrapy/scrapy,6674,2025-02-14 09:30:17+00:00,,open,[]
+scrapy/scrapy,6666,2025-02-11 20:14:14+00:00,,open,['discuss']
+scrapy/scrapy,6662,2025-02-07 21:31:32+00:00,,open,['enhancement']
+scrapy/scrapy,6660,2025-02-06 17:26:40+00:00,,open,"['enhancement', 'discuss']"
+scrapy/scrapy,6658,2025-02-06 16:03:39+00:00,,open,"['enhancement', 'CI']"
+scrapy/scrapy,6649,2025-02-02 13:48:49+00:00,,open,"['CI', 'cleanup']"
+scrapy/scrapy,6645,2025-02-01 11:03:18+00:00,,open,"['enhancement', 'CI']"
+scrapy/scrapy,6643,2025-01-31 15:03:52+00:00,,open,"['enhancement', 'asyncio']"
+scrapy/scrapy,6627,2025-01-22 12:29:04+00:00,,open,"['enhancement', 'docs']"
+scrapy/scrapy,6616,2025-01-16 13:01:21+00:00,,open,[]
+scrapy/scrapy,6597,2025-01-01 08:45:45+00:00,,open,[]
+scrapy/scrapy,6594,2024-12-27 14:54:34+00:00,,open,['enhancement']
+scrapy/scrapy,6590,2024-12-24 18:44:15+00:00,,open,"['discuss', 'cleanup', 'asyncio']"
+scrapy/scrapy,6585,2024-12-15 16:27:11+00:00,,open,['cleanup']
+scrapy/scrapy,6574,2024-12-07 12:05:45+00:00,,open,"['bug', 'http']"
+scrapy/scrapy,6554,2024-11-20 16:35:19+00:00,,open,"['enhancement', 'docs']"
+scrapy/scrapy,6552,2024-11-19 08:57:30+00:00,,open,"['enhancement', 'docs']"
+scrapy/scrapy,6551,2024-11-18 21:35:59+00:00,,open,[]
+scrapy/scrapy,6550,2024-11-17 20:25:21+00:00,,open,['enhancement']
+scrapy/scrapy,6525,2024-11-04 16:45:45+00:00,,open,"['needs more info', 'media pipelines']"
+scrapy/scrapy,6739,2025-03-19 14:40:33+00:00,2025-03-20 10:49:45+00:00,closed,"['enhancement', 'good first issue']"
+scrapy/scrapy,6736,2025-03-16 06:25:14+00:00,2025-03-16 08:08:37+00:00,closed,[]
+scrapy/scrapy,6731,2025-03-14 09:20:31+00:00,2025-03-20 12:02:41+00:00,closed,"['enhancement', 'good first issue']"
+scrapy/scrapy,6708,2025-03-09 09:36:09+00:00,2025-03-09 19:18:58+00:00,closed,"['good first issue', 'cleanup']"
+scrapy/scrapy,6691,2025-02-23 09:51:04+00:00,2025-02-23 10:00:23+00:00,closed,[]
+scrapy/scrapy,6690,2025-02-23 04:35:28+00:00,2025-02-23 06:49:08+00:00,closed,[]
+scrapy/scrapy,6689,2025-02-23 02:47:10+00:00,2025-02-23 06:34:10+00:00,closed,[]
+scrapy/scrapy,6687,2025-02-21 05:19:31+00:00,2025-02-21 06:13:31+00:00,closed,[]
+scrapy/scrapy,6686,2025-02-20 05:36:25+00:00,2025-02-21 01:58:53+00:00,closed,['contracts']
+scrapy/scrapy,6685,2025-02-19 14:16:26+00:00,2025-02-19 14:16:35+00:00,closed,[]
+scrapy/scrapy,6679,2025-02-16 14:07:58+00:00,2025-03-08 16:50:55+00:00,closed,"['discuss', 'CI', 'cleanup']"
+urllib3/urllib3,3584,2025-04-07 18:41:49+00:00,,open,[]
+urllib3/urllib3,3583,2025-04-07 07:17:11+00:00,,open,[]
+urllib3/urllib3,3581,2025-04-01 11:48:13+00:00,,open,['💰 Bounty $100']
+urllib3/urllib3,3578,2025-03-31 09:08:31+00:00,,open,[]
+urllib3/urllib3,3576,2025-03-27 20:58:39+00:00,,open,['💰 Bounty $100']
+urllib3/urllib3,3574,2025-03-24 19:11:11+00:00,,open,[]
+urllib3/urllib3,3571,2025-03-05 22:00:03+00:00,,open,[]
+urllib3/urllib3,3568,2025-03-03 10:13:08+00:00,,open,[]
+urllib3/urllib3,3554,2025-01-24 18:44:28+00:00,,open,[]
+urllib3/urllib3,3553,2025-01-23 04:48:31+00:00,,open,[]
+urllib3/urllib3,3552,2025-01-19 03:49:56+00:00,,open,[]
+urllib3/urllib3,3546,2025-01-09 12:46:43+00:00,,open,[]
+urllib3/urllib3,3542,2024-12-27 23:48:30+00:00,,open,[]
+urllib3/urllib3,3520,2024-11-21 11:41:12+00:00,,open,[]
+urllib3/urllib3,3519,2024-11-12 22:01:18+00:00,,open,[]
+urllib3/urllib3,3513,2024-11-07 18:18:15+00:00,,open,[]
+urllib3/urllib3,3510,2024-11-06 13:08:58+00:00,,open,[]
+urllib3/urllib3,3488,2024-10-23 16:24:56+00:00,,open,[]
+urllib3/urllib3,3483,2024-10-02 08:31:12+00:00,,open,[]
+urllib3/urllib3,3472,2024-09-08 02:42:30+00:00,,open,[]
+urllib3/urllib3,3471,2024-09-05 15:09:06+00:00,,open,[]
+urllib3/urllib3,3410,2024-06-17 17:05:24+00:00,,open,[]
+urllib3/urllib3,3360,2024-03-05 12:03:03+00:00,,open,[]
+urllib3/urllib3,3352,2024-02-22 12:32:53+00:00,,open,[]
+urllib3/urllib3,3349,2024-02-21 09:16:50+00:00,,open,[]
+urllib3/urllib3,3336,2024-02-01 11:08:57+00:00,,open,[]
+urllib3/urllib3,3334,2024-01-31 22:50:22+00:00,,open,[]
+urllib3/urllib3,3303,2024-01-22 13:39:52+00:00,,open,['💰 Bounty $500']
+urllib3/urllib3,3301,2024-01-22 05:14:37+00:00,,open,['💰 Bounty $300']
+urllib3/urllib3,3300,2024-01-22 04:51:41+00:00,,open,['💰 Bounty $300']
+urllib3/urllib3,3299,2024-01-22 04:31:23+00:00,,open,['💰 Bounty $300']
+urllib3/urllib3,3294,2024-01-21 04:59:06+00:00,,open,['💰 Bounty $500']
+urllib3/urllib3,3291,2024-01-19 23:39:33+00:00,,open,['💰 Bounty $300']
+urllib3/urllib3,3289,2024-01-19 16:23:13+00:00,,open,['💰 Bounty $100']
+urllib3/urllib3,3199,2023-11-17 16:10:01+00:00,,open,[]
+urllib3/urllib3,3582,2025-04-04 21:55:37+00:00,2025-04-07 13:24:02+00:00,closed,[]
+urllib3/urllib3,3567,2025-02-27 00:29:38+00:00,2025-03-06 22:25:28+00:00,closed,[]
+urllib3/urllib3,3565,2025-02-26 14:16:36+00:00,2025-03-05 00:40:35+00:00,closed,[]
+urllib3/urllib3,3562,2025-02-18 00:21:34+00:00,2025-02-18 19:26:27+00:00,closed,[]
+urllib3/urllib3,3560,2025-02-13 07:45:06+00:00,2025-02-13 12:24:49+00:00,closed,[]
+urllib3/urllib3,3558,2025-02-05 15:33:45+00:00,2025-02-11 12:50:45+00:00,closed,[]
+urllib3/urllib3,3555,2025-01-29 14:54:00+00:00,2025-02-25 20:17:40+00:00,closed,[]
+urllib3/urllib3,3548,2025-01-11 10:06:42+00:00,2025-01-13 17:30:12+00:00,closed,[]
+urllib3/urllib3,3541,2024-12-27 09:00:17+00:00,2024-12-27 15:14:33+00:00,closed,[]
+urllib3/urllib3,3533,2024-12-18 12:49:48+00:00,2024-12-19 14:59:01+00:00,closed,[]
+urllib3/urllib3,3525,2024-12-05 13:20:58+00:00,2024-12-05 14:41:21+00:00,closed,[]
+urllib3/urllib3,3523,2024-11-27 13:25:28+00:00,2024-11-27 17:04:20+00:00,closed,[]
+python-telegram-bot/python-telegram-bot,4720,2025-03-15 09:10:02+00:00,,open,"['🔗 github-actions', '⚙️ ci-cid']"
+python-telegram-bot/python-telegram-bot,4635,2025-01-02 08:15:59+00:00,,open,"['⚙️ bot-api', '⚙️ tests']"
+python-telegram-bot/python-telegram-bot,4575,2024-11-24 21:13:20+00:00,,open,"['⚙️ bot-api', '🛠 refactor']"
+python-telegram-bot/python-telegram-bot,4560,2024-11-07 15:32:02+00:00,,open,['📋 triage']
+python-telegram-bot/python-telegram-bot,4514,2024-10-02 16:19:22+00:00,,open,['⚙️ tests']
+python-telegram-bot/python-telegram-bot,4387,2024-07-17 19:10:13+00:00,,open,['⚙️ documentation']
+python-telegram-bot/python-telegram-bot,4324,2024-06-26 04:05:53+00:00,,open,['⚙️ tests']
+python-telegram-bot/python-telegram-bot,4306,2024-06-19 07:41:04+00:00,,open,[]
+python-telegram-bot/python-telegram-bot,4277,2024-05-28 14:06:01+00:00,,open,[]
+python-telegram-bot/python-telegram-bot,4194,2024-04-07 09:03:01+00:00,,open,[]
+python-telegram-bot/python-telegram-bot,4193,2024-04-07 08:51:55+00:00,,open,[]
+python-telegram-bot/python-telegram-bot,2770,2021-11-07 10:33:08+00:00,,open,[]
+python-telegram-bot/python-telegram-bot,4739,2025-03-31 08:39:34+00:00,2025-04-07 17:37:52+00:00,closed,['📋 invalid']
+python-telegram-bot/python-telegram-bot,4738,2025-03-30 13:51:58+00:00,2025-04-06 03:01:59+00:00,closed,"['question', '📋 stale']"
+python-telegram-bot/python-telegram-bot,4726,2025-03-21 14:55:53+00:00,2025-03-21 18:43:15+00:00,closed,['📋 invalid']
+python-telegram-bot/python-telegram-bot,4724,2025-03-19 14:27:31+00:00,2025-03-19 14:57:25+00:00,closed,['question']
+python-telegram-bot/python-telegram-bot,4723,2025-03-19 02:54:49+00:00,2025-03-26 03:00:33+00:00,closed,"['question', '📋 stale']"
+python-telegram-bot/python-telegram-bot,4722,2025-03-17 05:52:10+00:00,2025-03-23 03:01:40+00:00,closed,"['question', '📋 stale']"
+python-telegram-bot/python-telegram-bot,4721,2025-03-16 03:48:57+00:00,2025-03-16 19:41:53+00:00,closed,['question']
+python-telegram-bot/python-telegram-bot,4717,2025-03-12 09:16:49+00:00,2025-03-12 09:19:59+00:00,closed,['spam']
+python-telegram-bot/python-telegram-bot,4716,2025-03-11 05:19:32+00:00,2025-03-23 03:01:41+00:00,closed,"['question', '📋 stale']"
+python-telegram-bot/python-telegram-bot,4711,2025-03-09 11:09:18+00:00,2025-03-09 11:29:30+00:00,closed,['📋 triage']
+python-telegram-bot/python-telegram-bot,4707,2025-03-06 15:07:48+00:00,2025-03-10 21:26:04+00:00,closed,['📋 invalid']
+python-telegram-bot/python-telegram-bot,4706,2025-03-05 20:15:30+00:00,2025-03-07 00:05:33+00:00,closed,['📋 triage']
+python-telegram-bot/python-telegram-bot,4703,2025-03-02 12:59:34+00:00,2025-03-02 15:55:52+00:00,closed,['question']
+python-telegram-bot/python-telegram-bot,4702,2025-03-02 01:47:14+00:00,2025-03-02 12:29:56+00:00,closed,['question']
+python-telegram-bot/python-telegram-bot,4686,2025-02-19 13:45:34+00:00,2025-02-19 15:00:49+00:00,closed,"['📋 invalid', 'spam']"
+python-telegram-bot/python-telegram-bot,4685,2025-02-17 19:48:33+00:00,2025-02-26 20:39:20+00:00,closed,['📋 invalid']
+pypa/virtualenv,2861,2025-03-30 12:01:42+00:00,,open,['bug']
+pypa/virtualenv,2860,2025-03-29 23:14:00+00:00,,open,['bug']
+pypa/virtualenv,2851,2025-02-27 00:04:54+00:00,,open,['bug']
+pypa/virtualenv,2834,2025-01-28 19:09:05+00:00,,open,['bug']
+pypa/virtualenv,2829,2025-01-19 13:18:46+00:00,,open,['bug']
+pypa/virtualenv,2812,2024-12-04 23:36:44+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2811,2024-12-03 21:19:28+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2808,2024-11-26 10:16:27+00:00,,open,['enhancement']
+pypa/virtualenv,2786,2024-10-21 18:29:28+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2780,2024-10-09 10:18:45+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2774,2024-09-30 15:07:23+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2770,2024-09-26 05:52:11+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2732,2024-05-31 16:03:30+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2725,2024-05-19 18:00:56+00:00,,open,['help-wanted']
+pypa/virtualenv,2689,2024-02-12 08:15:03+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,2668,2023-11-15 13:04:07+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2662,2023-11-04 02:20:33+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2659,2023-10-25 11:40:59+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2637,2023-09-05 19:36:22+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,2578,2023-05-24 17:57:44+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2577,2023-05-24 16:08:43+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2493,2023-02-01 22:08:15+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,2485,2023-01-12 20:46:09+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2467,2022-12-19 11:46:56+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2414,2022-09-10 11:43:19+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2338,2022-04-28 01:18:48+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2337,2022-04-27 13:45:49+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2121,2021-05-19 20:35:23+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2090,2021-04-08 13:22:05+00:00,,open,"['bug', 'help-wanted']"
+pypa/virtualenv,2074,2021-03-01 09:30:26+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,1884,2020-07-03 15:02:51+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,1774,2020-04-17 03:38:55+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,425,2013-05-02 20:58:46+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,93,2011-03-15 21:28:10+00:00,,open,"['enhancement', 'help-wanted']"
+pypa/virtualenv,2865,2025-04-01 20:58:47+00:00,2025-04-01 22:07:30+00:00,closed,['enhancement']
+pypa/virtualenv,2856,2025-03-10 12:22:10+00:00,2025-03-10 18:28:06+00:00,closed,['enhancement']
+pypa/virtualenv,2854,2025-03-03 21:31:31+00:00,2025-03-04 16:29:10+00:00,closed,"['enhancement', 'help-wanted']"
+pypa/virtualenv,2841,2025-02-10 17:16:58+00:00,2025-02-10 19:02:15+00:00,closed,[]
+pypa/virtualenv,2838,2025-02-04 17:43:28+00:00,2025-02-04 18:44:51+00:00,closed,['bug']
+pypa/virtualenv,2825,2025-01-16 01:19:34+00:00,2025-01-20 18:07:38+00:00,closed,['bug']
+pypa/virtualenv,2822,2025-01-13 10:15:36+00:00,2025-02-25 17:15:54+00:00,closed,[]
+pypa/virtualenv,2820,2025-01-10 10:31:57+00:00,2025-02-10 19:05:20+00:00,closed,"['bug', 'help-wanted']"
+pypa/virtualenv,2814,2024-12-10 12:45:06+00:00,2025-01-03 01:54:57+00:00,closed,['bug']
+cookiecutter/cookiecutter,2136,2025-03-07 06:04:15+00:00,,open,[]
+cookiecutter/cookiecutter,2135,2025-03-06 04:37:26+00:00,,open,[]
+cookiecutter/cookiecutter,2132,2025-03-01 09:37:52+00:00,,open,[]
+cookiecutter/cookiecutter,2130,2025-02-28 17:31:00+00:00,,open,[]
+cookiecutter/cookiecutter,2126,2025-02-07 12:35:56+00:00,,open,[]
+cookiecutter/cookiecutter,2125,2025-02-05 00:11:26+00:00,,open,[]
+cookiecutter/cookiecutter,2124,2025-01-19 21:33:52+00:00,,open,[]
+cookiecutter/cookiecutter,2120,2024-12-11 06:24:37+00:00,,open,[]
+cookiecutter/cookiecutter,2119,2024-12-05 15:58:49+00:00,,open,[]
+cookiecutter/cookiecutter,2117,2024-12-03 23:51:33+00:00,,open,[]
+cookiecutter/cookiecutter,2116,2024-11-29 16:47:08+00:00,,open,[]
+cookiecutter/cookiecutter,2113,2024-11-18 17:10:46+00:00,,open,[]
+cookiecutter/cookiecutter,2106,2024-10-21 19:36:53+00:00,,open,[]
+cookiecutter/cookiecutter,2104,2024-10-02 23:11:27+00:00,,open,[]
+cookiecutter/cookiecutter,2094,2024-09-04 13:09:22+00:00,,open,[]
+cookiecutter/cookiecutter,2086,2024-07-30 23:43:25+00:00,,open,[]
+cookiecutter/cookiecutter,2083,2024-06-27 14:36:08+00:00,,open,[]
+cookiecutter/cookiecutter,2082,2024-06-26 15:33:57+00:00,,open,[]
+cookiecutter/cookiecutter,2081,2024-06-26 14:18:55+00:00,,open,[]
+cookiecutter/cookiecutter,2080,2024-06-26 09:32:21+00:00,,open,[]
+cookiecutter/cookiecutter,2079,2024-06-25 07:27:02+00:00,,open,[]
+cookiecutter/cookiecutter,2078,2024-06-18 16:20:45+00:00,,open,[]
+cookiecutter/cookiecutter,2076,2024-06-08 00:35:22+00:00,,open,[]
+cookiecutter/cookiecutter,2073,2024-05-29 13:49:08+00:00,,open,[]
+cookiecutter/cookiecutter,2072,2024-05-29 13:07:48+00:00,,open,[]
+cookiecutter/cookiecutter,2069,2024-05-15 15:30:39+00:00,,open,[]
+cookiecutter/cookiecutter,2065,2024-04-28 20:52:38+00:00,,open,[]
+cookiecutter/cookiecutter,2064,2024-04-25 05:52:21+00:00,,open,[]
+cookiecutter/cookiecutter,2058,2024-04-06 07:56:36+00:00,,open,[]
+cookiecutter/cookiecutter,2045,2024-03-20 17:19:55+00:00,,open,['enhancement']
+cookiecutter/cookiecutter,2114,2024-11-19 02:00:07+00:00,2025-01-20 14:57:10+00:00,closed,[]
+cookiecutter/cookiecutter,2108,2024-10-25 21:26:42+00:00,2024-10-28 12:42:58+00:00,closed,[]
+cookiecutter/cookiecutter,2101,2024-09-19 16:06:56+00:00,2024-09-20 07:05:26+00:00,closed,[]
+cookiecutter/cookiecutter,2092,2024-08-26 06:41:43+00:00,2024-09-09 01:48:46+00:00,closed,[]
+cookiecutter/cookiecutter,2089,2024-08-13 08:26:54+00:00,2024-08-13 08:46:07+00:00,closed,[]
+cookiecutter/cookiecutter,2037,2024-03-16 08:31:16+00:00,2024-03-18 10:45:20+00:00,closed,[]
+cookiecutter/cookiecutter,2035,2024-03-14 03:46:01+00:00,2024-03-14 23:15:27+00:00,closed,[]
+cookiecutter/cookiecutter,2023,2024-02-22 00:53:02+00:00,2024-04-08 21:39:45+00:00,closed,['regression']
+psycopg/psycopg2,1725,2024-08-29 20:12:49+00:00,,open,[]
+psycopg/psycopg2,1670,2024-02-05 23:56:01+00:00,,open,[]
+psycopg/psycopg2,1634,2023-10-13 03:01:07+00:00,,open,[]
+psycopg/psycopg2,1574,2023-05-11 06:54:06+00:00,,open,[]
+psycopg/psycopg2,1456,2022-05-23 09:45:09+00:00,,open,[]
+psycopg/psycopg2,1442,2022-04-02 02:39:24+00:00,,open,[]
+psycopg/psycopg2,1421,2022-01-28 16:24:25+00:00,,open,[]
+psycopg/psycopg2,1356,2021-09-22 08:47:28+00:00,,open,[]
+psycopg/psycopg2,1253,2021-03-30 08:44:56+00:00,,open,[]
+psycopg/psycopg2,1248,2021-03-02 11:50:34+00:00,,open,[]
+psycopg/psycopg2,1123,2020-06-25 21:50:31+00:00,,open,[]
+psycopg/psycopg2,1058,2020-03-09 03:00:53+00:00,,open,[]
+psycopg/psycopg2,1001,2019-10-23 20:20:06+00:00,,open,['feature request']
+psycopg/psycopg2,977,2019-09-25 05:00:09+00:00,,open,['feature request']
+psycopg/psycopg2,944,2019-07-09 03:49:10+00:00,,open,[]
+psycopg/psycopg2,570,2017-06-16 18:44:16+00:00,,open,[]
+psycopg/psycopg2,557,2017-05-23 08:10:18+00:00,,open,[]
+psycopg/psycopg2,442,2016-06-18 21:19:46+00:00,,open,['windows']
+psycopg/psycopg2,1774,2025-02-24 20:55:06+00:00,2025-02-24 21:31:09+00:00,closed,[]
+psycopg/psycopg2,1773,2025-02-17 11:27:31+00:00,2025-02-17 12:15:36+00:00,closed,[]
+psycopg/psycopg2,1771,2025-01-04 02:09:55+00:00,2025-01-04 11:36:35+00:00,closed,[]
+psycopg/psycopg2,1770,2025-01-02 20:58:27+00:00,2025-01-03 09:25:40+00:00,closed,[]
+psycopg/psycopg2,1769,2025-01-02 18:59:26+00:00,2025-01-03 09:18:40+00:00,closed,[]
+psycopg/psycopg2,1768,2024-12-31 01:07:49+00:00,2024-12-31 17:06:34+00:00,closed,[]
+psycopg/psycopg2,1767,2024-12-16 10:01:15+00:00,2024-12-17 09:07:55+00:00,closed,[]
+psycopg/psycopg2,1766,2024-12-14 08:05:06+00:00,2024-12-14 14:25:40+00:00,closed,[]
+psycopg/psycopg2,1765,2024-12-13 22:04:36+00:00,2024-12-13 23:30:52+00:00,closed,[]
+psycopg/psycopg2,1764,2024-12-13 00:47:08+00:00,2024-12-13 02:44:23+00:00,closed,[]
+psycopg/psycopg2,1763,2024-12-12 12:40:16+00:00,2024-12-12 15:59:37+00:00,closed,[]
+psycopg/psycopg2,1761,2024-12-04 21:28:45+00:00,2024-12-04 21:37:42+00:00,closed,[]
+psycopg/psycopg2,1760,2024-12-04 10:11:15+00:00,2024-12-04 10:34:18+00:00,closed,[]
+psycopg/psycopg2,1759,2024-12-04 05:36:05+00:00,2024-12-04 10:35:36+00:00,closed,[]
+psycopg/psycopg2,1758,2024-12-02 12:04:42+00:00,2024-12-02 16:19:47+00:00,closed,[]
+psycopg/psycopg2,1757,2024-11-27 09:20:28+00:00,2024-11-27 13:53:14+00:00,closed,[]
+psycopg/psycopg2,1756,2024-11-25 04:25:48+00:00,2024-11-25 12:02:46+00:00,closed,[]
+psycopg/psycopg2,1754,2024-11-22 23:22:10+00:00,2024-11-23 01:05:27+00:00,closed,[]
+psycopg/psycopg2,1753,2024-11-19 10:50:21+00:00,2024-11-19 22:23:40+00:00,closed,[]
+psycopg/psycopg2,1752,2024-11-18 09:34:48+00:00,2024-11-19 22:12:24+00:00,closed,[]
+psycopg/psycopg2,1751,2024-11-16 04:31:58+00:00,2024-11-16 16:58:07+00:00,closed,[]
+psycopg/psycopg2,1750,2024-11-05 22:41:41+00:00,2024-11-06 07:30:58+00:00,closed,[]
+psycopg/psycopg2,1749,2024-11-05 22:16:43+00:00,2024-11-06 07:22:55+00:00,closed,[]
+psycopg/psycopg2,1748,2024-11-05 10:14:44+00:00,2024-11-05 16:21:43+00:00,closed,[]
+psycopg/psycopg2,1747,2024-11-02 18:28:13+00:00,2024-11-03 10:47:31+00:00,closed,[]
+psycopg/psycopg2,1746,2024-10-31 23:03:46+00:00,2024-11-01 09:32:07+00:00,closed,[]
+psycopg/psycopg2,1745,2024-10-31 19:43:42+00:00,2024-11-01 10:42:49+00:00,closed,[]
+psycopg/psycopg2,1744,2024-10-31 10:36:12+00:00,2024-10-31 11:37:31+00:00,closed,[]
+psycopg/psycopg2,1742,2024-10-24 20:06:38+00:00,2024-10-30 14:27:35+00:00,closed,[]
+psycopg/psycopg2,1741,2024-10-23 06:34:50+00:00,2024-10-30 14:30:58+00:00,closed,[]
+psycopg/psycopg2,1739,2024-10-20 06:10:14+00:00,2024-10-20 13:25:02+00:00,closed,[]
+psycopg/psycopg2,1738,2024-10-17 11:36:46+00:00,2024-10-20 13:30:25+00:00,closed,[]
+psycopg/psycopg2,1737,2024-10-16 18:15:36+00:00,2024-10-20 13:17:03+00:00,closed,[]
+psycopg/psycopg2,1736,2024-10-16 11:27:45+00:00,2025-01-04 20:00:45+00:00,closed,[]
+psycopg/psycopg2,1734,2024-10-10 12:52:29+00:00,2024-10-10 13:09:51+00:00,closed,[]
+psycopg/psycopg2,1732,2024-10-08 02:15:06+00:00,2024-10-08 09:19:12+00:00,closed,[]
+psycopg/psycopg2,1731,2024-10-06 06:59:20+00:00,2024-10-06 18:46:14+00:00,closed,[]
+psycopg/psycopg2,1727,2024-09-09 12:50:32+00:00,2024-10-11 13:25:36+00:00,closed,[]
+psycopg/psycopg2,1726,2024-09-04 09:46:18+00:00,2024-09-05 05:22:24+00:00,closed,[]
+psycopg/psycopg2,1724,2024-08-24 07:48:26+00:00,2024-10-30 14:32:11+00:00,closed,[]
+psycopg/psycopg2,1723,2024-08-20 13:21:42+00:00,2024-08-20 17:11:59+00:00,closed,[]
+sqlalchemy/sqlalchemy,12496,2025-04-03 14:37:36+00:00,,open,"['feature', 'orm', 'sqlalchemy.ext']"
+sqlalchemy/sqlalchemy,12479,2025-03-27 17:24:55+00:00,,open,"['awaiting info', 'use case']"
+sqlalchemy/sqlalchemy,12405,2025-03-06 16:03:46+00:00,,open,"['bug', 'awaiting pep', 'near-term release', 'orm - annotated declarative']"
+sqlalchemy/sqlalchemy,12398,2025-03-05 11:01:36+00:00,,open,"['orm', 'use case']"
+sqlalchemy/sqlalchemy,12346,2025-02-13 18:59:41+00:00,,open,"['orm', 'SQLA mypy plugin']"
+sqlalchemy/sqlalchemy,12341,2025-02-12 20:49:45+00:00,,open,"['oracle', 'use case']"
+sqlalchemy/sqlalchemy,12317,2025-02-05 17:24:30+00:00,,open,"['oracle', 'datatypes', 'use case']"
+sqlalchemy/sqlalchemy,12273,2025-01-23 21:19:01+00:00,,open,"['use case', 'asyncio', 'dialects']"
+sqlalchemy/sqlalchemy,12271,2025-01-23 15:12:34+00:00,,open,"['bug', 'dml']"
+sqlalchemy/sqlalchemy,12240,2025-01-10 17:59:09+00:00,,open,"['mysql', 'reflection', 'mariadb']"
+sqlalchemy/sqlalchemy,12186,2024-12-17 20:45:10+00:00,,open,"['orm', 'unit of work', 'use case', 'eager_defaults']"
+sqlalchemy/sqlalchemy,12101,2024-11-14 21:23:30+00:00,,open,"['postgresql', 'oracle', 'use case']"
+sqlalchemy/sqlalchemy,12097,2024-11-14 11:45:53+00:00,,open,"['question', 'documentation', 'expected behavior', 'law of twos']"
+sqlalchemy/sqlalchemy,12096,2024-11-14 11:12:52+00:00,,open,"['bug', 'orm', 'hard orm', 'dml']"
+sqlalchemy/sqlalchemy,11956,2024-10-06 00:06:47+00:00,,open,"['bug', 'high priority', 'engine', 'asyncio']"
+sqlalchemy/sqlalchemy,11686,2024-08-03 21:47:03+00:00,,open,"['dataclasses', 'typing']"
+sqlalchemy/sqlalchemy,11677,2024-08-01 14:42:00+00:00,,open,"['bug', 'sqlite', 'reflection', 'quagmire', 'law of twos']"
+sqlalchemy/sqlalchemy,11671,2024-07-31 10:06:00+00:00,,open,"['sql', 'PRs (with tests!) welcome', 'use case', 'patch provided']"
+sqlalchemy/sqlalchemy,11633,2024-07-22 16:34:43+00:00,,open,"['oracle', 'datatypes', 'fairly easy', 'PRs (with tests!) welcome', 'use case']"
+sqlalchemy/sqlalchemy,11623,2024-07-19 16:17:25+00:00,,open,"['orm', 'performance', 'expected behavior']"
+sqlalchemy/sqlalchemy,11622,2024-07-19 14:49:22+00:00,,open,"['feature', 'sqlalchemy.ext']"
+sqlalchemy/sqlalchemy,11620,2024-07-19 12:19:46+00:00,,open,"['sql', 'SQL Server', 'fairly easy']"
+sqlalchemy/sqlalchemy,11597,2024-07-11 17:04:55+00:00,,open,"['bug', 'datatypes', 'typing']"
+sqlalchemy/sqlalchemy,11536,2024-06-26 12:33:06+00:00,,open,"['orm', 'use case', 'orm - annotated declarative']"
+sqlalchemy/sqlalchemy,11526,2024-06-23 09:50:39+00:00,,open,"['sql', 'functions', 'fairly easy']"
+sqlalchemy/sqlalchemy,11450,2024-06-04 20:17:05+00:00,,open,"['orm', 'loader options', 'PRs (with tests!) welcome']"
+sqlalchemy/sqlalchemy,11385,2024-05-14 12:36:15+00:00,,open,"['reflection', 'use case']"
+sqlalchemy/sqlalchemy,11312,2024-04-23 19:41:16+00:00,,open,"['oracle', 'reflection', 'PRs (with tests!) welcome']"
+sqlalchemy/sqlalchemy,11284,2024-04-17 17:05:03+00:00,,open,"['bug', 'documentation', 'tests', 'schema']"
+sqlalchemy/sqlalchemy,11238,2024-04-05 18:22:23+00:00,,open,"['orm', 'cextensions', 'performance']"
+sqlalchemy/sqlalchemy,11226,2024-04-02 13:05:18+00:00,,open,"['bug', 'orm', 'loader options']"
+sqlalchemy/sqlalchemy,11136,2024-03-11 15:46:34+00:00,,open,"['awaiting info', 'use case']"
+sqlalchemy/sqlalchemy,11132,2024-03-10 16:55:41+00:00,,open,"['documentation', 'mysql', 'datatypes', 'PRs (with tests!) welcome']"
+sqlalchemy/sqlalchemy,11122,2024-03-08 12:52:36+00:00,,open,"['postgresql', 'PRs (with tests!) welcome', 'use case']"
+sqlalchemy/sqlalchemy,11074,2024-03-01 03:50:30+00:00,,open,"['sqlite', 'use case', 'json']"
+sqlalchemy/sqlalchemy,12500,2025-04-05 16:41:11+00:00,2025-04-05 16:51:23+00:00,closed,"['postgresql', 'use case']"
+sqlalchemy/sqlalchemy,12491,2025-04-02 10:15:21+00:00,2025-04-02 11:01:44+00:00,closed,['use case']
+sqlalchemy/sqlalchemy,12488,2025-04-01 06:06:39+00:00,2025-04-02 16:32:52+00:00,closed,"['bug', 'schema', 'mysql', 'regression', 'mariadb']"
+sqlalchemy/sqlalchemy,12476,2025-03-26 21:15:11+00:00,2025-03-26 21:25:06+00:00,closed,"['oracle', 'external driver issues']"
+sqlalchemy/sqlalchemy,12473,2025-03-26 17:59:24+00:00,2025-03-27 13:33:46+00:00,closed,"['bug', 'high priority', 'orm', 'near-term release', 'orm - annotated declarative']"
+sqlalchemy/sqlalchemy,12471,2025-03-26 17:38:01+00:00,2025-03-27 16:30:15+00:00,closed,"['bug', 'asyncio', 'near-term release']"
+sqlalchemy/sqlalchemy,12451,2025-03-19 21:56:01+00:00,2025-03-19 23:58:40+00:00,closed,"['bug', 'sql', 'regression', 'near-term release']"
+sqlalchemy/sqlalchemy,12450,2025-03-19 21:29:42+00:00,2025-03-27 15:17:28+00:00,closed,"['sql', 'functions', 'use case']"
+sqlalchemy/sqlalchemy,12441,2025-03-17 20:01:01+00:00,2025-03-18 16:12:31+00:00,closed,['deprecations']
+sqlalchemy/sqlalchemy,12438,2025-03-17 14:51:53+00:00,2025-03-17 19:47:30+00:00,closed,"['bug', 'orm', 'cant reproduce', 'awaiting info']"
+sqlalchemy/sqlalchemy,12437,2025-03-16 20:07:37+00:00,2025-03-17 21:19:05+00:00,closed,"['orm', 'deprecations']"
+sqlalchemy/sqlalchemy,12432,2025-03-14 14:10:17+00:00,2025-03-20 01:42:10+00:00,closed,"['postgresql', 'sql', 'PRs (with tests!) welcome', 'use case']"
+sqlalchemy/sqlalchemy,12425,2025-03-12 14:12:45+00:00,2025-03-18 12:17:43+00:00,closed,"['bug', 'mysql', 'sqlite', 'reflection']"
+sqlalchemy/sqlalchemy,12417,2025-03-11 11:53:22+00:00,2025-03-11 17:31:10+00:00,closed,"['bug', 'postgresql', 'sql']"
+sqlalchemy/sqlalchemy,12416,2025-03-11 11:45:44+00:00,2025-03-11 11:57:32+00:00,closed,"['typing', 'awaiting pep']"
+sqlalchemy/sqlalchemy,12411,2025-03-09 01:41:29+00:00,2025-03-09 05:01:21+00:00,closed,"['cant reproduce', 'expected behavior']"
+sqlalchemy/sqlalchemy,12408,2025-03-08 10:13:42+00:00,2025-03-08 13:57:06+00:00,closed,[]
+sqlalchemy/sqlalchemy,12395,2025-03-04 15:10:18+00:00,2025-03-06 18:35:22+00:00,closed,"['bug', 'orm', 'inheritance']"
+sqlalchemy/sqlalchemy,12382,2025-02-27 19:16:27+00:00,2025-02-28 13:17:41+00:00,closed,"['bug', 'schema', 'near-term release']"
+sqlalchemy/sqlalchemy,12380,2025-02-27 17:53:04+00:00,2025-03-03 13:29:40+00:00,closed,"['use case', 'setup', 'dialects']"
+sqlalchemy/sqlalchemy,12378,2025-02-27 09:11:13+00:00,2025-02-27 11:15:08+00:00,closed,"['orm', 'use case']"
+sqlalchemy/sqlalchemy,12373,2025-02-25 15:29:16+00:00,2025-03-03 22:05:24+00:00,closed,"['quagmire', 'typing', 'awaiting pep']"
+sqlalchemy/sqlalchemy,12368,2025-02-20 19:02:51+00:00,2025-02-21 13:47:28+00:00,closed,"['bug', 'sqlite']"
+sqlalchemy/sqlalchemy,12364,2025-02-20 16:11:54+00:00,2025-02-20 20:20:47+00:00,closed,"['bug', 'sql', 'near-term release']"
+sqlalchemy/sqlalchemy,12363,2025-02-20 16:01:12+00:00,2025-03-16 17:28:58+00:00,closed,"['bug', 'sql', 'near-term release']"
+sqlalchemy/sqlalchemy,12357,2025-02-18 15:13:24+00:00,2025-02-18 17:57:28+00:00,closed,"['bug', 'orm', 'near-term release']"
+sqlalchemy/sqlalchemy,12351,2025-02-17 11:30:07+00:00,2025-02-17 13:20:27+00:00,closed,[]
+sqlalchemy/sqlalchemy,12342,2025-02-12 20:53:04+00:00,2025-03-18 13:01:13+00:00,closed,"['postgresql', 'use case']"
+celery/celery,9654,2025-04-03 10:59:27+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9653,2025-04-02 13:10:38+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9641,2025-03-27 10:59:00+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9637,2025-03-25 21:55:24+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9631,2025-03-24 15:22:28+00:00,,open,"['Issue Type: Bug Report', 'hiredis']"
+celery/celery,9622,2025-03-17 09:22:20+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9608,2025-03-12 18:23:46+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9588,2025-02-28 10:09:06+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9586,2025-02-27 02:06:50+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9581,2025-02-25 07:35:24+00:00,,open,['Issue Type: Enhancement']
+celery/celery,9579,2025-02-24 16:46:58+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9573,2025-02-22 21:35:48+00:00,,open,['Issue Type: Feature Request']
+celery/celery,9569,2025-02-21 14:12:19+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9563,2025-02-19 14:23:32+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9561,2025-02-17 08:08:42+00:00,,open,"['Issue Type: Bug Report', 'Category: Documentation']"
+celery/celery,9541,2025-02-03 05:32:07+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9537,2025-01-30 19:28:41+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9527,2025-01-29 02:52:38+00:00,,open,[]
+celery/celery,9523,2025-01-27 05:36:42+00:00,,open,"['Issue Type: Bug Report', 'Category: Documentation']"
+celery/celery,9520,2025-01-24 01:49:48+00:00,,open,[]
+celery/celery,9514,2025-01-23 10:08:18+00:00,,open,[]
+celery/celery,9513,2025-01-23 04:12:43+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9512,2025-01-23 01:25:30+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9506,2025-01-21 12:31:17+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9505,2025-01-21 02:55:06+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9501,2025-01-17 14:43:01+00:00,,open,['Issue Type: Enhancement']
+celery/celery,9492,2025-01-13 16:52:28+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9489,2025-01-08 12:47:58+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9475,2024-12-20 13:16:04+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9466,2024-12-13 17:51:30+00:00,,open,['Issue Type: Feature Request']
+celery/celery,9462,2024-12-12 16:51:39+00:00,,open,['Issue Type: Bug Report']
+celery/celery,9454,2024-12-07 18:38:33+00:00,,open,['Issue Type: Feature Request']
+celery/celery,9443,2024-11-29 15:01:25+00:00,,open,['Issue Type: Feature Request']
+celery/celery,9651,2025-04-02 09:04:15+00:00,2025-04-04 00:38:46+00:00,closed,['Issue Type: Bug Report']
+celery/celery,9649,2025-04-01 19:40:30+00:00,2025-04-01 19:57:42+00:00,closed,['Issue Type: Bug Report']
+celery/celery,9629,2025-03-21 16:31:48+00:00,2025-03-21 17:00:13+00:00,closed,['Issue Type: Bug Report']
+celery/celery,9625,2025-03-18 06:00:41+00:00,2025-03-20 11:59:43+00:00,closed,['Issue Type: Feature Request']
+celery/celery,9619,2025-03-14 16:19:51+00:00,2025-03-14 17:05:31+00:00,closed,[]
+celery/celery,9613,2025-03-13 14:28:38+00:00,2025-03-13 16:53:32+00:00,closed,['Issue Type: Bug Report']
+celery/celery,9596,2025-03-05 15:57:38+00:00,2025-03-20 07:30:10+00:00,closed,['Issue Type: Bug Report']
+celery/celery,9570,2025-02-21 15:57:33+00:00,2025-03-07 17:41:00+00:00,closed,['Issue Type: Bug Report']
+boto/boto3,4497,2025-04-03 16:12:16+00:00,,open,"['bug', 's3', 'p2', 'potential-regression']"
+boto/boto3,4496,2025-04-03 13:07:44+00:00,,open,"['feature-request', 'config', 'p3']"
+boto/boto3,4493,2025-03-30 12:54:36+00:00,,open,"['bug', 'needs-triage']"
+boto/boto3,4492,2025-03-28 12:09:15+00:00,,open,"['bug', 'needs-triage']"
+boto/boto3,4488,2025-03-25 10:09:09+00:00,,open,"['bug', 'response-requested', 'ec2', 'p3']"
+boto/boto3,4484,2025-03-19 20:17:15+00:00,,open,"['bug', 'needs-triage']"
+boto/boto3,4481,2025-03-18 16:15:12+00:00,,open,"['bug', 'response-requested', 'closing-soon', 'p3']"
+boto/boto3,4476,2025-03-17 04:16:44+00:00,,open,"['bug', 'needs-triage']"
+boto/boto3,4474,2025-03-14 16:36:59+00:00,,open,"['bug', 'documentation', 'investigating', 'p3']"
+boto/boto3,4472,2025-03-13 20:53:49+00:00,,open,"['bug', 'cloudwatch', 'p3']"
+boto/boto3,4470,2025-03-11 17:50:10+00:00,,open,"['feature-request', 'p3']"
+boto/boto3,4465,2025-03-06 12:57:01+00:00,,open,"['bug', 'eventbridge', 'p3']"
+boto/boto3,4456,2025-02-28 08:49:42+00:00,,open,"['feature-request', 'response-requested', 'p3', 'sts']"
+boto/boto3,4453,2025-02-27 20:26:31+00:00,,open,"['bug', 'response-requested', 'closing-soon', 'lakeformation', 'p3']"
+boto/boto3,4451,2025-02-25 14:34:46+00:00,,open,"['bug', 'dynamodb', 'p2']"
+boto/boto3,4449,2025-02-24 20:01:47+00:00,,open,"['dynamodb', 'announcement']"
+boto/boto3,4448,2025-02-24 04:40:36+00:00,,open,"['documentation', 'feature-request', 'p3']"
+boto/boto3,4435,2025-02-10 17:20:59+00:00,,open,"['bug', 's3', 'third-party', 'p2', 'potential-regression']"
+boto/boto3,4431,2025-02-09 10:40:19+00:00,,open,"['bug', 'documentation', 's3', 'service-api', 'p3']"
+boto/boto3,4427,2025-02-06 20:37:14+00:00,,open,"['feature-request', 'p3']"
+boto/boto3,4405,2025-01-23 00:01:42+00:00,,open,"['bug', 'service-api', 'glue', 'p3']"
+boto/boto3,4392,2025-01-16 02:38:11+00:00,,open,['announcement']
+boto/boto3,4382,2025-01-03 13:14:29+00:00,,open,"['bug', 'service-api', 'p2', 'bedrock-runtime']"
+boto/boto3,4374,2024-12-10 19:38:48+00:00,,open,"['bug', 'service-api', 'p2', 'bedrock-runtime']"
+boto/boto3,4368,2024-12-04 21:52:29+00:00,,open,"['documentation', 'feature-request', 'p2']"
+boto/boto3,4367,2024-12-04 13:36:54+00:00,,open,"['bug', 's3', 'p3']"
+boto/boto3,4366,2024-12-04 12:06:52+00:00,,open,"['feature-request', 's3', 'p3']"
+boto/boto3,4360,2024-11-27 07:58:14+00:00,,open,"['bug', 's3', 'p3']"
+boto/boto3,4351,2024-11-16 13:57:18+00:00,,open,"['documentation', 's3', 'p3']"
+boto/boto3,4350,2024-11-15 23:00:15+00:00,,open,"['bug', 's3', 'p3']"
+boto/boto3,4339,2024-11-09 14:29:35+00:00,,open,"['bug', 'documentation', 'dynamodb', 'service-api', 'p3']"
+boto/boto3,4312,2024-10-19 09:09:35+00:00,,open,"['bug', 'transcribe', 'p2']"
+boto/boto3,4299,2024-10-11 18:50:24+00:00,,open,"['bug', 's3', 'p3']"
+boto/boto3,4266,2024-09-11 09:38:14+00:00,,open,"['bug', 'service-api', 'glue', 'p3']"
+boto/boto3,4253,2024-09-02 11:30:14+00:00,,open,"['feature-request', 'dynamodb', 'service-api', 'p2', 'stepfunctions']"
+boto/boto3,4252,2024-09-02 05:25:03+00:00,,open,"['bug', 'documentation', 's3', 'endpoints', 'p2']"
+boto/boto3,4248,2024-08-27 15:49:50+00:00,,open,"['bug', 'service-api', 'p2', 'costexplorer']"
+boto/boto3,4495,2025-04-01 19:30:02+00:00,2025-04-01 21:30:19+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4490,2025-03-25 19:11:01+00:00,2025-03-26 14:52:08+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4489,2025-03-25 17:09:52+00:00,2025-03-27 09:56:07+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4487,2025-03-25 03:32:00+00:00,2025-03-28 13:30:27+00:00,closed,"['response-requested', 'guidance']"
+boto/boto3,4485,2025-03-19 21:46:49+00:00,2025-03-20 06:23:40+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4480,2025-03-18 14:57:30+00:00,2025-03-18 18:57:06+00:00,closed,"['feature-request', 'p3', 'fsx']"
+boto/boto3,4477,2025-03-17 14:02:10+00:00,2025-03-18 06:06:19+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4475,2025-03-16 16:35:45+00:00,2025-03-22 15:02:07+00:00,closed,"['response-requested', 'ses', 'p3']"
+boto/boto3,4471,2025-03-13 17:19:42+00:00,2025-03-21 21:39:56+00:00,closed,"['feature-request', 'p3', 'bedrock']"
+boto/boto3,4469,2025-03-11 09:11:43+00:00,2025-03-21 20:49:56+00:00,closed,"['bug', 'documentation', 'response-requested', 'p3']"
+boto/boto3,4468,2025-03-10 18:46:27+00:00,2025-03-10 19:42:29+00:00,closed,"['feature-request', 'needs-triage']"
+boto/boto3,4467,2025-03-10 03:48:20+00:00,2025-03-16 17:16:29+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4466,2025-03-09 00:12:07+00:00,2025-03-12 16:25:17+00:00,closed,"['bug', 'response-requested', 'timestream', 'p2']"
+boto/boto3,4463,2025-03-06 06:47:18+00:00,2025-04-07 15:21:20+00:00,closed,"['bug', 'p2', 'bedrock']"
+boto/boto3,4462,2025-03-05 10:10:13+00:00,2025-03-06 20:54:43+00:00,closed,"['bug', 'response-requested', 'p2', 'potential-regression', 'bedrock']"
+boto/boto3,4461,2025-03-04 20:59:03+00:00,2025-03-06 02:19:30+00:00,closed,"['bug', 'response-requested', 'p2', 'sts', 'potential-regression']"
+boto/boto3,4458,2025-03-01 20:42:47+00:00,2025-03-26 19:11:08+00:00,closed,"['bug', 'response-requested', 'eventbridge', 'p3']"
+boto/boto3,4454,2025-02-27 20:40:39+00:00,2025-02-27 21:11:07+00:00,closed,"['bug', 'needs-triage']"
+boto/boto3,4450,2025-02-25 02:02:39+00:00,2025-03-05 23:37:46+00:00,closed,"['bug', 'documentation', 'kms', 'p3']"
+boto/boto3,4443,2025-02-15 01:29:49+00:00,2025-03-11 21:36:38+00:00,closed,"['bug', 'response-requested', 's3', 'p2']"
+boto/boto3,4442,2025-02-14 13:18:17+00:00,2025-03-10 19:33:43+00:00,closed,"['bug', 'p2']"
+boto/boto3,4438,2025-02-13 17:44:05+00:00,2025-02-17 23:36:00+00:00,closed,"['bug', 'documentation', 'response-requested', 'iam', 'service-api', 'p3']"
+boto/boto3,4437,2025-02-12 20:22:55+00:00,2025-04-02 16:10:39+00:00,closed,"['bug', 'service-api', 'eventbridge', 'p3']"
+boto/boto3,4436,2025-02-11 13:23:18+00:00,2025-03-17 21:55:44+00:00,closed,"['bug', 'service-api', 'p2', 'bedrock']"
+boto/boto3,4434,2025-02-10 15:41:54+00:00,2025-03-06 23:34:26+00:00,closed,"['bug', 'response-requested', 'p2', 'appstream']"
+boto/boto3,4433,2025-02-10 03:48:55+00:00,2025-03-10 19:34:16+00:00,closed,"['bug', 'p2']"
+boto/boto3,4430,2025-02-09 05:15:32+00:00,2025-03-06 22:30:04+00:00,closed,"['bug', 'response-requested', 'p3', 'resource-explorer-2']"
+boto/boto3,4429,2025-02-08 00:05:17+00:00,2025-03-06 22:51:09+00:00,closed,"['bug', 'response-requested', 'ec2', 'p2']"
+boto/boto3,4428,2025-02-07 16:25:44+00:00,2025-02-12 10:13:19+00:00,closed,"['feature-request', 'response-requested', 'cloudwatchlogs', 'p2']"
+boto/boto3,4426,2025-02-05 17:24:33+00:00,2025-03-06 22:29:04+00:00,closed,"['bug', 'documentation', 'response-requested', 'p3']"
+boto/boto3,4424,2025-02-05 05:59:36+00:00,2025-02-06 22:20:39+00:00,closed,"['bug', 'documentation', 'p3']"
+boto/boto3,4420,2025-02-01 08:17:24+00:00,2025-02-05 14:17:45+00:00,closed,"['bug', 'response-requested', 'cloudwatch', 'p2']"
+home-assistant/core,142502,2025-04-07 21:05:09+00:00,,open,['integration: conversation']
+home-assistant/core,142500,2025-04-07 20:47:45+00:00,,open,[]
+home-assistant/core,142499,2025-04-07 20:31:22+00:00,,open,['integration: roborock']
+home-assistant/core,142494,2025-04-07 18:37:35+00:00,,open,[]
+home-assistant/core,142493,2025-04-07 18:36:10+00:00,,open,['integration: switchbot']
+home-assistant/core,142492,2025-04-07 18:31:31+00:00,,open,['integration: squeezebox']
+home-assistant/core,142486,2025-04-07 16:45:07+00:00,,open,['integration: google']
+home-assistant/core,142481,2025-04-07 13:59:11+00:00,,open,['integration: shelly']
+home-assistant/core,142480,2025-04-07 13:54:17+00:00,,open,"['integration: esphome', 'network_issue']"
+home-assistant/core,142476,2025-04-07 12:57:38+00:00,,open,['integration: sharkiq']
+home-assistant/core,142474,2025-04-07 12:31:06+00:00,,open,['integration: reolink']
+home-assistant/core,142473,2025-04-07 12:26:20+00:00,,open,['integration: androidtv']
+home-assistant/core,142471,2025-04-07 11:57:47+00:00,,open,['integration: xiaomi_ble']
+home-assistant/core,142468,2025-04-07 10:53:43+00:00,,open,['integration: ohme']
+home-assistant/core,142466,2025-04-07 10:23:43+00:00,,open,['integration: zha']
+home-assistant/core,142464,2025-04-07 09:50:08+00:00,,open,['integration: adguard']
+home-assistant/core,142458,2025-04-07 08:07:58+00:00,,open,['integration: pvpc_hourly_pricing']
+home-assistant/core,142449,2025-04-07 06:02:22+00:00,,open,['integration: blebox']
+home-assistant/core,142446,2025-04-07 04:17:19+00:00,,open,"['needs-more-information', 'integration: fitbit']"
+home-assistant/core,142441,2025-04-07 01:47:15+00:00,,open,['needs-more-information']
+home-assistant/core,142440,2025-04-06 23:49:40+00:00,,open,['integration: bthome']
+home-assistant/core,142435,2025-04-06 21:53:31+00:00,,open,['integration: rest_command']
+home-assistant/core,142434,2025-04-06 21:39:47+00:00,,open,['integration: reolink']
+home-assistant/core,142431,2025-04-06 19:55:17+00:00,,open,['integration: openai_conversation']
+home-assistant/core,142428,2025-04-06 19:14:19+00:00,,open,['integration: bluesound']
+home-assistant/core,142488,2025-04-07 17:37:06+00:00,2025-04-07 21:04:19+00:00,closed,"['integration: zone', 'feature-request']"
+home-assistant/core,142484,2025-04-07 16:41:42+00:00,2025-04-07 17:23:37+00:00,closed,"['wontfix', 'integration: mqtt']"
+home-assistant/core,142470,2025-04-07 11:43:42+00:00,2025-04-07 13:54:10+00:00,closed,['integration: renault']
+home-assistant/core,142469,2025-04-07 10:55:32+00:00,2025-04-07 11:52:07+00:00,closed,[]
+home-assistant/core,142442,2025-04-07 02:23:59+00:00,2025-04-07 08:11:16+00:00,closed,['integration: homekit_controller']
+home-assistant/core,142433,2025-04-06 20:01:28+00:00,2025-04-06 20:21:27+00:00,closed,['question']
+home-assistant/core,142423,2025-04-06 18:38:36+00:00,2025-04-06 21:22:36+00:00,closed,['integration: wmspro']
+home-assistant/core,142404,2025-04-06 13:35:36+00:00,2025-04-06 20:42:47+00:00,closed,"['needs-more-information', 'integration: ambient_station']"
+home-assistant/core,142399,2025-04-06 12:03:58+00:00,2025-04-06 19:58:32+00:00,closed,"['integration: esphome', 'problem with file system']"
+home-assistant/core,142398,2025-04-06 11:41:12+00:00,2025-04-06 21:21:44+00:00,closed,[]
+home-assistant/core,142384,2025-04-06 06:44:17+00:00,2025-04-06 09:56:26+00:00,closed,['integration: smartthings']
+home-assistant/core,142381,2025-04-06 05:08:14+00:00,2025-04-06 11:00:43+00:00,closed,['integration: esphome']
+home-assistant/core,142378,2025-04-06 01:01:31+00:00,2025-04-06 01:16:42+00:00,closed,['integration: conversation']
+home-assistant/core,142376,2025-04-06 00:44:41+00:00,2025-04-06 06:25:37+00:00,closed,[]
+home-assistant/core,142375,2025-04-06 00:33:53+00:00,2025-04-06 14:30:45+00:00,closed,['integration: google']
+home-assistant/core,142371,2025-04-05 21:52:02+00:00,2025-04-05 21:54:52+00:00,closed,[]
+home-assistant/core,142370,2025-04-05 21:32:39+00:00,2025-04-07 00:22:55+00:00,closed,"['feature-request', 'integration: inkbird']"
+saltstack/salt,67949,2025-04-07 20:07:04+00:00,,open,"['Bug', 'Windows', 'Confirmed']"
+saltstack/salt,67948,2025-04-07 11:11:40+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67947,2025-04-07 09:33:20+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67946,2025-04-07 07:33:02+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67944,2025-04-06 15:20:51+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67941,2025-04-04 07:17:03+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67940,2025-04-03 10:07:52+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67939,2025-04-03 09:58:36+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67938,2025-04-02 19:23:26+00:00,,open,"['Bug', 'Windows', 'lgpo']"
+saltstack/salt,67936,2025-04-02 09:55:31+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67934,2025-04-01 18:20:16+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67932,2025-04-01 15:23:54+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67931,2025-04-01 08:12:21+00:00,,open,"['Bug', 'memory-leak']"
+saltstack/salt,67929,2025-03-31 05:58:20+00:00,,open,"['Feature', 'needs-triage']"
+saltstack/salt,67926,2025-03-27 12:55:19+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67925,2025-03-27 12:34:51+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67916,2025-03-24 10:08:52+00:00,,open,"['Bug', 'info-needed']"
+saltstack/salt,67915,2025-03-24 05:16:19+00:00,,open,"['Bug', 'Confirmed']"
+saltstack/salt,67911,2025-03-22 22:18:39+00:00,,open,['Documentation']
+saltstack/salt,67907,2025-03-21 13:02:40+00:00,,open,[]
+saltstack/salt,67905,2025-03-21 02:52:38+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67904,2025-03-20 19:01:13+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67903,2025-03-20 16:55:54+00:00,,open,['enhancement']
+saltstack/salt,67902,2025-03-20 15:29:33+00:00,,open,[]
+saltstack/salt,67895,2025-03-19 19:06:42+00:00,,open,"['Feature', 'needs-triage']"
+saltstack/salt,67894,2025-03-19 18:37:21+00:00,,open,"['Bug', 'needs-triage']"
+saltstack/salt,67891,2025-03-18 21:42:19+00:00,,open,['Bug']
+saltstack/salt,67888,2025-03-18 19:20:29+00:00,,open,"['Bug', 'tech-debt']"
+saltstack/salt,67927,2025-03-27 13:57:59+00:00,2025-03-28 16:26:13+00:00,closed,"['Bug', 'info-needed']"
+saltstack/salt,67917,2025-03-24 19:01:06+00:00,2025-03-27 12:22:24+00:00,closed,"['Bug', 'needs-triage']"
+saltstack/salt,67901,2025-03-20 13:07:10+00:00,2025-03-20 15:32:15+00:00,closed,['expected-behavior']
+saltstack/salt,67900,2025-03-20 09:37:54+00:00,2025-03-21 19:08:11+00:00,closed,"['Bug', 'Packaging']"
+saltstack/salt,67812,2025-03-13 12:33:00+00:00,2025-03-19 21:37:50+00:00,closed,"['Bug', 'info-needed']"
+saltstack/salt,67810,2025-03-12 18:37:50+00:00,2025-03-13 15:28:24+00:00,closed,['Bug']
+saltstack/salt,67805,2025-03-10 10:36:07+00:00,2025-03-24 21:11:20+00:00,closed,[]
+saltstack/salt,67795,2025-03-07 02:30:39+00:00,2025-03-07 03:09:42+00:00,closed,"['Bug', 'needs-triage']"
+saltstack/salt,67777,2025-02-27 16:51:45+00:00,2025-03-12 08:42:04+00:00,closed,['Bug']
+saltstack/salt,67770,2025-02-25 17:12:11+00:00,2025-03-05 21:24:25+00:00,closed,['Bug']
+saltstack/salt,67769,2025-02-25 08:35:47+00:00,2025-03-07 17:28:01+00:00,closed,"['info-needed', 'Linux', 'fedora']"
+saltstack/salt,67768,2025-02-24 22:18:10+00:00,2025-02-25 16:49:54+00:00,closed,['Documentation']
+saltstack/salt,67751,2025-02-19 15:51:05+00:00,2025-02-21 09:32:29+00:00,closed,"['Documentation', 'needs-triage']"
+jupyter/notebook,7613,2025-03-17 20:09:08+00:00,,open,"['bug', 'status:Needs Info', 'status:Needs Triage']"
+jupyter/notebook,7606,2025-03-12 20:58:18+00:00,,open,['maintenance']
+jupyter/notebook,7600,2025-03-08 10:32:23+00:00,,open,['bug']
+jupyter/notebook,7597,2025-03-06 12:07:16+00:00,,open,['bug']
+jupyter/notebook,7585,2025-02-09 06:33:35+00:00,,open,['bug']
+jupyter/notebook,7575,2025-02-02 18:55:58+00:00,,open,"['enhancement', 'status:Needs Discussion']"
+jupyter/notebook,7571,2025-01-29 17:56:01+00:00,,open,"['enhancement', 'tag:Design and UX']"
+jupyter/notebook,7569,2025-01-24 14:39:15+00:00,,open,['bug']
+jupyter/notebook,7565,2025-01-17 21:57:52+00:00,,open,"['enhancement', 'tag:Design and UX']"
+jupyter/notebook,7538,2024-12-11 01:53:40+00:00,,open,['bug']
+jupyter/notebook,7534,2024-12-05 10:59:38+00:00,,open,['bug']
+jupyter/notebook,7531,2024-12-04 15:05:07+00:00,,open,['enhancement']
+jupyter/notebook,7525,2024-11-28 12:16:54+00:00,,open,['enhancement']
+jupyter/notebook,7520,2024-11-17 05:17:03+00:00,,open,['bug']
+jupyter/notebook,7516,2024-11-06 20:43:59+00:00,,open,['maintenance']
+jupyter/notebook,7515,2024-11-06 19:41:40+00:00,,open,"['bug', 'status:Blocked']"
+jupyter/notebook,7509,2024-10-31 09:52:29+00:00,,open,"['enhancement', 'status:Needs Info']"
+jupyter/notebook,7504,2024-10-30 11:02:57+00:00,,open,['bug']
+jupyter/notebook,7496,2024-10-23 21:47:14+00:00,,open,['bug']
+jupyter/notebook,7492,2024-10-22 21:32:41+00:00,,open,"['bug', 'status:Needs Discussion', 'tag:Accessibility']"
+jupyter/notebook,7491,2024-10-22 21:28:36+00:00,,open,"['bug', 'tag:Accessibility']"
+jupyter/notebook,7490,2024-10-22 21:18:52+00:00,,open,"['bug', 'tag:Accessibility']"
+jupyter/notebook,7489,2024-10-22 21:07:00+00:00,,open,"['bug', 'tag:Accessibility']"
+jupyter/notebook,7488,2024-10-22 18:42:25+00:00,,open,"['bug', 'tag:Accessibility']"
+jupyter/notebook,7476,2024-10-14 20:00:09+00:00,,open,"['bug', 'component:File Browser']"
+jupyter/notebook,7466,2024-09-24 19:32:15+00:00,,open,"['bug', 'os:windows']"
+jupyter/notebook,7465,2024-09-22 16:24:26+00:00,,open,"['bug', 'status:Blocked']"
+jupyter/notebook,7459,2024-09-11 01:01:48+00:00,,open,['bug']
+jupyter/notebook,7458,2024-09-10 21:58:07+00:00,,open,['bug']
+jupyter/notebook,7455,2024-09-09 17:40:42+00:00,,open,['bug']
+jupyter/notebook,7454,2024-09-09 10:20:26+00:00,,open,['tag:Testing']
+jupyter/notebook,7451,2024-09-04 03:20:10+00:00,,open,"['bug', 'status:Needs Info']"
+jupyter/notebook,7450,2024-09-02 13:07:08+00:00,,open,['enhancement']
+jupyter/notebook,7444,2024-08-23 19:04:30+00:00,,open,"['bug', 'status:Blocked']"
+jupyter/notebook,7436,2024-08-05 17:43:48+00:00,,open,['bug']
+jupyter/notebook,7434,2024-08-01 16:26:47+00:00,,open,"['bug', 'status:Needs Discussion']"
+jupyter/notebook,7433,2024-08-01 16:23:04+00:00,,open,['bug']
+jupyter/notebook,7431,2024-07-25 14:25:25+00:00,,open,['bug']
+jupyter/notebook,7428,2024-07-19 00:50:22+00:00,,open,"['enhancement', 'documentation']"
+jupyter/notebook,7420,2024-07-07 16:34:42+00:00,,open,['enhancement']
+jupyter/notebook,7409,2024-06-26 19:55:51+00:00,,open,['documentation']
+jupyter/notebook,7625,2025-04-07 02:24:18+00:00,2025-04-07 02:44:25+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7621,2025-03-28 23:28:54+00:00,2025-04-01 07:44:26+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7615,2025-03-20 16:33:50+00:00,2025-03-21 14:30:10+00:00,closed,['status:Needs Triage']
+jupyter/notebook,7611,2025-03-14 16:52:15+00:00,2025-03-14 17:08:32+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7596,2025-03-04 14:40:32+00:00,2025-03-04 19:58:52+00:00,closed,['enhancement']
+jupyter/notebook,7595,2025-03-03 18:33:30+00:00,2025-03-04 17:56:49+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7589,2025-02-18 12:33:57+00:00,2025-03-18 16:38:53+00:00,closed,"['bug', 'status:Needs Info', 'status:Needs Triage']"
+jupyter/notebook,7588,2025-02-18 11:44:51+00:00,2025-03-04 17:34:59+00:00,closed,"['bug', 'status:Needs Info', 'status:Needs Triage']"
+jupyter/notebook,7584,2025-02-06 11:37:22+00:00,2025-02-06 11:49:36+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7583,2025-02-06 03:00:45+00:00,2025-02-25 18:19:39+00:00,closed,"['bug', 'status:Needs Info', 'status:Needs Triage']"
+jupyter/notebook,7582,2025-02-05 23:20:28+00:00,2025-02-08 19:47:42+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7580,2025-02-05 06:03:42+00:00,2025-02-07 02:52:52+00:00,closed,"['bug', 'status:Needs Triage']"
+jupyter/notebook,7578,2025-02-03 08:52:05+00:00,2025-02-04 08:32:02+00:00,closed,['maintenance']
+jupyter/notebook,7576,2025-02-03 03:28:28+00:00,2025-02-10 08:22:18+00:00,closed,"['bug', 'status:Needs Info', 'status:Needs Triage']"
+jupyter/notebook,7566,2025-01-17 22:19:42+00:00,2025-02-04 07:37:23+00:00,closed,"['enhancement', 'tag:Design and UX']"
+jupyter/notebook,7564,2025-01-12 14:14:26+00:00,2025-03-12 10:29:34+00:00,closed,['bug']
+python-poetry/poetry,10316,2025-04-02 07:42:01+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10315,2025-04-01 05:29:10+00:00,,open,"['kind/bug', 'area/solver']"
+python-poetry/poetry,10314,2025-03-31 23:03:35+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10309,2025-03-28 06:59:08+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10308,2025-03-27 15:22:42+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10306,2025-03-27 08:05:42+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10304,2025-03-26 15:55:09+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10299,2025-03-25 22:56:32+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10295,2025-03-24 23:14:14+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10291,2025-03-20 10:59:45+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10289,2025-03-19 15:35:16+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10287,2025-03-18 16:48:40+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10286,2025-03-18 16:34:43+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10273,2025-03-14 13:07:03+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10272,2025-03-14 10:16:54+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10270,2025-03-13 16:53:01+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10269,2025-03-13 16:51:16+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10268,2025-03-13 11:13:26+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10266,2025-03-11 22:14:10+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10265,2025-03-08 12:30:43+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10254,2025-03-05 16:55:26+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10235,2025-02-28 23:38:49+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10234,2025-02-28 06:31:04+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10231,2025-02-27 14:39:07+00:00,,open,"['area/config', 'kind/feature']"
+python-poetry/poetry,10229,2025-02-27 05:48:11+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10227,2025-02-26 01:38:37+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10226,2025-02-25 20:57:24+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10222,2025-02-25 09:26:03+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10219,2025-02-24 16:22:48+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10217,2025-02-23 17:33:03+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10210,2025-02-21 08:50:20+00:00,,open,"['area/docs', 'status/triage']"
+python-poetry/poetry,10207,2025-02-20 13:19:40+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10204,2025-02-19 12:00:57+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10201,2025-02-19 07:48:21+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10194,2025-02-17 18:06:37+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10193,2025-02-17 14:43:36+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10180,2025-02-14 16:53:15+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10179,2025-02-14 08:55:25+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10170,2025-02-11 07:51:10+00:00,,open,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10167,2025-02-10 20:02:39+00:00,,open,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10325,2025-04-06 05:48:35+00:00,2025-04-07 14:19:20+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10323,2025-04-05 07:35:09+00:00,2025-04-07 14:18:41+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10321,2025-04-04 06:49:28+00:00,2025-04-07 14:16:33+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10320,2025-04-03 19:55:47+00:00,2025-04-05 03:33:34+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10319,2025-04-03 17:59:01+00:00,2025-04-03 18:15:24+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10317,2025-04-02 12:30:16+00:00,2025-04-02 12:40:50+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10307,2025-03-27 10:05:35+00:00,2025-03-27 10:35:22+00:00,closed,"['area/docs', 'status/triage']"
+python-poetry/poetry,10302,2025-03-26 12:03:47+00:00,2025-03-27 16:29:18+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10301,2025-03-26 09:06:44+00:00,2025-03-26 09:54:14+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10298,2025-03-25 21:57:46+00:00,2025-03-31 21:58:23+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10296,2025-03-25 14:42:07+00:00,2025-03-25 14:53:18+00:00,closed,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10294,2025-03-24 17:53:59+00:00,2025-03-25 15:56:15+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10290,2025-03-20 10:48:18+00:00,2025-03-26 18:50:30+00:00,closed,"['kind/bug', 'area/core']"
+python-poetry/poetry,10285,2025-03-18 16:01:28+00:00,2025-03-18 16:17:04+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10284,2025-03-18 16:01:14+00:00,2025-03-18 16:16:54+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10283,2025-03-18 16:00:07+00:00,2025-03-18 19:14:02+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10280,2025-03-18 01:22:56+00:00,2025-03-18 12:36:12+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10279,2025-03-17 01:06:03+00:00,2025-03-17 01:35:06+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10277,2025-03-15 19:06:53+00:00,2025-03-16 10:16:19+00:00,closed,"['kind/feature', 'status/triage']"
+python-poetry/poetry,10267,2025-03-12 09:15:17+00:00,2025-03-30 06:06:45+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10260,2025-03-07 10:39:25+00:00,2025-03-23 16:23:17+00:00,closed,[]
+python-poetry/poetry,10259,2025-03-07 09:36:52+00:00,2025-03-10 07:24:53+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10253,2025-03-05 15:51:18+00:00,2025-03-06 16:39:25+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10252,2025-03-05 10:01:42+00:00,2025-03-07 13:21:57+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10250,2025-03-04 20:37:34+00:00,2025-03-04 22:57:44+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10249,2025-03-04 19:25:22+00:00,2025-03-25 16:28:16+00:00,closed,"['kind/bug', 'area/core']"
+python-poetry/poetry,10248,2025-03-04 12:01:05+00:00,2025-03-04 22:55:39+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10245,2025-03-03 18:20:52+00:00,2025-03-04 01:24:41+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10242,2025-03-03 12:28:09+00:00,2025-03-03 13:54:52+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10241,2025-03-03 03:59:05+00:00,2025-03-03 03:59:41+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10239,2025-03-01 22:38:53+00:00,2025-03-01 22:50:58+00:00,closed,"['kind/bug', 'status/triage']"
+python-poetry/poetry,10237,2025-03-01 19:27:30+00:00,2025-03-30 06:04:37+00:00,closed,"['kind/bug', 'area/solver', 'impact/backport']"
+python-poetry/poetry,10228,2025-02-26 21:29:46+00:00,2025-02-28 14:06:39+00:00,closed,"['kind/feature', 'status/triage']"
+rq/rq,2227,2025-04-04 18:58:12+00:00,,open,[]
+rq/rq,2220,2025-03-28 10:31:40+00:00,,open,[]
+rq/rq,2219,2025-03-26 07:56:53+00:00,,open,[]
+rq/rq,2216,2025-03-25 10:51:29+00:00,,open,[]
+rq/rq,2213,2025-03-20 15:32:09+00:00,,open,[]
+rq/rq,2207,2025-03-15 13:14:34+00:00,,open,[]
+rq/rq,2206,2025-03-12 09:41:50+00:00,,open,[]
+rq/rq,2203,2025-03-11 14:33:22+00:00,,open,[]
+rq/rq,2202,2025-03-10 14:19:45+00:00,,open,[]
+rq/rq,2201,2025-03-10 11:08:09+00:00,,open,[]
+rq/rq,2197,2025-03-03 11:10:55+00:00,,open,[]
+rq/rq,2191,2025-02-23 03:59:32+00:00,,open,[]
+rq/rq,2189,2025-02-21 13:32:18+00:00,,open,[]
+rq/rq,2188,2025-02-12 11:06:58+00:00,,open,[]
+rq/rq,2186,2025-02-07 15:31:40+00:00,,open,[]
+rq/rq,2185,2025-02-07 09:59:45+00:00,,open,[]
+rq/rq,2184,2025-02-04 10:38:18+00:00,,open,[]
+rq/rq,2175,2025-01-07 08:28:45+00:00,,open,[]
+rq/rq,2174,2025-01-03 22:23:53+00:00,,open,[]
+rq/rq,2166,2024-12-25 13:27:11+00:00,,open,[]
+rq/rq,2162,2024-12-11 08:48:24+00:00,,open,[]
+rq/rq,2160,2024-12-05 18:51:40+00:00,,open,[]
+rq/rq,2156,2024-11-27 15:16:56+00:00,,open,[]
+rq/rq,2155,2024-11-27 10:36:18+00:00,,open,[]
+rq/rq,2144,2024-11-13 15:58:56+00:00,,open,[]
+rq/rq,2140,2024-11-07 06:04:13+00:00,,open,[]
+rq/rq,2135,2024-10-29 09:13:45+00:00,,open,[]
+rq/rq,2125,2024-09-13 08:34:41+00:00,,open,[]
+rq/rq,2124,2024-09-04 15:59:28+00:00,,open,[]
+rq/rq,2117,2024-08-14 10:13:33+00:00,,open,[]
+rq/rq,2116,2024-08-14 03:54:08+00:00,,open,[]
+rq/rq,2102,2024-07-02 07:34:25+00:00,,open,[]
+rq/rq,2099,2024-06-11 17:34:59+00:00,,open,[]
+rq/rq,2095,2024-06-03 03:40:26+00:00,,open,[]
+rq/rq,2093,2024-05-22 18:25:16+00:00,,open,[]
+rq/rq,2091,2024-05-17 05:55:32+00:00,,open,[]
+rq/rq,2089,2024-05-14 12:53:42+00:00,,open,[]
+rq/rq,2087,2024-05-11 08:47:20+00:00,,open,[]
+rq/rq,2086,2024-05-06 05:42:46+00:00,,open,[]
+rq/rq,2084,2024-05-02 14:16:22+00:00,,open,[]
+rq/rq,2080,2024-04-29 10:11:45+00:00,,open,[]
+rq/rq,2079,2024-04-29 06:20:55+00:00,,open,[]
+rq/rq,2078,2024-04-23 22:13:59+00:00,,open,[]
+rq/rq,2222,2025-04-01 07:24:42+00:00,2025-04-03 12:57:18+00:00,closed,[]
+rq/rq,2211,2025-03-17 03:08:30+00:00,2025-04-02 03:49:18+00:00,closed,[]
+rq/rq,2204,2025-03-11 15:14:18+00:00,2025-03-12 22:27:13+00:00,closed,[]
+rq/rq,2195,2025-03-01 16:48:47+00:00,2025-03-04 04:45:09+00:00,closed,[]
+rq/rq,2193,2025-02-25 21:58:16+00:00,2025-04-03 10:20:20+00:00,closed,[]
+rq/rq,2187,2025-02-10 20:25:23+00:00,2025-02-14 08:07:53+00:00,closed,[]
+rq/rq,2182,2025-01-24 03:01:45+00:00,2025-04-03 10:21:30+00:00,closed,[]
+rq/rq,2173,2025-01-02 12:46:32+00:00,2025-01-19 12:35:12+00:00,closed,[]
+rq/rq,2170,2024-12-28 14:24:04+00:00,2025-01-06 10:07:48+00:00,closed,[]
+rq/rq,2164,2024-12-20 14:29:48+00:00,2024-12-26 00:46:14+00:00,closed,[]
+rq/rq,2158,2024-11-30 11:57:27+00:00,2024-12-23 13:14:24+00:00,closed,[]
+rq/rq,2151,2024-11-18 16:25:29+00:00,2024-12-23 13:15:25+00:00,closed,[]
+rq/rq,2149,2024-11-16 12:30:31+00:00,2025-03-26 15:07:59+00:00,closed,[]
+pyca/cryptography,12733,2025-04-06 21:00:23+00:00,,open,['waiting-on-reporter']
+pyca/cryptography,12717,2025-04-03 07:19:44+00:00,,open,"['waiting-on-reporter', 'Stale']"
+pyca/cryptography,12698,2025-03-28 07:19:18+00:00,,open,[]
+pyca/cryptography,12657,2025-03-21 07:04:10+00:00,,open,[]
+pyca/cryptography,12610,2025-03-12 23:44:15+00:00,,open,[]
+pyca/cryptography,12554,2025-03-04 22:05:42+00:00,,open,['documentation']
+pyca/cryptography,12489,2025-02-19 22:33:55+00:00,,open,[]
+pyca/cryptography,12471,2025-02-15 17:27:02+00:00,,open,[]
+pyca/cryptography,12283,2025-01-14 18:36:28+00:00,,open,['api design']
+pyca/cryptography,12223,2025-01-02 17:30:43+00:00,,open,[]
+pyca/cryptography,12153,2024-12-16 14:15:33+00:00,,open,[]
+pyca/cryptography,12141,2024-12-13 14:38:45+00:00,,open,[]
+pyca/cryptography,12132,2024-12-11 18:29:56+00:00,,open,[]
+pyca/cryptography,12108,2024-12-06 01:03:16+00:00,,open,['documentation']
+pyca/cryptography,12104,2024-12-05 09:44:17+00:00,,open,[]
+pyca/cryptography,12094,2024-12-03 04:42:30+00:00,,open,[]
+pyca/cryptography,12018,2024-11-22 01:45:12+00:00,,open,[]
+pyca/cryptography,11548,2024-09-05 18:39:04+00:00,,open,[]
+pyca/cryptography,11437,2024-08-15 23:50:16+00:00,,open,['x509']
+pyca/cryptography,11199,2024-07-05 10:30:32+00:00,,open,['blocked-on-upstream']
+pyca/cryptography,11195,2024-07-04 10:47:07+00:00,,open,['x509']
+pyca/cryptography,10969,2024-05-12 19:13:56+00:00,,open,['api design']
+pyca/cryptography,10655,2024-03-27 13:17:47+00:00,,open,['api design']
+pyca/cryptography,10393,2024-02-14 13:43:48+00:00,,open,[]
+pyca/cryptography,10370,2024-02-08 22:53:09+00:00,,open,[]
+pyca/cryptography,10226,2024-01-22 07:52:33+00:00,,open,[]
+pyca/cryptography,9017,2023-06-02 16:46:03+00:00,,open,"['primitives', 'api design']"
+pyca/cryptography,8980,2023-05-29 01:45:30+00:00,,open,[]
+pyca/cryptography,7065,2022-04-13 08:26:27+00:00,,open,[]
+pyca/cryptography,6149,2021-06-30 15:13:48+00:00,,open,['primitives']
+pyca/cryptography,5659,2020-12-19 12:33:33+00:00,,open,[]
+pyca/cryptography,5557,2020-11-09 12:28:17+00:00,,open,['blocked-on-upstream']
+pyca/cryptography,2358,2015-09-20 18:57:18+00:00,,open,['recipes']
+pyca/cryptography,12729,2025-04-04 19:22:03+00:00,2025-04-07 14:00:21+00:00,closed,['waiting-on-reporter']
+pyca/cryptography,12724,2025-04-04 07:02:15+00:00,2025-04-04 12:05:18+00:00,closed,[]
+pyca/cryptography,12711,2025-04-01 08:42:22+00:00,2025-04-01 12:04:58+00:00,closed,[]
+pyca/cryptography,12684,2025-03-26 02:10:26+00:00,2025-04-03 06:48:19+00:00,closed,"['waiting-on-reporter', 'Stale']"
+arrow-py/arrow,1210,2025-04-03 10:56:50+00:00,,open,['bug']
+arrow-py/arrow,1209,2025-03-11 07:36:01+00:00,,open,['bug']
+arrow-py/arrow,1207,2025-01-19 21:31:53+00:00,,open,['bug']
+arrow-py/arrow,1191,2024-10-04 20:20:39+00:00,,open,['bug']
+arrow-py/arrow,1187,2024-09-18 12:45:37+00:00,,open,['bug']
+arrow-py/arrow,1185,2024-08-26 00:13:37+00:00,,open,['bug']
+arrow-py/arrow,1173,2024-05-20 00:55:47+00:00,,open,['bug']
+arrow-py/arrow,1170,2024-01-25 21:42:14+00:00,,open,['bug']
+arrow-py/arrow,1168,2023-12-18 14:37:44+00:00,,open,['enhancement']
+arrow-py/arrow,1162,2023-09-11 15:01:36+00:00,,open,['bug']
+arrow-py/arrow,1159,2023-08-04 03:03:13+00:00,,open,['bug']
+arrow-py/arrow,1158,2023-07-14 22:02:16+00:00,,open,['enhancement']
+arrow-py/arrow,1153,2023-04-27 02:41:31+00:00,,open,['bug']
+arrow-py/arrow,1150,2023-03-13 19:01:33+00:00,,open,['bug']
+arrow-py/arrow,1145,2022-11-30 09:23:33+00:00,,open,['enhancement']
+arrow-py/arrow,1144,2022-11-23 14:25:48+00:00,,open,['bug']
+arrow-py/arrow,1138,2022-10-27 16:43:36+00:00,,open,['enhancement']
+arrow-py/arrow,1136,2022-10-24 21:31:56+00:00,,open,['bug']
+arrow-py/arrow,1127,2022-10-02 18:56:15+00:00,,open,[]
+arrow-py/arrow,1125,2022-09-29 02:12:20+00:00,,open,['enhancement']
+arrow-py/arrow,1124,2022-09-09 14:30:21+00:00,,open,['bug']
+arrow-py/arrow,1117,2022-07-14 22:09:32+00:00,,open,['bug']
+arrow-py/arrow,1113,2022-06-21 03:06:02+00:00,,open,['bug']
+arrow-py/arrow,1111,2022-06-06 21:43:18+00:00,,open,['documentation']
+arrow-py/arrow,1109,2022-05-24 04:17:36+00:00,,open,['enhancement']
+arrow-py/arrow,1108,2022-05-22 14:50:09+00:00,,open,['bug']
+arrow-py/arrow,1106,2022-04-28 14:19:53+00:00,,open,['bug']
+arrow-py/arrow,1100,2022-03-24 16:09:20+00:00,,open,['enhancement']
+arrow-py/arrow,1097,2022-03-15 20:11:37+00:00,,open,['bug']
+arrow-py/arrow,1095,2022-03-01 09:23:44+00:00,,open,['bug']
+arrow-py/arrow,1094,2022-02-21 14:56:44+00:00,,open,['enhancement']
+arrow-py/arrow,1084,2022-01-13 19:12:36+00:00,,open,['bug']
+arrow-py/arrow,1083,2022-01-11 16:43:06+00:00,,open,['question for community']
+arrow-py/arrow,1081,2022-01-07 07:09:01+00:00,,open,['enhancement']
+arrow-py/arrow,1208,2025-02-16 18:20:21+00:00,2025-02-18 17:30:44+00:00,closed,[]
+arrow-py/arrow,1206,2025-01-18 17:52:49+00:00,2025-01-19 16:49:10+00:00,closed,['documentation']
+arrow-py/arrow,1178,2024-07-01 13:07:01+00:00,2024-08-24 00:49:30+00:00,closed,[]
+arrow-py/arrow,1175,2024-05-30 07:09:34+00:00,2024-11-17 19:26:33+00:00,closed,['enhancement']
+arrow-py/arrow,1169,2024-01-08 08:54:29+00:00,2024-08-24 00:43:37+00:00,closed,['enhancement']
+arrow-py/arrow,1167,2023-11-27 20:15:04+00:00,2024-07-09 04:48:11+00:00,closed,['documentation']
+arrow-py/arrow,1161,2023-08-14 04:03:34+00:00,2023-10-08 03:52:07+00:00,closed,['bug']
+arrow-py/arrow,1154,2023-04-30 16:08:26+00:00,2023-05-01 22:52:09+00:00,closed,[]
+arrow-py/arrow,1152,2023-04-24 19:03:42+00:00,2023-05-01 22:52:58+00:00,closed,['question']
+arrow-py/arrow,1151,2023-03-24 13:59:58+00:00,2023-03-27 10:48:21+00:00,closed,['bug']
+arrow-py/arrow,1148,2023-01-16 07:51:03+00:00,2023-05-01 22:47:49+00:00,closed,"['question', 'note']"
+arrow-py/arrow,1147,2023-01-15 11:20:34+00:00,2023-05-08 16:18:51+00:00,closed,[]
+arrow-py/arrow,1134,2022-10-15 18:09:30+00:00,2022-11-01 18:34:09+00:00,closed,['documentation']
+arrow-py/arrow,1128,2022-10-06 18:51:11+00:00,2022-11-03 03:09:33+00:00,closed,['documentation']
+gitpython-developers/GitPython,2020,2025-03-31 20:16:16+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2017,2025-03-19 14:18:38+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2016,2025-03-19 08:55:59+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2014,2025-03-13 19:35:52+00:00,,open,"['enhancement', 'help wanted']"
+gitpython-developers/GitPython,2013,2025-03-12 16:38:38+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2003,2025-02-16 16:36:35+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1999,2025-01-21 16:45:24+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1998,2025-01-20 08:31:04+00:00,,open,['enhancement']
+gitpython-developers/GitPython,1979,2024-11-22 14:58:45+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1977,2024-10-23 00:07:07+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1969,2024-10-14 07:35:26+00:00,,open,['help wanted']
+gitpython-developers/GitPython,1968,2024-10-08 11:50:22+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1962,2024-09-19 20:55:31+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1960,2024-09-06 14:53:00+00:00,,open,[]
+gitpython-developers/GitPython,1927,2024-06-04 20:10:21+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1923,2024-05-31 14:51:49+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1902,2024-04-15 15:18:44+00:00,,open,"['waiting for feedback', 'acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1891,2024-03-31 23:39:41+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1882,2024-03-20 15:07:11+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1863,2024-03-11 14:53:02+00:00,,open,['help wanted']
+gitpython-developers/GitPython,1848,2024-02-27 17:27:07+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1834,2024-02-20 23:39:26+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1805,2024-01-18 12:13:46+00:00,,open,['waiting for feedback']
+gitpython-developers/GitPython,1790,2024-01-08 23:10:49+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1771,2023-12-13 09:22:29+00:00,,open,['acknowledged']
+gitpython-developers/GitPython,1762,2023-12-10 08:30:22+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1756,2023-12-03 23:04:39+00:00,,open,['acknowledged']
+gitpython-developers/GitPython,1711,2023-10-16 10:34:03+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1710,2023-10-16 09:36:21+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1676,2023-09-21 11:45:41+00:00,,open,[]
+gitpython-developers/GitPython,1631,2023-08-22 12:55:17+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1626,2023-08-03 23:38:21+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1624,2023-07-29 18:39:04+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1601,2023-06-28 11:04:48+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1582,2023-05-03 19:11:43+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1552,2023-02-05 19:39:11+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1548,2023-01-25 11:58:24+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1539,2023-01-13 16:55:19+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1505,2022-10-28 16:14:54+00:00,,open,[]
+gitpython-developers/GitPython,1489,2022-09-07 08:24:24+00:00,,open,"['waiting for feedback', 'Q&A']"
+gitpython-developers/GitPython,1483,2022-08-25 03:04:40+00:00,,open,['waiting for feedback']
+gitpython-developers/GitPython,1475,2022-08-06 02:49:39+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1472,2022-07-25 09:09:32+00:00,,open,"['acknowledged', 'help wanted', 'c-typing']"
+gitpython-developers/GitPython,1447,2022-05-25 16:43:34+00:00,,open,[]
+gitpython-developers/GitPython,1439,2022-05-11 16:39:45+00:00,,open,['waiting for feedback']
+gitpython-developers/GitPython,1422,2022-04-05 02:58:01+00:00,,open,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2005,2025-02-20 19:52:18+00:00,2025-03-12 13:43:12+00:00,closed,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2004,2025-02-20 18:58:34+00:00,2025-03-12 11:47:35+00:00,closed,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,2001,2025-02-07 20:15:40+00:00,2025-02-08 15:12:17+00:00,closed,[]
+gitpython-developers/GitPython,1995,2025-01-09 16:03:58+00:00,2025-01-10 07:42:16+00:00,closed,"['acknowledged', 'help wanted']"
+gitpython-developers/GitPython,1984,2024-12-11 09:45:05+00:00,2024-12-11 10:56:59+00:00,closed,[]
+gitpython-developers/GitPython,1982,2024-12-10 03:50:45+00:00,2024-12-10 06:11:35+00:00,closed,[]
+gitpython-developers/GitPython,1978,2024-11-19 16:08:01+00:00,2024-11-19 20:24:58+00:00,closed,[]
+gitpython-developers/GitPython,1964,2024-10-03 20:08:08+00:00,2024-10-04 05:10:19+00:00,closed,[]
+gitpython-developers/GitPython,1963,2024-10-03 08:45:59+00:00,2024-10-05 09:24:48+00:00,closed,['waiting for feedback']
+gitpython-developers/GitPython,1958,2024-08-22 13:01:44+00:00,2024-08-22 17:02:53+00:00,closed,[]
+gitpython-developers/GitPython,1957,2024-08-18 18:44:34+00:00,2024-08-18 19:57:14+00:00,closed,['acknowledged']
+redis/redis-py,3583,2025-04-03 09:43:34+00:00,,open,[]
+redis/redis-py,3582,2025-04-02 03:55:34+00:00,,open,[]
+redis/redis-py,3581,2025-04-02 01:04:34+00:00,,open,['need more info']
+redis/redis-py,3574,2025-03-26 20:33:55+00:00,,open,[]
+redis/redis-py,3573,2025-03-25 13:48:06+00:00,,open,['bug']
+redis/redis-py,3572,2025-03-25 13:21:33+00:00,,open,[]
+redis/redis-py,3571,2025-03-25 06:51:02+00:00,,open,"['need more info', 'question']"
+redis/redis-py,3569,2025-03-19 17:05:39+00:00,,open,[]
+redis/redis-py,3565,2025-03-18 09:16:28+00:00,,open,[]
+redis/redis-py,3560,2025-03-14 18:37:28+00:00,,open,[]
+redis/redis-py,3558,2025-03-13 01:56:32+00:00,,open,[]
+redis/redis-py,3555,2025-03-12 14:21:59+00:00,,open,[]
+redis/redis-py,3547,2025-03-07 10:09:05+00:00,,open,[]
+redis/redis-py,3546,2025-03-06 18:32:32+00:00,,open,[]
+redis/redis-py,3543,2025-03-05 16:42:02+00:00,,open,[]
+redis/redis-py,3519,2025-02-20 23:10:57+00:00,,open,[]
+redis/redis-py,3478,2025-01-11 02:18:14+00:00,,open,[]
+redis/redis-py,3455,2024-12-12 10:20:16+00:00,,open,[]
+redis/redis-py,3454,2024-12-09 20:51:34+00:00,,open,[]
+redis/redis-py,3453,2024-12-09 15:24:10+00:00,,open,[]
+redis/redis-py,3450,2024-12-05 19:27:55+00:00,,open,[]
+redis/redis-py,3444,2024-11-27 12:13:13+00:00,,open,[]
+redis/redis-py,3443,2024-11-27 00:29:36+00:00,,open,[]
+redis/redis-py,3433,2024-11-14 17:25:45+00:00,,open,[]
+redis/redis-py,3430,2024-11-08 13:37:30+00:00,,open,[]
+redis/redis-py,3429,2024-11-08 10:34:06+00:00,,open,[]
+redis/redis-py,3427,2024-11-08 02:42:59+00:00,,open,[]
+redis/redis-py,3425,2024-11-07 08:36:28+00:00,,open,[]
+redis/redis-py,3421,2024-11-02 14:49:44+00:00,,open,[]
+redis/redis-py,3416,2024-10-17 13:22:41+00:00,,open,[]
+redis/redis-py,3414,2024-10-14 22:09:11+00:00,,open,[]
+redis/redis-py,3411,2024-10-11 15:04:16+00:00,,open,[]
+redis/redis-py,3386,2024-09-26 19:03:56+00:00,,open,[]
+redis/redis-py,3384,2024-09-26 13:23:07+00:00,,open,[]
+redis/redis-py,3382,2024-09-24 00:33:53+00:00,,open,[]
+redis/redis-py,3371,2024-09-05 09:42:56+00:00,,open,[]
+redis/redis-py,3577,2025-03-27 10:14:34+00:00,2025-03-31 06:10:33+00:00,closed,[]
+redis/redis-py,3575,2025-03-27 09:53:30+00:00,2025-03-27 11:20:15+00:00,closed,[]
+redis/redis-py,3566,2025-03-18 20:35:02+00:00,2025-03-21 20:58:44+00:00,closed,[]
+redis/redis-py,3561,2025-03-15 01:16:35+00:00,2025-03-17 19:00:28+00:00,closed,[]
+redis/redis-py,3554,2025-03-12 11:42:13+00:00,2025-03-19 13:30:53+00:00,closed,[]
+redis/redis-py,3552,2025-03-11 20:14:27+00:00,2025-03-19 08:02:19+00:00,closed,[]
+redis/redis-py,3549,2025-03-07 11:39:32+00:00,2025-03-24 09:21:07+00:00,closed,[]
+redis/redis-py,3540,2025-03-04 10:19:17+00:00,2025-03-06 04:27:37+00:00,closed,[]
+redis/redis-py,3536,2025-02-27 18:21:38+00:00,2025-02-28 15:16:15+00:00,closed,[]
+redis/redis-py,3535,2025-02-27 09:31:18+00:00,2025-03-04 09:34:20+00:00,closed,[]
+redis/redis-py,3532,2025-02-27 02:06:34+00:00,2025-03-10 09:55:58+00:00,closed,[]
